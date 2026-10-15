@@ -1,0 +1,50 @@
+- Academy of Management Annals
+- Academy of Management Journal
+- Academy of Management Review
+- Accounting Review
+- Accounting, Organizations and Society
+- Administrative Science Quarterly
+- American Economic Review
+- American Sociological Review
+- Contemporary Accounting Research
+- Econometrica
+- Entrepreneurship Theory and Practice
+- Harvard Business Review
+- Human Resource Management
+- Information Systems Research
+- Journal of Accounting and Economics
+- Journal of Accounting Research
+- Journal of Applied Psychology
+- Journal of Business Venturing
+- Journal of Consumer Psychology
+- Journal of Consumer Research
+- Journal of Finance
+- Journal of Financial and Quantitative Analysis
+- Journal of Financial Economics
+- Journal of International Business Studies
+- Journal of Management
+- Journal of Management Information Systems
+- Journal of Management Studies
+- Journal of Marketing
+- Journal of Marketing Research
+- Journal of Operations Management
+- Journal of Political Economy
+- Journal of the Academy of Marketing Science
+- Management Science
+- Manufacturing & Service Operations Management
+- Marketing Science
+- MIS Quarterly
+- MIT Sloan Management Review
+- Operations Research
+- Organization Science
+- Organizational Behavior and Human Decision Processes
+- Production and Operations Management
+- Psychological Science
+- Quarterly Journal of Economics
+- Research Policy
+- Review of Accounting Studies
+- Review of Economic Studies
+- Review of Finance
+- Review of Financial Studies
+- Strategic Entrepreneurship Journal
+- Strategic Management Journal

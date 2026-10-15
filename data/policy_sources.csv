@@ -1,0 +1,23 @@
+source_id,entity,level,url,status,notes
+P-ELS,Elsevier,publisher,https://www.elsevier.com/about/policies-and-standards/generative-ai-policies-for-journals,found,Covers authors reviewers editors
+P-WIL,Wiley,publisher,https://www.wiley.com/en-us/publish/article/ai-guidelines/,found,Blocks simple fetchers; needs headless scraper. Editor/reviewer FAQ: https://www.wiley.com/en-us/publishing/article/editors-and-reviewers/resources/editor-faqs-for-ai-researcher-guidelines
+P-SAG,SAGE,publisher,https://www.sagepub.com/journals/publication-ethics-policies/artificial-intelligence-policy,verified,Linked as governing policy by AMA journals
+P-OUP,Oxford University Press,publisher,https://academic.oup.com/pages/for-authors/journals/preparing-and-submitting-your-manuscript/ai-principles-for-oxford-journals/policy-on-ai-use-and-disclosure-for-oxford-journals-authors,found,Updated Sept 2026; principles page one level up
+P-SPR,Springer Nature,publisher,https://www.springer.com/gp/editorial-policies/artificial-intelligence--ai-/25428500,found,Palgrave variant for JIBS: https://www.springer.com/gp/palgrave/editorial-policies/artificial-intelligence--ai-/25429434 (verify path)
+P-EME,Emerald,publisher,https://www.emerald.com/publish-with-us/pages/publication-ethics,found,AI section sits inside general ethics page
+P-TF,Taylor & Francis,publisher,https://taylorandfrancis.com/our-policies/ai-policy/,found,
+P-CUP,Cambridge University Press,publisher,https://www.cambridge.org/authorhub/application/files/7617/2743/0832/AI_Policy_for_Content_Creators.pdf,found,PDF; needs PDF parsing
+P-UCP,University of Chicago Press,publisher,https://press.uchicago.edu/resource/ai_guidelines.html,to_verify,Unclear whether it covers journals or books only
+P-INF,INFORMS,publisher,https://pubsonline.informs.org/authorportal/publication-ethics,verified,Authors only (section Authorship Misrepresentation); reviewer rules are set per journal
+P-AOM,Academy of Management,publisher,https://www.aom.org/publications/journals/publishing-with-aom/aom-artificial-intelligence-policy/,found,
+P-AEA,American Economic Association,journal,https://www.aeaweb.org/journals/aer/editorial-policy,verified,Use of AI section; authors and referees
+P-APA,American Psychological Association,publisher,https://www.apa.org/pubs/journals/resources/publishing-policies,found,Extra guidance: https://www.apa.org/pubs/journals/resources/publishing-tips/policy-generative-ai
+P-AAA,American Accounting Association,publisher,https://aaahq.org/portals/0/documents/journals/Editorial-Policies/Publication%20Ethics/PUB-009%20Publications%20Ethics_AI%20and%20AI-assisted%20writing%20-%20authors%20only.pdf,found,PDF; authors only
+S-AMA,American Marketing Association,society,https://www.ama.org/ama-journals-editorial-policies-procedures/,verified,Defers to SAGE for authors; bans reviewers from entering manuscripts into GenAI; page updated Oct 2026
+S-ECTA,Econometric Society,society,https://www.econometricsociety.org/publications/econometrica/editorial-procedures-and-policies,verified,Section 5 AI Policy; authors only
+J-MNSC,Management Science,journal,https://pubsonline.informs.org/page/mnsc/submission-guidelines,verified,Authors and review team rules
+J-MKSC,Marketing Science,journal,https://pubsonline.informs.org/page/mksc/submission-guidelines,verified,Reviewer rules on https://pubsonline.informs.org/page/mksc/review-process
+J-MSOM,Manufacturing & Service Operations Management,journal,https://pubsonline.informs.org/journal/msom/aipolicy,found,
+J-OPRE,Operations Research,journal,https://pubsonline.informs.org/page/opre/generative-ai-guidelines,verified,Reviewer/editor confidentiality rules
+J-JMS,Journal of Management Studies,journal,https://car.aom.org/discussion/jms-launches-new-policy-on-the-use-of-ai-in-research,to_verify,Announcement only; locate policy on JMS/Wiley site
+J-MISQ,MIS Quarterly,journal,https://misq.umn.edu/misq/article/47/3/i/3416/Editor-s-CommentsEditing-Innovation-in-MIS,to_verify,Only 2023 editorial interim guidance found

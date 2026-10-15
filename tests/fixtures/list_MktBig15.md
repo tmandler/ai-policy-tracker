@@ -1,0 +1,15 @@
+- Marketing Science
+- Journal of Marketing
+- Journal of Marketing Research
+- Journal of Consumer Research
+- Journal of Consumer Psychology
+- Journal of the Academy of Marketing Science
+- International Journal of Research in Marketing
+- Journal of Retailing
+- Journal of Service Research
+- Industrial Marketing Management
+- European Journal of Marketing
+- Psychology & Marketing
+- Journal of Interactive Marketing
+- Journal of Public Policy & Marketing
+- Journal of International Marketing
