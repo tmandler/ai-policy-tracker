@@ -1,0 +1,20 @@
+{
+  "generated": "2026-10-15T00:00:00+00:00",
+  "labels": {
+    "author_use": "Authors may use generative AI in preparing manuscripts",
+    "disclosure_required": "Authors must disclose AI use ('partial' = only some uses, e.g. not copy-editing)",
+    "ai_as_author": "AI tools may be listed as authors",
+    "ai_images": "AI-generated images/figures",
+    "reviewer_use": "Reviewers may use generative AI in reviewing",
+    "reviewer_upload": "Reviewers may upload manuscripts or parts of them into AI tools",
+    "editor_use": "Editors may use generative AI in editorial work"
+  },
+  "journals": [],
+  "sources": {},
+  "changes": [],
+  "stats": {
+    "journals": 0,
+    "sources": 0,
+    "verified": 0
+  }
+}

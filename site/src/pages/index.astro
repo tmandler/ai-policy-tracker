@@ -1,0 +1,119 @@
+---
+import Base from "../layouts/Base.astro";
+import data from "../data/tracker.json";
+import { COLUMNS, VALUE_LABELS, VALUE_TONE, LEVEL_LABELS, fmtDate } from "../lib/format.js";
+
+const { journals, sources, stats, generated } = data;
+const publishers = [...new Set(journals.map((j) => j.publisher))].sort();
+const fields = [...new Set(journals.map((j) => j.field).filter(Boolean))].sort();
+const lists = [...new Set(journals.flatMap((j) => j.lists))].sort();
+---
+<Base title="AI Policy Tracker · Business & marketing journals">
+  <section class="intro">
+    <h1>What journals say about generative AI</h1>
+    <p class="lede">
+      AI rules for {stats.journals} FT50 and Marketing Big 15 journals, read from {stats.sources} publisher, society and
+      journal policy pages. Checked weekly; last update {fmtDate(generated.slice(0, 10))}.
+    </p>
+  </section>
+
+  <section class="filters" aria-label="Filters">
+    <input id="q" type="search" placeholder="Search journal or publisher" aria-label="Search" />
+    <select id="f-list" aria-label="List"><option value="">All lists</option>{lists.map((l) => <option>{l}</option>)}</select>
+    <select id="f-pub" aria-label="Publisher"><option value="">All publishers</option>{publishers.map((p) => <option>{p}</option>)}</select>
+    <select id="f-field" aria-label="Field"><option value="">All fields</option>{fields.map((f) => <option>{f}</option>)}</select>
+    <span id="count" class="count"></span>
+  </section>
+
+  <div class="legend">
+    <span class="pill ok">Allowed</span><span class="pill warn">With conditions / required</span>
+    <span class="pill bad">Prohibited</span><span class="pill none">Not stated</span>
+  </div>
+
+  <div class="table-scroll">
+    <table class="policies">
+      <thead>
+        <tr><th>Journal</th>{COLUMNS.map(([, l]) => <th>{l}</th>)}</tr>
+      </thead>
+      {journals.map((j) => (
+        <tbody class="jrow" data-search={`${j.journal} ${j.abbrev} ${j.publisher} ${j.society}`.toLowerCase()}
+          data-lists={j.lists.join("|")} data-pub={j.publisher} data-field={j.field}>
+          <tr class="summary-row" tabindex="0" aria-expanded="false">
+            <th scope="row">
+              <span class="jname">{j.journal}</span>
+              <span class="jmeta">{j.publisher}{j.needs_review && <span class="flag" title="Being reviewed">●</span>}</span>
+            </th>
+            {COLUMNS.map(([k]) => {
+              const v = j.effective[k].value;
+              return <td><span class={`pill ${VALUE_TONE[v] ?? "none"}`}>{VALUE_LABELS[v] ?? v}</span></td>;
+            })}
+          </tr>
+          <tr class="detail-row" hidden>
+            <td colspan={COLUMNS.length + 1}>
+              <div class="detail">
+                <p class="tags">{j.lists.map((l) => <span class="tag">{l}</span>)}{j.field && <span class="tag">{j.field}</span>}</p>
+                {j.layers.length === 0 && <p class="muted">No public AI policy found for this journal or its publisher.</p>}
+                {j.layers.map((sid) => {
+                  const s = sources[sid];
+                  return (
+                    <div class="layer">
+                      <div class="layer-head">
+                        <span class="level">{LEVEL_LABELS[s.level]}</span>
+                        <strong>{s.entity}</strong>
+                        {s.verified ? <span class="tag ok-tag">verified source</span> : <span class="tag">auto-checked source</span>}
+                      </div>
+                      {s.summary && <p>{s.summary}</p>}
+                      {s.evidence.length > 0 && (
+                        <ul class="evidence">{s.evidence.slice(0, 4).map((e) => <li>“{e.quote}”</li>)}</ul>
+                      )}
+                      <p class="muted small">
+                        <a href={s.url} rel="noopener" target="_blank">Read the policy</a> · checked {fmtDate(s.last_checked)}
+                        {s.last_policy_change && <> · last change {fmtDate(s.last_policy_change)}</>}
+                        {s.page_last_updated && <> · page dated {s.page_last_updated}</>}
+                      </p>
+                    </div>
+                  );
+                })}
+                {j.note && <p class="muted small">{j.note}</p>}
+              </div>
+            </td>
+          </tr>
+        </tbody>
+      ))}
+    </table>
+  </div>
+
+  <script>
+    const q = document.getElementById("q");
+    const fl = document.getElementById("f-list");
+    const fp = document.getElementById("f-pub");
+    const ff = document.getElementById("f-field");
+    const count = document.getElementById("count");
+    const rows = [...document.querySelectorAll(".jrow")];
+    function apply() {
+      const term = q.value.trim().toLowerCase();
+      let n = 0;
+      for (const r of rows) {
+        const ok = (!term || r.dataset.search.includes(term)) &&
+          (!fl.value || r.dataset.lists.split("|").includes(fl.value)) &&
+          (!fp.value || r.dataset.pub === fp.value) &&
+          (!ff.value || r.dataset.field === ff.value);
+        r.hidden = !ok;
+        if (ok) n++;
+      }
+      count.textContent = `${n} journal${n === 1 ? "" : "s"}`;
+    }
+    [q, fl, fp, ff].forEach((el) => el.addEventListener("input", apply));
+    for (const r of rows) {
+      const head = r.querySelector(".summary-row");
+      const toggle = () => {
+        const d = r.querySelector(".detail-row");
+        d.hidden = !d.hidden;
+        head.setAttribute("aria-expanded", String(!d.hidden));
+      };
+      head.addEventListener("click", toggle);
+      head.addEventListener("keydown", (e) => { if (e.key === "Enter" || e.key === " ") { e.preventDefault(); toggle(); } });
+    }
+    apply();
+  </script>
+</Base>

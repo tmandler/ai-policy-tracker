@@ -1,0 +1,33 @@
+---
+import Base from "../layouts/Base.astro";
+import data from "../data/tracker.json";
+const { labels } = data;
+---
+<Base title="Method · AI Policy Tracker">
+  <section class="intro prose">
+    <h1>How the tracker works</h1>
+    <p class="lede">Everything below runs automatically once a week.</p>
+
+    <h2>1. Which journals</h2>
+    <p>The tracker covers the Financial Times FT50 list and the Marketing Big 15 list from MKTBig15. Both lists are
+      re-read every week, so journals added to or dropped from either list appear or disappear here automatically.
+      Each journal's publisher is checked against Crossref to catch publisher moves.</p>
+
+    <h2>2. Where the rules come from</h2>
+    <p>Most journals follow their publisher's AI policy. Some societies and journals add their own rules on top,
+      for example on what reviewers may do. Each journal is shown with all the layers that apply to it. Where a
+      society or journal rule exists, it takes precedence over the publisher's for that point.</p>
+
+    <h2>3. Reading the policies</h2>
+    <p>Each policy page is downloaded weekly. If its text has changed, a language model reads it again and records
+      the points below. A change is reported only when one of these points changes, not when a page is merely
+      reworded.</p>
+    <ul>{Object.entries(labels).map(([, l]) => <li>{l}</li>)}</ul>
+    <p>“Not stated” means the page does not address the point; it does not mean the use is allowed.</p>
+
+    <h2>4. Limits</h2>
+    <p>Policy pages are written for humans and are often vague, so automatic reading can be wrong. Sources marked
+      “verified” have been checked by hand; others were found or read automatically. Always follow the linked
+      source page.</p>
+  </section>
+</Base>

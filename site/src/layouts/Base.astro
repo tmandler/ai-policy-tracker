@@ -1,0 +1,35 @@
+---
+import "../styles/global.css";
+const { title, description = "Weekly-updated tracker of generative AI policies at leading business and marketing journals." } = Astro.props;
+const path = Astro.url.pathname;
+const nav = [["/", "Policies"], ["/changes/", "Changes"], ["/about/", "Method"]];
+---
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="wrap header-inner">
+        <a class="brand" href="/">AI Policy Tracker<span>for academic journals</span></a>
+        <nav>
+          {nav.map(([href, label]) => (
+            <a href={href} class={path === href ? "active" : ""}>{label}</a>
+          ))}
+        </nav>
+      </div>
+    </header>
+    <main class="wrap"><slot /></main>
+    <footer class="wrap site-footer">
+      Summaries are generated automatically from publisher and journal pages and may contain errors. The linked
+      source page always prevails.
+    </footer>
+  </body>
+</html>

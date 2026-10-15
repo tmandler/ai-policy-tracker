@@ -1,0 +1,42 @@
+---
+import Base from "../layouts/Base.astro";
+import data from "../data/tracker.json";
+import { fmtDate, VALUE_LABELS } from "../lib/format.js";
+
+const { changes, sources, labels } = data;
+const shown = changes.filter((c) => c.type !== "fetch_failing");
+const name = (c) => c.entity ?? sources[c.source_id]?.entity ?? c.journal ?? c.source_id;
+const describe = {
+  policy_added: () => "Policy added to the tracker",
+  policy_changed: () => "Policy changed",
+  journal_added_to_list: (c) => `Added to ${c.list}`,
+  journal_removed_from_list: (c) => `Removed from ${c.list}`,
+  publisher_changed: (c) => `Publisher changed from ${c.old} to ${c.new}`,
+  source_discovered: () => "New policy page found",
+  source_moved: () => "Policy page moved to a new address",
+};
+---
+<Base title="Changes · AI Policy Tracker">
+  <section class="intro">
+    <h1>Changes</h1>
+    <p class="lede">Every policy change, list change and publisher move the weekly check has picked up.</p>
+  </section>
+  {shown.length === 0 && <p class="muted">No changes recorded yet.</p>}
+  <ol class="changes">
+    {shown.map((c) => (
+      <li>
+        <time>{fmtDate(c.date)}</time>
+        <div>
+          <strong>{name(c)}</strong> · {(describe[c.type] ?? (() => c.type))(c)}
+          {c.fields && (
+            <ul class="diff">
+              {Object.entries(c.fields).map(([k, [a, b]]) => (
+                <li>{labels[k] ?? k}: <s>{VALUE_LABELS[a] ?? a}</s> → <b>{VALUE_LABELS[b] ?? b}</b></li>
+              ))}
+            </ul>
+          )}
+        </div>
+      </li>
+    ))}
+  </ol>
+</Base>
