@@ -1,0 +1,19 @@
+{
+  "FT50": {
+    "url": "https://www.ft.com/ft50-journals",
+    "description": "The 50 journals used by the Financial Times in its research rank (FT50)",
+    "min": 45,
+    "max": 55
+  },
+  "MktBig15": {
+    "url": "https://www.mktbig15.com/",
+    "description": "The 15 journals in the 'Marketing Big15' journal list of the MKTBig15 ranking site (the journal filter, not the other lists)",
+    "min": 12,
+    "max": 20
+  },
+  "_title_aliases": {
+    "Sloan Management Review": "MIT Sloan Management Review",
+    "Manufacturing and Service Operations Management": "Manufacturing & Service Operations Management",
+    "Accounting Review": "The Accounting Review"
+  }
+}
