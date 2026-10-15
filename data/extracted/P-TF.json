@@ -1,0 +1,51 @@
+{
+  "author_use": "allowed_with_conditions",
+  "disclosure_required": "yes",
+  "ai_as_author": "prohibited",
+  "ai_images": "allowed_with_conditions",
+  "reviewer_use": "allowed_with_conditions",
+  "reviewer_upload": "prohibited",
+  "editor_use": "allowed_with_conditions",
+  "disclosure_location": [
+    "dedicated_statement",
+    "other"
+  ],
+  "summary": "Taylor & Francis permits authors to use generative AI responsibly for tasks like idea generation, copyediting, translation, literature classification and coding help, provided they review outputs, disclose the tool, version, how and why it was used, and never list AI as an author. AI may help with data visualisations and conceptual illustrations but not create or manipulate research results or clinical/diagnostic images. Editors and peer reviewers must not upload unpublished manuscripts into AI tools; reviewers may only use AI to improve the language of their reports, and editors should check with T&F before using any tool.",
+  "evidence": [
+    {
+      "field": "author_use",
+      "quote": "Taylor & Francis supports the responsible use of Generative AI tools that respect high standards of data security, confidentiality, and copyright protection"
+    },
+    {
+      "field": "disclosure_required",
+      "quote": "Authors must clearly acknowledge within the article or book any use of Generative AI tools"
+    },
+    {
+      "field": "ai_as_author",
+      "quote": "Generative AI tools must not be listed as an author"
+    },
+    {
+      "field": "ai_images",
+      "quote": "does not permit the use of Generative AI in the creation or manipulation of outputs of research or clinical testing"
+    },
+    {
+      "field": "reviewer_use",
+      "quote": "Generative AI may be utilised to assist with improving review language."
+    },
+    {
+      "field": "reviewer_upload",
+      "quote": "peer reviewers must not upload unpublished manuscripts or project proposals, including any associated files, images, or information, into Generative AI tools."
+    },
+    {
+      "field": "editor_use",
+      "quote": "Editors should check with their Taylor & Francis contact prior to using any Generative AI tools"
+    }
+  ],
+  "page_last_updated": "",
+  "confidence": "high",
+  "is_ai_policy": true,
+  "source_id": "P-TF",
+  "content_hash": "36afe03c9e5aeb7a",
+  "extracted_at": "2026-10-15T14:29:29+00:00",
+  "model": "claude-sonnet-5-5"
+}

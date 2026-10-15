@@ -2,61 +2,64 @@
   "_discovery": {
     "pub:Harvard Business Publishing": "2026-10-15",
     "pub:MIS Research Center (Univ. of Minnesota)": "2026-10-15",
-    "pub:MIT Sloan School of Management": "2026-10-15"
+    "pub:MIT Sloan School of Management": "2026-10-15",
+    "jrnl:Harvard Business Review": "2026-10-15",
+    "jrnl:Journal of Political Economy": "2026-10-15",
+    "jrnl:MIT Sloan Management Review": "2026-10-15"
   },
   "P-ELS": {
     "hash": "2e2b6a17a5c04b80",
     "failures": 0,
-    "last_checked": "2026-10-15T14:03:35+00:00",
+    "last_checked": "2026-10-15T14:17:48+00:00",
     "previous_hash": "",
     "last_text_change": "2026-10-15"
   },
   "P-WIL": {
     "hash": "33bddabae8bc6315",
     "failures": 0,
-    "last_checked": "2026-10-15T14:03:38+00:00",
+    "last_checked": "2026-10-15T14:17:57+00:00",
     "previous_hash": "",
     "last_text_change": "2026-10-15"
   },
   "P-SAG": {
-    "hash": "87a2214d8b857c73",
+    "hash": "886d55af4da20ead",
     "failures": 0,
-    "last_checked": "2026-10-15T14:03:42+00:00",
-    "previous_hash": "",
+    "last_checked": "2026-10-15T14:18:04+00:00",
+    "previous_hash": "87a2214d8b857c73",
     "last_text_change": "2026-10-15"
   },
   "P-OUP": {
     "hash": "527f4577060d5869",
     "failures": 0,
-    "last_checked": "2026-10-15T14:03:47+00:00",
+    "last_checked": "2026-10-15T14:18:12+00:00",
     "previous_hash": "",
     "last_text_change": "2026-10-15"
   },
   "P-SPR": {
     "hash": "ac522a0e808e808d",
     "failures": 0,
-    "last_checked": "2026-10-15T14:03:57+00:00",
+    "last_checked": "2026-10-15T14:18:19+00:00",
     "previous_hash": "",
     "last_text_change": "2026-10-15"
   },
   "P-EME": {
     "hash": "a40beb8eb73e6bb8",
     "failures": 0,
-    "last_checked": "2026-10-15T14:04:03+00:00",
+    "last_checked": "2026-10-15T14:18:26+00:00",
     "previous_hash": "",
     "last_text_change": "2026-10-15"
   },
   "P-TF": {
     "hash": "36afe03c9e5aeb7a",
     "failures": 0,
-    "last_checked": "2026-10-15T14:04:05+00:00",
+    "last_checked": "2026-10-15T14:18:34+00:00",
     "previous_hash": "",
     "last_text_change": "2026-10-15"
   },
   "P-CUP": {
     "hash": "",
-    "failures": 1,
-    "last_checked": "2026-10-15T14:04:08+00:00",
+    "failures": 2,
+    "last_checked": "2026-10-15T14:18:41+00:00",
     "last_error": "firecrawl http 500"
   },
   "P-UCP": {
@@ -69,88 +72,105 @@
   "P-INF": {
     "hash": "6179f6c85f961c6f",
     "failures": 0,
-    "last_checked": "2026-10-15T14:05:14+00:00",
+    "last_checked": "2026-10-15T14:26:25+00:00",
     "previous_hash": "",
     "last_text_change": "2026-10-15"
   },
   "P-AOM": {
     "hash": "5e9b26cbc65d8262",
     "failures": 0,
-    "last_checked": "2026-10-15T14:05:17+00:00",
+    "last_checked": "2026-10-15T14:26:32+00:00",
     "previous_hash": "",
     "last_text_change": "2026-10-15"
   },
   "P-AEA": {
     "hash": "569e584a06689e75",
     "failures": 0,
-    "last_checked": "2026-10-15T14:05:19+00:00",
+    "last_checked": "2026-10-15T14:26:40+00:00",
     "previous_hash": "",
     "last_text_change": "2026-10-15"
   },
   "P-APA": {
     "hash": "b4b56d5b4e1f0cfa",
     "failures": 0,
-    "last_checked": "2026-10-15T14:05:23+00:00",
+    "last_checked": "2026-10-15T14:26:47+00:00",
     "previous_hash": "",
     "last_text_change": "2026-10-15"
   },
   "P-AAA": {
-    "hash": "ba94bb957afca953",
+    "hash": "c092d5ba61835674",
     "failures": 0,
-    "last_checked": "2026-10-15T14:05:25+00:00",
-    "previous_hash": "",
+    "last_checked": "2026-10-15T14:26:54+00:00",
+    "previous_hash": "ba94bb957afca953",
     "last_text_change": "2026-10-15"
   },
   "S-AMA": {
     "hash": "c2888e532c313bff",
     "failures": 0,
-    "last_checked": "2026-10-15T14:05:30+00:00",
+    "last_checked": "2026-10-15T14:27:01+00:00",
     "previous_hash": "",
     "last_text_change": "2026-10-15"
   },
   "S-ECTA": {
     "hash": "07dea0980316d85b",
     "failures": 0,
-    "last_checked": "2026-10-15T14:05:34+00:00",
+    "last_checked": "2026-10-15T14:27:09+00:00",
     "previous_hash": "",
     "last_text_change": "2026-10-15"
   },
   "J-MNSC": {
     "hash": "eb9e74599ccbb6f7",
     "failures": 0,
-    "last_checked": "2026-10-15T14:05:38+00:00",
+    "last_checked": "2026-10-15T14:27:16+00:00",
     "previous_hash": "",
     "last_text_change": "2026-10-15"
   },
   "J-MKSC": {
     "hash": "6403c5e3413880da",
     "failures": 0,
-    "last_checked": "2026-10-15T14:05:41+00:00",
+    "last_checked": "2026-10-15T14:27:23+00:00",
     "previous_hash": "",
     "last_text_change": "2026-10-15"
   },
   "J-MSOM": {
-    "hash": "",
-    "failures": 1,
-    "last_checked": "2026-10-15T14:05:43+00:00",
-    "last_error": "firecrawl http 429"
+    "hash": "6420576502768833",
+    "failures": 0,
+    "last_checked": "2026-10-15T14:27:30+00:00",
+    "previous_hash": "",
+    "last_text_change": "2026-10-15"
   },
   "J-OPRE": {
-    "hash": "",
-    "failures": 1,
-    "last_checked": "2026-10-15T14:05:45+00:00",
-    "last_error": "firecrawl http 429"
+    "hash": "18a0b5ecd3845785",
+    "failures": 0,
+    "last_checked": "2026-10-15T14:27:46+00:00",
+    "previous_hash": "",
+    "last_text_change": "2026-10-15"
   },
   "J-JMS": {
     "hash": "",
-    "failures": 1,
-    "last_checked": "2026-10-15T14:05:47+00:00",
-    "last_error": "firecrawl http 429"
+    "failures": 2,
+    "last_checked": "2026-10-15T14:27:53+00:00",
+    "last_error": "page does not mention AI"
   },
   "J-MISQ": {
-    "hash": "",
-    "failures": 1,
-    "last_checked": "2026-10-15T14:05:50+00:00",
-    "last_error": "firecrawl http 429"
+    "hash": "cb5f7159262d5df4",
+    "failures": 0,
+    "last_checked": "2026-10-15T14:28:13+00:00",
+    "previous_hash": "",
+    "last_text_change": "2026-10-15"
+  },
+  "J-HBR": {
+    "hash": "46657e353e63f260",
+    "failures": 0,
+    "last_checked": "2026-10-15T14:28:28+00:00",
+    "previous_hash": "",
+    "last_text_change": "2026-10-15"
+  },
+  "J-SMR": {
+    "hash": "05cbc2fdf2ec3cb6",
+    "failures": 0,
+    "last_checked": "2026-10-15T14:28:36+00:00",
+    "previous_hash": "",
+    "last_text_change": "2026-10-15"
   }
 }

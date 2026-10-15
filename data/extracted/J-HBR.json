@@ -1,0 +1,39 @@
+{
+  "author_use": "allowed_with_conditions",
+  "disclosure_required": "yes",
+  "ai_as_author": "not_stated",
+  "ai_images": "not_stated",
+  "reviewer_use": "not_stated",
+  "reviewer_upload": "not_stated",
+  "editor_use": "allowed_with_conditions",
+  "disclosure_location": [
+    "submission_system",
+    "other"
+  ],
+  "summary": "HBR acknowledges that many contributors use AI tools and asks authors to tell their editor, and note on the copyright form, whether and how they used them. Authors remain fully accountable for accuracy, integrity, sourcing and originality. Editors may use AI for their own workflows, but submissions cannot be used to train AI models and humans make all publication decisions.",
+  "evidence": [
+    {
+      "field": "author_use",
+      "quote": "We understand many of our contributors use AI tools."
+    },
+    {
+      "field": "disclosure_required",
+      "quote": "we ask our contributors to share whether and how they’ve used these tools with their editor and on our copyright form"
+    },
+    {
+      "field": "author_use",
+      "quote": "our authors are accountable for the accuracy, integrity, sourcing, and originality of their content"
+    },
+    {
+      "field": "editor_use",
+      "quote": "Our editors may use AI tools to support their own editorial workflows, but we don’t allow submissions to be used to train AI models"
+    }
+  ],
+  "page_last_updated": "September 2026",
+  "confidence": "high",
+  "is_ai_policy": true,
+  "source_id": "J-HBR",
+  "content_hash": "46657e353e63f260",
+  "extracted_at": "2026-10-15T14:30:23+00:00",
+  "model": "claude-sonnet-5-5"
+}

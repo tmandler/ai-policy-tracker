@@ -1,0 +1,34 @@
+{
+  "author_use": "allowed_with_conditions",
+  "disclosure_required": "yes",
+  "ai_as_author": "prohibited",
+  "ai_images": "not_stated",
+  "reviewer_use": "not_stated",
+  "reviewer_upload": "not_stated",
+  "editor_use": "not_stated",
+  "disclosure_location": [
+    "acknowledgements"
+  ],
+  "summary": "INFORMS permits authors to use generative AI when preparing manuscripts, but AI/ML tools cannot be listed as authors and authors remain fully responsible for the accuracy and originality of the work. Any AI use must be disclosed in the acknowledgements with the tool and the nature of assistance, and references (especially AI-generated ones) must be verified against original sources. The page does not address AI use by reviewers or editors, or AI-generated images.",
+  "evidence": [
+    {
+      "field": "author_use",
+      "quote": "Authors are permitted to use generative artificial intelligence (AI) in the preparation of their manuscripts."
+    },
+    {
+      "field": "ai_as_author",
+      "quote": "machine learning (ML) and AI tools may not be listed as authors."
+    },
+    {
+      "field": "disclosure_required",
+      "quote": "must be disclosed in the acknowledgements section, with details of the tool used and the nature of the assistance provided."
+    }
+  ],
+  "page_last_updated": "August 1, 2025",
+  "confidence": "high",
+  "is_ai_policy": true,
+  "source_id": "P-INF",
+  "content_hash": "6179f6c85f961c6f",
+  "extracted_at": "2026-10-15T14:29:32+00:00",
+  "model": "claude-sonnet-5-5"
+}

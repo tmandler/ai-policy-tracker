@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "key": "new:J-HBR",
+    "reason": "auto-discovered journal policy; please confirm",
+    "added": "2026-10-15",
+    "url": "https://hbr.org/guidelines-for-authors"
+  },
+  {
+    "key": "new:J-SMR",
+    "reason": "auto-discovered journal policy; please confirm",
+    "added": "2026-10-15",
+    "url": "https://sloanreview.mit.edu/authors"
+  },
+  {
+    "key": "notpolicy:J-MISQ",
+    "reason": "page no longer looks like an AI policy",
+    "added": "2026-10-15",
+    "url": "https://misq.umn.edu/misq/article/47/3/i/3416/Editor-s-CommentsEditing-Innovation-in-MIS"
+  },
+  {
+    "key": "notpolicy:J-SMR",
+    "reason": "page no longer looks like an AI policy",
+    "added": "2026-10-15",
+    "url": "https://sloanreview.mit.edu/authors"
+  }
+]

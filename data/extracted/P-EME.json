@@ -1,0 +1,56 @@
+{
+  "author_use": "allowed_with_conditions",
+  "disclosure_required": "yes",
+  "ai_as_author": "prohibited",
+  "ai_images": "allowed_with_conditions",
+  "reviewer_use": "allowed_with_conditions",
+  "reviewer_upload": "prohibited",
+  "editor_use": "prohibited",
+  "disclosure_location": [
+    "methods",
+    "acknowledgements",
+    "other"
+  ],
+  "summary": "Emerald bans using generative AI to write or generate new content, data or results, but permits AI copy-editing of the author's own work, translation, and illustrative images, with transparent declaration and human accountability. AI cannot be an author. Reviewers and editors may not use generative AI to evaluate manuscripts or upload files to AI tools, though reviewers may use it to copy-edit their review reports and must declare this.",
+  "evidence": [
+    {
+      "field": "author_use",
+      "quote": "Copywriting (creating, drafting, or writing) any part of a submission using generative AI tools and technology to generate new material is not permitted."
+    },
+    {
+      "field": "author_use",
+      "quote": "Copy-editing (correcting, editing, formatting, modifying, or refining) all or part of an author’s own original existing work using generative AI tools and technology"
+    },
+    {
+      "field": "disclosure_required",
+      "quote": "must be flagged, clearly and transparently, by authors within the Methods and Acknowledgements (or another appropriate section) of the work."
+    },
+    {
+      "field": "ai_as_author",
+      "quote": "LLMs cannot be credited with authorship as they do not have legal standing or the ability to assign copyright"
+    },
+    {
+      "field": "ai_images",
+      "quote": "Purpose is here defined as either illustrative, which is permitted, or factual/evidential, which is not permitted."
+    },
+    {
+      "field": "reviewer_use",
+      "quote": "Reviewers may, however, use a generative AI tool to copy-edit and improve the quality of the language in their review"
+    },
+    {
+      "field": "reviewer_upload",
+      "quote": "Any work or files submitted to Emerald for consideration and review should not be uploaded to a generative AI tool or Large Language Model (LLM)."
+    },
+    {
+      "field": "editor_use",
+      "quote": "Emerald does not permit the use of generative AI tools or LLMs to assist in the review, evaluation, or decision-making process"
+    }
+  ],
+  "page_last_updated": "",
+  "confidence": "high",
+  "is_ai_policy": true,
+  "source_id": "P-EME",
+  "content_hash": "a40beb8eb73e6bb8",
+  "extracted_at": "2026-10-15T14:29:24+00:00",
+  "model": "claude-sonnet-5-5"
+}

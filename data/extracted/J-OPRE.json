@@ -1,0 +1,36 @@
+{
+  "author_use": "not_stated",
+  "disclosure_required": "not_stated",
+  "ai_as_author": "not_stated",
+  "ai_images": "not_stated",
+  "reviewer_use": "allowed_with_conditions",
+  "reviewer_upload": "allowed_with_conditions",
+  "editor_use": "allowed_with_conditions",
+  "disclosure_location": [],
+  "summary": "The page only covers reviewers and editors, not authors. Reviewers and editors must keep submitted manuscripts and review materials confidential and may not upload them to public-access generative AI tools, though openly posted materials (e.g., arXiv papers) may be uploaded. Privacy-preserving AI tools conforming to RELX Responsible AI Principles may be used, and reviewers and editors remain fully responsible for the accuracy and reasoning of their reports.",
+  "evidence": [
+    {
+      "field": "reviewer_upload",
+      "quote": "may therefore not be uploaded to public-access generative AI technology"
+    },
+    {
+      "field": "reviewer_upload",
+      "quote": "Materials posted openly (e.g., papers and images from papers on arXiv, SSRN, author web site, etc.) may be uploaded"
+    },
+    {
+      "field": "reviewer_use",
+      "quote": "AI-driven techniques that conform to the RELX Responsible AI Principles and that preserve the privacy of submitted materials may be used"
+    },
+    {
+      "field": "editor_use",
+      "quote": "The Area Editor, Associate Editor, and reviewers are all responsible for their final report, and the accuracy and reasoning therein."
+    }
+  ],
+  "page_last_updated": "",
+  "confidence": "medium",
+  "is_ai_policy": true,
+  "source_id": "J-OPRE",
+  "content_hash": "18a0b5ecd3845785",
+  "extracted_at": "2026-10-15T14:30:14+00:00",
+  "model": "claude-sonnet-5-5"
+}

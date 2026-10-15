@@ -1,0 +1,44 @@
+{
+  "author_use": "allowed_with_conditions",
+  "disclosure_required": "partial",
+  "ai_as_author": "not_stated",
+  "ai_images": "allowed_with_conditions",
+  "reviewer_use": "not_stated",
+  "reviewer_upload": "not_stated",
+  "editor_use": "not_stated",
+  "disclosure_location": [
+    "cover_letter",
+    "acknowledgements",
+    "methods"
+  ],
+  "summary": "Authors may use generative AI tools when preparing manuscripts. Basic language correction and reference formatting need no disclosure, while substantial editing, translation, data analysis, code, and illustrative images must be disclosed. Fabricating research data or creating/altering primary scientific images is not allowed, and non-disclosure may lead to rejection, correction, or retraction.",
+  "evidence": [
+    {
+      "field": "author_use",
+      "quote": "This policy explains how authors may use generative AI tools (Gen AI Tools) when preparing manuscripts for OUP journals"
+    },
+    {
+      "field": "disclosure_required",
+      "quote": "Improving clarity of language (e.g. spelling or grammar correction)"
+    },
+    {
+      "field": "disclosure_required",
+      "quote": "Any use of Gen AI Tools should be disclosed both in your cover letter to editors and in the Acknowledgements section of manuscripts."
+    },
+    {
+      "field": "ai_images",
+      "quote": "Generating illustrative or explanatory images, such as graphical abstracts, using AI"
+    },
+    {
+      "field": "ai_images",
+      "quote": "Creating or altering primary factual, scientific, or technical images, such as clinical or diagnostic images"
+    }
+  ],
+  "page_last_updated": "13 July 2026",
+  "confidence": "high",
+  "is_ai_policy": true,
+  "source_id": "P-OUP",
+  "content_hash": "527f4577060d5869",
+  "extracted_at": "2026-10-15T14:29:11+00:00",
+  "model": "claude-sonnet-5-5"
+}

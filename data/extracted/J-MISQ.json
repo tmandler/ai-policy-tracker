@@ -1,0 +1,19 @@
+{
+  "author_use": "not_stated",
+  "disclosure_required": "not_stated",
+  "ai_as_author": "not_stated",
+  "ai_images": "not_stated",
+  "reviewer_use": "not_stated",
+  "reviewer_upload": "not_stated",
+  "editor_use": "not_stated",
+  "disclosure_location": [],
+  "summary": "This is a September 2023 editorial by the editor-in-chief on innovation at MIS Quarterly, not a formal AI policy. Guest sections by two board members discuss generative AI and AGI as future opportunities and say the journal may need policies later. No rules are set for authors, reviewers or editors.",
+  "evidence": [],
+  "page_last_updated": "September 01 2023",
+  "confidence": "high",
+  "is_ai_policy": false,
+  "source_id": "J-MISQ",
+  "content_hash": "cb5f7159262d5df4",
+  "extracted_at": "2026-10-15T14:30:19+00:00",
+  "model": "claude-sonnet-5-5"
+}

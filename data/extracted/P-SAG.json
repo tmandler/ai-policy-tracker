@@ -1,0 +1,51 @@
+{
+  "author_use": "allowed_with_conditions",
+  "disclosure_required": "partial",
+  "ai_as_author": "not_stated",
+  "ai_images": "allowed_with_conditions",
+  "reviewer_use": "allowed_with_conditions",
+  "reviewer_upload": "prohibited",
+  "editor_use": "prohibited",
+  "disclosure_location": [
+    "methods",
+    "acknowledgements"
+  ],
+  "summary": "Sage separates assistive AI use (language, grammar, structure), which needs no disclosure, from generative AI use that affects content, methods, results or images, which must be disclosed and verified by authors. Reviewers may use AI for help writing and formatting reports but must not upload manuscripts or have AI generate their reviews. Editors must not use GenAI for editorial work such as decision letters or summaries of unpublished research.",
+  "evidence": [
+    {
+      "field": "author_use",
+      "quote": "are considered assistive AI tools and do not require disclosure by authors or reviewers."
+    },
+    {
+      "field": "disclosure_required",
+      "quote": "must be disclosed upon submission so the editorial team can evaluate the content generated."
+    },
+    {
+      "field": "ai_images",
+      "quote": "Generated images that are presented as unique or novel research images"
+    },
+    {
+      "field": "ai_images",
+      "quote": "Generation of representative illustrations or infographics"
+    },
+    {
+      "field": "reviewer_use",
+      "quote": "Peer reviewers may use generative AI (GenAI) to help write and format the peer review reports"
+    },
+    {
+      "field": "reviewer_upload",
+      "quote": "such as uploading or copy-pasting the manuscript or parts of it to a GenAI tool"
+    },
+    {
+      "field": "editor_use",
+      "quote": "Editors must not use ChatGPT or other GenAI to generate decision letters, or summaries of unpublished research."
+    }
+  ],
+  "page_last_updated": "",
+  "confidence": "medium",
+  "is_ai_policy": true,
+  "source_id": "P-SAG",
+  "content_hash": "886d55af4da20ead",
+  "extracted_at": "2026-10-15T14:29:08+00:00",
+  "model": "claude-sonnet-5-5"
+}

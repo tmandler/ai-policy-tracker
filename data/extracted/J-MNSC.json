@@ -1,0 +1,40 @@
+{
+  "author_use": "allowed_with_conditions",
+  "disclosure_required": "not_stated",
+  "ai_as_author": "not_stated",
+  "ai_images": "not_stated",
+  "reviewer_use": "allowed_with_conditions",
+  "reviewer_upload": "allowed_with_conditions",
+  "editor_use": "allowed_with_conditions",
+  "disclosure_location": [],
+  "summary": "Management Science says it cannot stop authors from using generative AI, but authors remain fully responsible for accuracy, and submitting a manuscript counts as a declaration that they reviewed and edited any AI-generated content. Members of the review team (reviewers and editors) must make their conclusions their own and are responsible for their accuracy. They must not upload manuscript content into generative AI tools in a way that could compromise confidentiality or copyright. No disclosure requirement, AI authorship rule, or AI image rule is stated.",
+  "evidence": [
+    {
+      "field": "author_use",
+      "quote": "We cannot prevent authors from using generative AI in the preparation of their manuscripts."
+    },
+    {
+      "field": "author_use",
+      "quote": "submission of a manuscript is taken as a declaration that the author(s) reviewed and edited any AI-generated content as needed"
+    },
+    {
+      "field": "reviewer_use",
+      "quote": "All conclusions expressed by each member of the review team (reviewers, Associate Editor, Department Editor) should be theirs and theirs only."
+    },
+    {
+      "field": "reviewer_upload",
+      "quote": "should not upload any part of a manuscript submitted to Management Science into a generative AI tool such that it might compromise confidentiality"
+    },
+    {
+      "field": "editor_use",
+      "quote": "The author of any review is responsible for the accuracy of all conclusions and references cited."
+    }
+  ],
+  "page_last_updated": "",
+  "confidence": "medium",
+  "is_ai_policy": true,
+  "source_id": "J-MNSC",
+  "content_hash": "eb9e74599ccbb6f7",
+  "extracted_at": "2026-10-15T14:30:02+00:00",
+  "model": "claude-sonnet-5-5"
+}

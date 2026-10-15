@@ -1,0 +1,28 @@
+{
+  "author_use": "not_stated",
+  "disclosure_required": "not_stated",
+  "ai_as_author": "not_stated",
+  "ai_images": "not_stated",
+  "reviewer_use": "prohibited",
+  "reviewer_upload": "prohibited",
+  "editor_use": "not_stated",
+  "disclosure_location": [],
+  "summary": "The AMA page defers its generative AI policy to Sage Publications' AI policy and gives no author-facing AI rules itself. The only explicit AI rule on the page is that review team members may not enter any part of a manuscript into generative AI.",
+  "evidence": [
+    {
+      "field": "reviewer_upload",
+      "quote": "Review team members are prohibited from entering any part of the manuscript into generative AI."
+    },
+    {
+      "field": "reviewer_use",
+      "quote": "Review team members are prohibited from entering any part of the manuscript into generative AI."
+    }
+  ],
+  "page_last_updated": "October 2026",
+  "confidence": "medium",
+  "is_ai_policy": true,
+  "source_id": "S-AMA",
+  "content_hash": "c2888e532c313bff",
+  "extracted_at": "2026-10-15T14:29:53+00:00",
+  "model": "claude-sonnet-5-5"
+}

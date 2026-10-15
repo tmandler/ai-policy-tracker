@@ -1,0 +1,39 @@
+{
+  "author_use": "allowed_with_conditions",
+  "disclosure_required": "yes",
+  "ai_as_author": "prohibited",
+  "ai_images": "not_stated",
+  "reviewer_use": "not_stated",
+  "reviewer_upload": "prohibited",
+  "editor_use": "not_stated",
+  "disclosure_location": [
+    "methods",
+    "other"
+  ],
+  "summary": "APA allows authors to use generative AI tools when drafting manuscripts, provided the use is disclosed in the manuscript and cited, and authors verify all AI-provided information and citations. AI cannot be listed as an author. Submitted content must not be entered into generative AI tools because doing so breaches confidentiality of the review process.",
+  "evidence": [
+    {
+      "field": "disclosure_required",
+      "quote": "the use of AI **must** be disclosed in the manuscript and [cited]"
+    },
+    {
+      "field": "ai_as_author",
+      "quote": "AI **cannot** be named as an author on an APA scholarly publication."
+    },
+    {
+      "field": "author_use",
+      "quote": "Authors may use but must disclose AI tools for specific purposes such as editing."
+    },
+    {
+      "field": "reviewer_upload",
+      "quote": "No submitted content may be entered into generative AI tools as this violates the confidentiality of the process."
+    }
+  ],
+  "page_last_updated": "October 2025",
+  "confidence": "medium",
+  "is_ai_policy": true,
+  "source_id": "P-APA",
+  "content_hash": "b4b56d5b4e1f0cfa",
+  "extracted_at": "2026-10-15T14:29:45+00:00",
+  "model": "claude-sonnet-5-5"
+}

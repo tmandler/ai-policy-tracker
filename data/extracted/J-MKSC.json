@@ -1,0 +1,28 @@
+{
+  "author_use": "allowed_with_conditions",
+  "disclosure_required": "not_stated",
+  "ai_as_author": "not_stated",
+  "ai_images": "not_stated",
+  "reviewer_use": "not_stated",
+  "reviewer_upload": "not_stated",
+  "editor_use": "not_stated",
+  "disclosure_location": [],
+  "summary": "Authors are welcome to use generative AI tools when preparing manuscripts, but they remain fully responsible for the accuracy of all facts and references. Papers with errors such as hallucinated references can be rejected outright or treated as a potential ethical violation. The page does not state disclosure requirements, and reviewer and editor AI rules are only linked to a separate page, not covered here.",
+  "evidence": [
+    {
+      "field": "author_use",
+      "quote": "Authors are welcome to use generative artificial intelligence (Gen AI) tools in the preparation of their manuscripts."
+    },
+    {
+      "field": "author_use",
+      "quote": "the authors are responsible for the accuracy of all facts and references cited in the paper."
+    }
+  ],
+  "page_last_updated": "",
+  "confidence": "medium",
+  "is_ai_policy": true,
+  "source_id": "J-MKSC",
+  "content_hash": "6403c5e3413880da",
+  "extracted_at": "2026-10-15T14:30:05+00:00",
+  "model": "claude-sonnet-5-5"
+}

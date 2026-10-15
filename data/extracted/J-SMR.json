@@ -1,0 +1,19 @@
+{
+  "author_use": "not_stated",
+  "disclosure_required": "not_stated",
+  "ai_as_author": "not_stated",
+  "ai_images": "not_stated",
+  "reviewer_use": "not_stated",
+  "reviewer_upload": "not_stated",
+  "editor_use": "not_stated",
+  "disclosure_location": [],
+  "summary": "The Author Guidelines page now only announces that MIT Sloan Management Review is ending print publication and that a new digital version will launch. It tells interested authors to email for inquiries and contains no policy on generative AI use by authors, reviewers, or editors.",
+  "evidence": [],
+  "page_last_updated": "Sept. 9, 2026",
+  "confidence": "high",
+  "is_ai_policy": false,
+  "source_id": "J-SMR",
+  "content_hash": "05cbc2fdf2ec3cb6",
+  "extracted_at": "2026-10-15T14:30:25+00:00",
+  "model": "claude-sonnet-5-5"
+}

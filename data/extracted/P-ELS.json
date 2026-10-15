@@ -1,0 +1,52 @@
+{
+  "author_use": "allowed_with_conditions",
+  "disclosure_required": "partial",
+  "ai_as_author": "prohibited",
+  "ai_images": "allowed_with_conditions",
+  "reviewer_use": "allowed_with_conditions",
+  "reviewer_upload": "prohibited",
+  "editor_use": "allowed_with_conditions",
+  "disclosure_location": [
+    "dedicated_statement",
+    "methods",
+    "other"
+  ],
+  "summary": "Authors may use AI tools to support manuscript preparation with human oversight and must include a separate AI declaration in the manuscript, except for basic grammar/spelling checks and disability-related assistive uses. AI cannot be an author, and AI images are allowed only for explanatory figures, data-derived visualizations, and approved cover art; primary research images and graphical abstracts from general-purpose generative AI are not allowed. Reviewers and editors may use AI only in a supportive capacity with private tools and must never upload manuscript content; reviewers must disclose their AI use.",
+  "evidence": [
+    {
+      "field": "author_use",
+      "quote": "Authors preparing a manuscript for an Elsevier journal can use AI tools to support them in these tasks."
+    },
+    {
+      "field": "disclosure_required",
+      "quote": "Basic checks of grammar, spelling and punctuation do not need a declaration statement."
+    },
+    {
+      "field": "ai_as_author",
+      "quote": "Authors should not list AI tools as an author or co-author, nor cite AI tools as an author."
+    },
+    {
+      "field": "ai_images",
+      "quote": "AI tools must not be used to create or alter images that represent primary observed or experimental data"
+    },
+    {
+      "field": "reviewer_use",
+      "quote": "AI tools may therefore only be used in a supportive capacity, for example to improve the language and structure of a review report"
+    },
+    {
+      "field": "reviewer_upload",
+      "quote": "Reviewers should not upload a submitted manuscript or any part of it into an AI tool"
+    },
+    {
+      "field": "editor_use",
+      "quote": "Editors may therefore only use AI tools in a supportive capacity, for example to improve the language or structure of their decision letters"
+    }
+  ],
+  "page_last_updated": "June 2026",
+  "confidence": "high",
+  "is_ai_policy": true,
+  "source_id": "P-ELS",
+  "content_hash": "2e2b6a17a5c04b80",
+  "extracted_at": "2026-10-15T14:28:50+00:00",
+  "model": "claude-sonnet-5-5"
+}

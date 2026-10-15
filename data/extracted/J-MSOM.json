@@ -1,0 +1,40 @@
+{
+  "author_use": "allowed_with_conditions",
+  "disclosure_required": "not_stated",
+  "ai_as_author": "not_stated",
+  "ai_images": "not_stated",
+  "reviewer_use": "allowed_with_conditions",
+  "reviewer_upload": "prohibited",
+  "editor_use": "allowed_with_conditions",
+  "disclosure_location": [],
+  "summary": "Authors may use generative AI when preparing manuscripts but remain fully responsible for accuracy, and submission implies they reviewed and edited any AI-generated content. Members of the review team (reviewers, Associate Editors, Department Editors) must ensure conclusions are their own and must not upload any part of a manuscript into a generative AI tool in a way that could compromise confidentiality or copyright. The page does not address disclosure, AI authorship, or AI-generated images.",
+  "evidence": [
+    {
+      "field": "author_use",
+      "quote": "We cannot prevent authors from using generative AI in the preparation of their manuscripts."
+    },
+    {
+      "field": "author_use",
+      "quote": "submission of a manuscript is taken as a declaration that the author(s) reviewed and edited any AI-generated content as needed"
+    },
+    {
+      "field": "reviewer_use",
+      "quote": "All conclusions expressed by each member of the review team (reviewers, Associate Editor, Department Editor) should be theirs and theirs only."
+    },
+    {
+      "field": "reviewer_upload",
+      "quote": "should not upload any part of a manuscript submitted to Manufacturing & Service Operations Management into a generative AI tool such that it might compromise confidentiality"
+    },
+    {
+      "field": "editor_use",
+      "quote": "All conclusions expressed by each member of the review team (reviewers, Associate Editor, Department Editor) should be theirs and theirs only."
+    }
+  ],
+  "page_last_updated": "",
+  "confidence": "medium",
+  "is_ai_policy": true,
+  "source_id": "J-MSOM",
+  "content_hash": "6420576502768833",
+  "extracted_at": "2026-10-15T14:30:10+00:00",
+  "model": "claude-sonnet-5-5"
+}
