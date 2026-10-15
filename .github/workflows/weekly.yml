@@ -1,0 +1,66 @@
+name: Weekly policy check
+
+on:
+  schedule:
+    - cron: "17 5 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: weekly-policy-check
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install -r requirements.txt
+
+      - name: Run pipeline
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          FIRECRAWL_API_KEY: ${{ secrets.FIRECRAWL_API_KEY }}
+          CROSSREF_MAILTO: ${{ vars.CROSSREF_MAILTO }}
+          CLAUDE_MODEL: ${{ vars.CLAUDE_MODEL }}
+        working-directory: pipeline
+        run: python run.py
+
+      - name: Commit results
+        run: |
+          git config user.name "policy-tracker-bot"
+          git config user.email "policy-tracker-bot@users.noreply.github.com"
+          git add data site/src/data
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "Weekly policy check $(date -u +%Y-%m-%d)"
+            git push
+          fi
+
+      - name: Open issue when review is needed
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          n=$(python -c "import json;print(json.load(open('data/last_run.json'))['review_items'])")
+          failed=$(python -c "import json;print(','.join(k for k,v in json.load(open('data/last_run.json'))['steps'].items() if v!='ok'))")
+          if [ "$n" != "0" ] || [ -n "$failed" ]; then
+            title="Policy tracker: $n item(s) to review"
+            [ -n "$failed" ] && title="$title, failed steps: $failed"
+            existing=$(gh issue list --state open --label tracker-review --json number -q '.[0].number')
+            if [ -n "$existing" ]; then
+              gh issue edit "$existing" --title "$title" --body-file data/REVIEW.md
+            else
+              gh label create tracker-review --color FBCA04 2>/dev/null || true
+              gh issue create --title "$title" --body-file data/REVIEW.md --label tracker-review
+            fi
+          fi
