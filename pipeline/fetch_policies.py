@@ -1,5 +1,5 @@
 from common import (SNAP, SOURCES, STATE, FetchError, content_hash, fetch_markdown, load_json, log_change,
-                    now, polite_pause, queue_review, read_csv, save_json, today)
+                    now, polite_pause, queue_review, read_csv, resolve_review, save_json, today)
 
 FAIL_LIMIT = 3
 
@@ -13,7 +13,7 @@ def run():
         st = state.setdefault(sid, {"hash": "", "failures": 0})
         st["last_checked"] = now()
         try:
-            text = fetch_markdown(s["url"], fixture_key=sid)
+            text = fetch_markdown(s["url"], fixture_key=sid, require_ai=True)
         except (FetchError, Exception) as e:
             st["failures"] = st.get("failures", 0) + 1
             st["last_error"] = str(e)[:200]
@@ -27,6 +27,7 @@ def run():
             polite_pause()
             continue
         st["failures"] = 0
+        resolve_review(f"fetch:{sid}")
         st.pop("last_error", None)
         st.pop("needs_rediscovery", None)
         h = content_hash(text)

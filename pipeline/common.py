@@ -24,7 +24,7 @@ REVIEW = DATA / "review_queue.json"
 LISTS = DATA / "lists.json"
 
 MOCK = os.getenv("MOCK") == "1"
-MODEL = os.getenv("CLAUDE_MODEL", "claude-sonnet-5-5")
+MODEL = os.getenv("CLAUDE_MODEL") or "claude-sonnet-5-5"
 FIRECRAWL_KEY = os.getenv("FIRECRAWL_API_KEY", "")
 CROSSREF_MAILTO = os.getenv("CROSSREF_MAILTO", "")
 USER_AGENT = "ai-policy-tracker/1.0 (+academic research; weekly check)"
@@ -49,7 +49,7 @@ def read_csv(path):
 
 def write_csv(path, rows, fields):
     with open(path, "w", newline="", encoding="utf-8") as f:
-        w = csv.DictWriter(f, fieldnames=fields, extrasaction="ignore")
+        w = csv.DictWriter(f, fieldnames=fields, extrasaction="ignore", lineterminator="\n")
         w.writeheader()
         for r in rows:
             w.writerow({k: r.get(k, "") for k in fields})
@@ -85,6 +85,13 @@ def log_change(kind, **fields):
     print(f"  [change] {kind}: {fields}")
 
 
+def resolve_review(prefix):
+    queue = load_json(REVIEW, [])
+    kept = [q for q in queue if not q["key"].startswith(prefix)]
+    if len(kept) != len(queue):
+        save_json(REVIEW, kept)
+
+
 def queue_review(key, reason, **fields):
     queue = load_json(REVIEW, [])
     if any(q["key"] == key for q in queue):
@@ -98,7 +105,38 @@ class FetchError(Exception):
     pass
 
 
-def fetch_markdown(url, fixture_key=None):
+AI_TERMS = re.compile(r"artificial intelligence|generative|\bAI\b|\bLLMs?\b|large language model", re.I)
+
+
+def _firecrawl(url, main_only):
+    for attempt in range(5):
+        r = requests.post(
+            "https://api.firecrawl.dev/v2/scrape",
+            headers={"Authorization": f"Bearer {FIRECRAWL_KEY}", "Content-Type": "application/json"},
+            json={"url": url, "formats": ["markdown"], "onlyMainContent": main_only},
+            timeout=180,
+        )
+        if r.status_code in (429, 500, 502, 503, 504) and attempt < 4:
+            wait = int(r.headers.get("Retry-After") or 0) or 15 * (attempt + 1)
+            print(f"  firecrawl {r.status_code}, waiting {wait}s")
+            time.sleep(min(wait, 90))
+            continue
+        if r.status_code != 200:
+            raise FetchError(f"firecrawl http {r.status_code}")
+        body = r.json()
+        data = body.get("data") or {}
+        status = (data.get("metadata") or {}).get("statusCode", 200)
+        if not body.get("success") or status >= 400:
+            raise FetchError(f"firecrawl failed (page status {status})")
+        return data.get("markdown") or ""
+    raise FetchError("firecrawl retries exhausted")
+
+
+def _looks_ok(text, require_ai):
+    return len(text) >= 1500 and (not require_ai or AI_TERMS.search(text))
+
+
+def fetch_markdown(url, fixture_key=None, require_ai=False):
     if MOCK:
         p = FIXTURES / f"{fixture_key}.md"
         if (FIXTURES / f"{fixture_key}.missing").exists():
@@ -107,35 +145,25 @@ def fetch_markdown(url, fixture_key=None):
             p = FIXTURES / "_default.md"
         return p.read_text(encoding="utf-8").replace("{key}", fixture_key or "")
     if FIRECRAWL_KEY:
-        r = requests.post(
-            "https://api.firecrawl.dev/v2/scrape",
-            headers={"Authorization": f"Bearer {FIRECRAWL_KEY}", "Content-Type": "application/json"},
-            json={"url": url, "formats": ["markdown"], "onlyMainContent": True},
-            timeout=180,
-        )
-        if r.status_code != 200:
-            raise FetchError(f"firecrawl http {r.status_code}")
-        body = r.json()
-        data = body.get("data") or {}
-        status = (data.get("metadata") or {}).get("statusCode", 200)
-        md = data.get("markdown") or ""
-        if not body.get("success") or status >= 400 or len(md) < 200:
-            raise FetchError(f"firecrawl failed (page status {status}, {len(md)} chars)")
-        return md
-    r = requests.get(url, headers={"User-Agent": USER_AGENT}, timeout=60)
-    if r.status_code >= 400:
-        raise FetchError(f"http {r.status_code}")
-    if "pdf" in r.headers.get("content-type", ""):
-        raise FetchError("PDF needs FIRECRAWL_API_KEY")
-    from bs4 import BeautifulSoup
-    soup = BeautifulSoup(r.text, "html.parser")
-    for tag in soup(["script", "style", "nav", "header", "footer", "noscript"]):
-        tag.decompose()
-    text = soup.get_text("\n")
-    text = re.sub(r"\n\s*\n+", "\n\n", text).strip()
-    if len(text) < 200:
-        raise FetchError("page too short")
-    return text
+        md = _firecrawl(url, True)
+        if not _looks_ok(md, require_ai):
+            md = _firecrawl(url, False)
+    else:
+        r = requests.get(url, headers={"User-Agent": USER_AGENT}, timeout=60)
+        if r.status_code >= 400:
+            raise FetchError(f"http {r.status_code}")
+        if "pdf" in r.headers.get("content-type", ""):
+            raise FetchError("PDF needs FIRECRAWL_API_KEY")
+        from bs4 import BeautifulSoup
+        soup = BeautifulSoup(r.text, "html.parser")
+        for tag in soup(["script", "style", "nav", "header", "footer", "noscript"]):
+            tag.decompose()
+        md = re.sub(r"\n\s*\n+", "\n\n", soup.get_text("\n")).strip()
+    if len(md) < 500:
+        raise FetchError(f"page too short ({len(md)} chars)")
+    if require_ai and not AI_TERMS.search(md):
+        raise FetchError("page does not mention AI")
+    return md
 
 
 def _client():
@@ -173,4 +201,4 @@ def claude_search_json(prompt, max_uses=5):
 
 def polite_pause():
     if not MOCK:
-        time.sleep(2)
+        time.sleep(7 if FIRECRAWL_KEY else 2)

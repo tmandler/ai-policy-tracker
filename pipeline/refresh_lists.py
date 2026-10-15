@@ -3,7 +3,8 @@ import re
 import requests
 
 from common import (CROSSREF_MAILTO, JOURNAL_FIELDS, JOURNALS, LISTS, MOCK, SOURCES, USER_AGENT, claude_json,
-                    fetch_markdown, load_json, log_change, norm_title, queue_review, read_csv, today, write_csv)
+                    fetch_markdown, load_json, log_change, norm_title, queue_review, read_csv, resolve_review, today,
+                    write_csv)
 
 PUBLISHER_ALIASES = [
     (r"\bsage\b", "SAGE"), (r"wiley|blackwell", "Wiley"), (r"elsevier", "Elsevier"),
@@ -84,6 +85,7 @@ def run():
         if not lc["min"] <= len(items) <= lc["max"]:
             queue_review(f"list:{name}:{today()}", f"{name} returned {len(items)} journals; changes not applied")
             continue
+        resolve_review(f"list:{name}:")
         found = {key(i["title"]): i for i in items}
         for k, j in by_key.items():
             if name in lists_of(j) and k not in found:

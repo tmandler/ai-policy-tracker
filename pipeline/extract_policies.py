@@ -1,7 +1,7 @@
 import re
 
 from common import (EXTR, MOCK, MODEL, SNAP, SOURCES, STATE, claude_json, load_json, log_change, now,
-                    queue_review, read_csv, save_json)
+                    queue_review, read_csv, resolve_review, save_json)
 
 USE = ["allowed", "allowed_with_conditions", "prohibited", "not_stated"]
 YN = ["yes", "no", "partial", "not_stated"]
@@ -94,6 +94,9 @@ def run(changed_ids=None):
             print(f"  extract failed {sid}: {e}")
             queue_review(f"extract:{sid}", "extraction failed", error=str(e)[:200])
             continue
+        resolve_review(f"extract:{sid}")
+        if out["is_ai_policy"]:
+            resolve_review(f"notpolicy:{sid}")
         out.update(source_id=sid, content_hash=state[sid]["hash"], extracted_at=now(),
                    model="mock" if MOCK else MODEL)
         if not out["is_ai_policy"]:
