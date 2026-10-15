@@ -1,0 +1,11 @@
+{
+  "finished": "2026-10-15T14:05:57+00:00",
+  "steps": {
+    "refresh_lists": "ok",
+    "discover_sources": "ok",
+    "fetch_policies": "ok",
+    "extract_policies": "ok",
+    "build_site_data": "ok"
+  },
+  "review_items": 19
+}

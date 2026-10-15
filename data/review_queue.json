@@ -1,0 +1,116 @@
+[
+  {
+    "key": "list:FT50:2026-10-15",
+    "reason": "could not read FT50 list",
+    "added": "2026-10-15",
+    "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'model: String should have at least 1 character'}, 'request_id': 'req_011Cg49Vzb3iRkmtzjr43A3K'}"
+  },
+  {
+    "key": "list:MktBig15:2026-10-15",
+    "reason": "could not read MktBig15 list",
+    "added": "2026-10-15",
+    "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'model: String should have at least 1 character'}, 'request_id': 'req_011Cg49W55AHfwoDbJpc5BPe'}"
+  },
+  {
+    "key": "extract:P-ELS",
+    "reason": "extraction failed",
+    "added": "2026-10-15",
+    "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'model: String should have at least 1 character'}, 'request_id': 'req_011Cg49i83qawsSKCohjczCo'}"
+  },
+  {
+    "key": "extract:P-WIL",
+    "reason": "extraction failed",
+    "added": "2026-10-15",
+    "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'model: String should have at least 1 character'}, 'request_id': 'req_011Cg49i9aNRQ8Eu41nYUPUo'}"
+  },
+  {
+    "key": "extract:P-SAG",
+    "reason": "extraction failed",
+    "added": "2026-10-15",
+    "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'model: String should have at least 1 character'}, 'request_id': 'req_011Cg49iAeMkCbefaXAPikKj'}"
+  },
+  {
+    "key": "extract:P-OUP",
+    "reason": "extraction failed",
+    "added": "2026-10-15",
+    "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'model: String should have at least 1 character'}, 'request_id': 'req_011Cg49iBhctE1w1XHHYkFqe'}"
+  },
+  {
+    "key": "extract:P-SPR",
+    "reason": "extraction failed",
+    "added": "2026-10-15",
+    "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'model: String should have at least 1 character'}, 'request_id': 'req_011Cg49iCi8pjRE7V9R5KpPi'}"
+  },
+  {
+    "key": "extract:P-EME",
+    "reason": "extraction failed",
+    "added": "2026-10-15",
+    "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'model: String should have at least 1 character'}, 'request_id': 'req_011Cg49iDu4mezzGypYHAMZb'}"
+  },
+  {
+    "key": "extract:P-TF",
+    "reason": "extraction failed",
+    "added": "2026-10-15",
+    "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'model: String should have at least 1 character'}, 'request_id': 'req_011Cg49iJnm4myAbwWCqn5qV'}"
+  },
+  {
+    "key": "extract:P-UCP",
+    "reason": "extraction failed",
+    "added": "2026-10-15",
+    "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'model: String should have at least 1 character'}, 'request_id': 'req_011Cg49iKpXFo7nEdgJWQW3J'}"
+  },
+  {
+    "key": "extract:P-INF",
+    "reason": "extraction failed",
+    "added": "2026-10-15",
+    "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'model: String should have at least 1 character'}, 'request_id': 'req_011Cg49iLsXHdVWj7WYZBAoK'}"
+  },
+  {
+    "key": "extract:P-AOM",
+    "reason": "extraction failed",
+    "added": "2026-10-15",
+    "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'model: String should have at least 1 character'}, 'request_id': 'req_011Cg49iMwWyQfuAUBVXWjja'}"
+  },
+  {
+    "key": "extract:P-AEA",
+    "reason": "extraction failed",
+    "added": "2026-10-15",
+    "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'model: String should have at least 1 character'}, 'request_id': 'req_011Cg49iNwHjvaRwafUxhwSk'}"
+  },
+  {
+    "key": "extract:P-APA",
+    "reason": "extraction failed",
+    "added": "2026-10-15",
+    "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'model: String should have at least 1 character'}, 'request_id': 'req_011Cg49iPwZHdeqnnC7czThR'}"
+  },
+  {
+    "key": "extract:P-AAA",
+    "reason": "extraction failed",
+    "added": "2026-10-15",
+    "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'model: String should have at least 1 character'}, 'request_id': 'req_011Cg49iR7zrcz8LLQbFo9ct'}"
+  },
+  {
+    "key": "extract:S-AMA",
+    "reason": "extraction failed",
+    "added": "2026-10-15",
+    "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'model: String should have at least 1 character'}, 'request_id': 'req_011Cg49iSJgutDd2qvmQa6j4'}"
+  },
+  {
+    "key": "extract:S-ECTA",
+    "reason": "extraction failed",
+    "added": "2026-10-15",
+    "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'model: String should have at least 1 character'}, 'request_id': 'req_011Cg49iTKDSDmH9kBSeVFdH'}"
+  },
+  {
+    "key": "extract:J-MNSC",
+    "reason": "extraction failed",
+    "added": "2026-10-15",
+    "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'model: String should have at least 1 character'}, 'request_id': 'req_011Cg49iURw8de58gj2gU9QK'}"
+  },
+  {
+    "key": "extract:J-MKSC",
+    "reason": "extraction failed",
+    "added": "2026-10-15",
+    "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'model: String should have at least 1 character'}, 'request_id': 'req_011Cg49iVVSbZX6aiYXdAavT'}"
+  }
+]

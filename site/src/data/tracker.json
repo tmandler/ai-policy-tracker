@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-15T00:00:00+00:00",
+  "generated": "2026-10-15T14:05:57+00:00",
   "labels": {
     "author_use": "Authors may use generative AI in preparing manuscripts",
     "disclosure_required": "Authors must disclose AI use ('partial' = only some uses, e.g. not copy-editing)",
@@ -9,12 +9,3232 @@
     "reviewer_upload": "Reviewers may upload manuscripts or parts of them into AI tools",
     "editor_use": "Editors may use generative AI in editorial work"
   },
-  "journals": [],
-  "sources": {},
+  "journals": [
+    {
+      "journal": "Academy of Management Annals",
+      "abbrev": "AMA-Annals",
+      "lists": [
+        "FT50"
+      ],
+      "publisher": "Academy of Management",
+      "society": "Academy of Management",
+      "field": "Management",
+      "layers": [
+        "P-AOM"
+      ],
+      "effective": {
+        "author_use": {
+          "value": "unknown",
+          "source": "P-AOM"
+        },
+        "disclosure_required": {
+          "value": "unknown",
+          "source": "P-AOM"
+        },
+        "ai_as_author": {
+          "value": "unknown",
+          "source": "P-AOM"
+        },
+        "ai_images": {
+          "value": "unknown",
+          "source": "P-AOM"
+        },
+        "reviewer_use": {
+          "value": "unknown",
+          "source": "P-AOM"
+        },
+        "reviewer_upload": {
+          "value": "unknown",
+          "source": "P-AOM"
+        },
+        "editor_use": {
+          "value": "unknown",
+          "source": "P-AOM"
+        }
+      },
+      "note": "",
+      "needs_review": true
+    },
+    {
+      "journal": "Academy of Management Journal",
+      "abbrev": "AMJ",
+      "lists": [
+        "FT50"
+      ],
+      "publisher": "Academy of Management",
+      "society": "Academy of Management",
+      "field": "Management",
+      "layers": [
+        "P-AOM"
+      ],
+      "effective": {
+        "author_use": {
+          "value": "unknown",
+          "source": "P-AOM"
+        },
+        "disclosure_required": {
+          "value": "unknown",
+          "source": "P-AOM"
+        },
+        "ai_as_author": {
+          "value": "unknown",
+          "source": "P-AOM"
+        },
+        "ai_images": {
+          "value": "unknown",
+          "source": "P-AOM"
+        },
+        "reviewer_use": {
+          "value": "unknown",
+          "source": "P-AOM"
+        },
+        "reviewer_upload": {
+          "value": "unknown",
+          "source": "P-AOM"
+        },
+        "editor_use": {
+          "value": "unknown",
+          "source": "P-AOM"
+        }
+      },
+      "note": "",
+      "needs_review": true
+    },
+    {
+      "journal": "Academy of Management Review",
+      "abbrev": "AMR",
+      "lists": [
+        "FT50"
+      ],
+      "publisher": "Academy of Management",
+      "society": "Academy of Management",
+      "field": "Management",
+      "layers": [
+        "P-AOM"
+      ],
+      "effective": {
+        "author_use": {
+          "value": "unknown",
+          "source": "P-AOM"
+        },
+        "disclosure_required": {
+          "value": "unknown",
+          "source": "P-AOM"
+        },
+        "ai_as_author": {
+          "value": "unknown",
+          "source": "P-AOM"
+        },
+        "ai_images": {
+          "value": "unknown",
+          "source": "P-AOM"
+        },
+        "reviewer_use": {
+          "value": "unknown",
+          "source": "P-AOM"
+        },
+        "reviewer_upload": {
+          "value": "unknown",
+          "source": "P-AOM"
+        },
+        "editor_use": {
+          "value": "unknown",
+          "source": "P-AOM"
+        }
+      },
+      "note": "",
+      "needs_review": true
+    },
+    {
+      "journal": "Accounting, Organizations and Society",
+      "abbrev": "AOS",
+      "lists": [
+        "FT50"
+      ],
+      "publisher": "Elsevier",
+      "society": "",
+      "field": "Accounting",
+      "layers": [
+        "P-ELS"
+      ],
+      "effective": {
+        "author_use": {
+          "value": "unknown",
+          "source": "P-ELS"
+        },
+        "disclosure_required": {
+          "value": "unknown",
+          "source": "P-ELS"
+        },
+        "ai_as_author": {
+          "value": "unknown",
+          "source": "P-ELS"
+        },
+        "ai_images": {
+          "value": "unknown",
+          "source": "P-ELS"
+        },
+        "reviewer_use": {
+          "value": "unknown",
+          "source": "P-ELS"
+        },
+        "reviewer_upload": {
+          "value": "unknown",
+          "source": "P-ELS"
+        },
+        "editor_use": {
+          "value": "unknown",
+          "source": "P-ELS"
+        }
+      },
+      "note": "",
+      "needs_review": true
+    },
+    {
+      "journal": "Administrative Science Quarterly",
+      "abbrev": "ASQ",
+      "lists": [
+        "FT50"
+      ],
+      "publisher": "SAGE",
+      "society": "Cornell University (Johnson)",
+      "field": "Management",
+      "layers": [
+        "P-SAG"
+      ],
+      "effective": {
+        "author_use": {
+          "value": "unknown",
+          "source": "P-SAG"
+        },
+        "disclosure_required": {
+          "value": "unknown",
+          "source": "P-SAG"
+        },
+        "ai_as_author": {
+          "value": "unknown",
+          "source": "P-SAG"
+        },
+        "ai_images": {
+          "value": "unknown",
+          "source": "P-SAG"
+        },
+        "reviewer_use": {
+          "value": "unknown",
+          "source": "P-SAG"
+        },
+        "reviewer_upload": {
+          "value": "unknown",
+          "source": "P-SAG"
+        },
+        "editor_use": {
+          "value": "unknown",
+          "source": "P-SAG"
+        }
+      },
+      "note": "",
+      "needs_review": true
+    },
+    {
+      "journal": "American Economic Review",
+      "abbrev": "AER",
+      "lists": [
+        "FT50"
+      ],
+      "publisher": "American Economic Association",
+      "society": "American Economic Association",
+      "field": "Economics",
+      "layers": [
+        "P-AEA"
+      ],
+      "effective": {
+        "author_use": {
+          "value": "unknown",
+          "source": "P-AEA"
+        },
+        "disclosure_required": {
+          "value": "unknown",
+          "source": "P-AEA"
+        },
+        "ai_as_author": {
+          "value": "unknown",
+          "source": "P-AEA"
+        },
+        "ai_images": {
+          "value": "unknown",
+          "source": "P-AEA"
+        },
+        "reviewer_use": {
+          "value": "unknown",
+          "source": "P-AEA"
+        },
+        "reviewer_upload": {
+          "value": "unknown",
+          "source": "P-AEA"
+        },
+        "editor_use": {
+          "value": "unknown",
+          "source": "P-AEA"
+        }
+      },
+      "note": "",
+      "needs_review": true
+    },
+    {
+      "journal": "American Sociological Review",
+      "abbrev": "ASR",
+      "lists": [
+        "FT50"
+      ],
+      "publisher": "SAGE",
+      "society": "American Sociological Association",
+      "field": "Sociology",
+      "layers": [
+        "P-SAG"
+      ],
+      "effective": {
+        "author_use": {
+          "value": "unknown",
+          "source": "P-SAG"
+        },
+        "disclosure_required": {
+          "value": "unknown",
+          "source": "P-SAG"
+        },
+        "ai_as_author": {
+          "value": "unknown",
+          "source": "P-SAG"
+        },
+        "ai_images": {
+          "value": "unknown",
+          "source": "P-SAG"
+        },
+        "reviewer_use": {
+          "value": "unknown",
+          "source": "P-SAG"
+        },
+        "reviewer_upload": {
+          "value": "unknown",
+          "source": "P-SAG"
+        },
+        "editor_use": {
+          "value": "unknown",
+          "source": "P-SAG"
+        }
+      },
+      "note": "",
+      "needs_review": true
+    },
+    {
+      "journal": "Contemporary Accounting Research",
+      "abbrev": "CAR",
+      "lists": [
+        "FT50"
+      ],
+      "publisher": "Wiley",
+      "society": "Canadian Academic Accounting Association",
+      "field": "Accounting",
+      "layers": [
+        "P-WIL"
+      ],
+      "effective": {
+        "author_use": {
+          "value": "unknown",
+          "source": "P-WIL"
+        },
+        "disclosure_required": {
+          "value": "unknown",
+          "source": "P-WIL"
+        },
+        "ai_as_author": {
+          "value": "unknown",
+          "source": "P-WIL"
+        },
+        "ai_images": {
+          "value": "unknown",
+          "source": "P-WIL"
+        },
+        "reviewer_use": {
+          "value": "unknown",
+          "source": "P-WIL"
+        },
+        "reviewer_upload": {
+          "value": "unknown",
+          "source": "P-WIL"
+        },
+        "editor_use": {
+          "value": "unknown",
+          "source": "P-WIL"
+        }
+      },
+      "note": "",
+      "needs_review": true
+    },
+    {
+      "journal": "Econometrica",
+      "abbrev": "ECTA",
+      "lists": [
+        "FT50"
+      ],
+      "publisher": "Wiley",
+      "society": "Econometric Society",
+      "field": "Economics",
+      "layers": [
+        "P-WIL",
+        "S-ECTA"
+      ],
+      "effective": {
+        "author_use": {
+          "value": "unknown",
+          "source": "S-ECTA"
+        },
+        "disclosure_required": {
+          "value": "unknown",
+          "source": "S-ECTA"
+        },
+        "ai_as_author": {
+          "value": "unknown",
+          "source": "S-ECTA"
+        },
+        "ai_images": {
+          "value": "unknown",
+          "source": "S-ECTA"
+        },
+        "reviewer_use": {
+          "value": "unknown",
+          "source": "S-ECTA"
+        },
+        "reviewer_upload": {
+          "value": "unknown",
+          "source": "S-ECTA"
+        },
+        "editor_use": {
+          "value": "unknown",
+          "source": "S-ECTA"
+        }
+      },
+      "note": "",
+      "needs_review": true
+    },
+    {
+      "journal": "Entrepreneurship Theory and Practice",
+      "abbrev": "ETP",
+      "lists": [
+        "FT50"
+      ],
+      "publisher": "SAGE",
+      "society": "",
+      "field": "Entrepreneurship",
+      "layers": [
+        "P-SAG"
+      ],
+      "effective": {
+        "author_use": {
+          "value": "unknown",
+          "source": "P-SAG"
+        },
+        "disclosure_required": {
+          "value": "unknown",
+          "source": "P-SAG"
+        },
+        "ai_as_author": {
+          "value": "unknown",
+          "source": "P-SAG"
+        },
+        "ai_images": {
+          "value": "unknown",
+          "source": "P-SAG"
+        },
+        "reviewer_use": {
+          "value": "unknown",
+          "source": "P-SAG"
+        },
+        "reviewer_upload": {
+          "value": "unknown",
+          "source": "P-SAG"
+        },
+        "editor_use": {
+          "value": "unknown",
+          "source": "P-SAG"
+        }
+      },
+      "note": "",
+      "needs_review": true
+    },
+    {
+      "journal": "European Journal of Marketing",
+      "abbrev": "EJM",
+      "lists": [
+        "MktBig15"
+      ],
+      "publisher": "Emerald",
+      "society": "",
+      "field": "Marketing",
+      "layers": [
+        "P-EME"
+      ],
+      "effective": {
+        "author_use": {
+          "value": "unknown",
+          "source": "P-EME"
+        },
+        "disclosure_required": {
+          "value": "unknown",
+          "source": "P-EME"
+        },
+        "ai_as_author": {
+          "value": "unknown",
+          "source": "P-EME"
+        },
+        "ai_images": {
+          "value": "unknown",
+          "source": "P-EME"
+        },
+        "reviewer_use": {
+          "value": "unknown",
+          "source": "P-EME"
+        },
+        "reviewer_upload": {
+          "value": "unknown",
+          "source": "P-EME"
+        },
+        "editor_use": {
+          "value": "unknown",
+          "source": "P-EME"
+        }
+      },
+      "note": "",
+      "needs_review": true
+    },
+    {
+      "journal": "Harvard Business Review",
+      "abbrev": "HBR",
+      "lists": [
+        "FT50"
+      ],
+      "publisher": "Harvard Business Publishing",
+      "society": "Harvard Business Publishing",
+      "field": "Practitioner",
+      "layers": [],
+      "effective": {
+        "author_use": {
+          "value": "unknown",
+          "source": ""
+        },
+        "disclosure_required": {
+          "value": "unknown",
+          "source": ""
+        },
+        "ai_as_author": {
+          "value": "unknown",
+          "source": ""
+        },
+        "ai_images": {
+          "value": "unknown",
+          "source": ""
+        },
+        "reviewer_use": {
+          "value": "unknown",
+          "source": ""
+        },
+        "reviewer_upload": {
+          "value": "unknown",
+          "source": ""
+        },
+        "editor_use": {
+          "value": "unknown",
+          "source": ""
+        }
+      },
+      "note": "no public AI policy found",
+      "needs_review": false
+    },
+    {
+      "journal": "Human Resource Management",
+      "abbrev": "HRM",
+      "lists": [
+        "FT50"
+      ],
+      "publisher": "Wiley",
+      "society": "",
+      "field": "Management",
+      "layers": [
+        "P-WIL"
+      ],
+      "effective": {
+        "author_use": {
+          "value": "unknown",
+          "source": "P-WIL"
+        },
+        "disclosure_required": {
+          "value": "unknown",
+          "source": "P-WIL"
+        },
+        "ai_as_author": {
+          "value": "unknown",
+          "source": "P-WIL"
+        },
+        "ai_images": {
+          "value": "unknown",
+          "source": "P-WIL"
+        },
+        "reviewer_use": {
+          "value": "unknown",
+          "source": "P-WIL"
+        },
+        "reviewer_upload": {
+          "value": "unknown",
+          "source": "P-WIL"
+        },
+        "editor_use": {
+          "value": "unknown",
+          "source": "P-WIL"
+        }
+      },
+      "note": "",
+      "needs_review": true
+    },
+    {
+      "journal": "Industrial Marketing Management",
+      "abbrev": "IMM",
+      "lists": [
+        "MktBig15"
+      ],
+      "publisher": "Elsevier",
+      "society": "",
+      "field": "Marketing",
+      "layers": [
+        "P-ELS"
+      ],
+      "effective": {
+        "author_use": {
+          "value": "unknown",
+          "source": "P-ELS"
+        },
+        "disclosure_required": {
+          "value": "unknown",
+          "source": "P-ELS"
+        },
+        "ai_as_author": {
+          "value": "unknown",
+          "source": "P-ELS"
+        },
+        "ai_images": {
+          "value": "unknown",
+          "source": "P-ELS"
+        },
+        "reviewer_use": {
+          "value": "unknown",
+          "source": "P-ELS"
+        },
+        "reviewer_upload": {
+          "value": "unknown",
+          "source": "P-ELS"
+        },
+        "editor_use": {
+          "value": "unknown",
+          "source": "P-ELS"
+        }
+      },
+      "note": "",
+      "needs_review": true
+    },
+    {
+      "journal": "Information Systems Research",
+      "abbrev": "ISR",
+      "lists": [
+        "FT50"
+      ],
+      "publisher": "INFORMS",
+      "society": "INFORMS",
+      "field": "Information Systems",
+      "layers": [
+        "P-INF"
+      ],
+      "effective": {
+        "author_use": {
+          "value": "unknown",
+          "source": "P-INF"
+        },
+        "disclosure_required": {
+          "value": "unknown",
+          "source": "P-INF"
+        },
+        "ai_as_author": {
+          "value": "unknown",
+          "source": "P-INF"
+        },
+        "ai_images": {
+          "value": "unknown",
+          "source": "P-INF"
+        },
+        "reviewer_use": {
+          "value": "unknown",
+          "source": "P-INF"
+        },
+        "reviewer_upload": {
+          "value": "unknown",
+          "source": "P-INF"
+        },
+        "editor_use": {
+          "value": "unknown",
+          "source": "P-INF"
+        }
+      },
+      "note": "no journal page found; INFORMS author rules only",
+      "needs_review": true
+    },
+    {
+      "journal": "International Journal of Research in Marketing",
+      "abbrev": "IJRM",
+      "lists": [
+        "MktBig15"
+      ],
+      "publisher": "Elsevier",
+      "society": "European Marketing Academy (EMAC)",
+      "field": "Marketing",
+      "layers": [
+        "P-ELS"
+      ],
+      "effective": {
+        "author_use": {
+          "value": "unknown",
+          "source": "P-ELS"
+        },
+        "disclosure_required": {
+          "value": "unknown",
+          "source": "P-ELS"
+        },
+        "ai_as_author": {
+          "value": "unknown",
+          "source": "P-ELS"
+        },
+        "ai_images": {
+          "value": "unknown",
+          "source": "P-ELS"
+        },
+        "reviewer_use": {
+          "value": "unknown",
+          "source": "P-ELS"
+        },
+        "reviewer_upload": {
+          "value": "unknown",
+          "source": "P-ELS"
+        },
+        "editor_use": {
+          "value": "unknown",
+          "source": "P-ELS"
+        }
+      },
+      "note": "",
+      "needs_review": true
+    },
+    {
+      "journal": "Journal of Accounting and Economics",
+      "abbrev": "JAE",
+      "lists": [
+        "FT50"
+      ],
+      "publisher": "Elsevier",
+      "society": "",
+      "field": "Accounting",
+      "layers": [
+        "P-ELS"
+      ],
+      "effective": {
+        "author_use": {
+          "value": "unknown",
+          "source": "P-ELS"
+        },
+        "disclosure_required": {
+          "value": "unknown",
+          "source": "P-ELS"
+        },
+        "ai_as_author": {
+          "value": "unknown",
+          "source": "P-ELS"
+        },
+        "ai_images": {
+          "value": "unknown",
+          "source": "P-ELS"
+        },
+        "reviewer_use": {
+          "value": "unknown",
+          "source": "P-ELS"
+        },
+        "reviewer_upload": {
+          "value": "unknown",
+          "source": "P-ELS"
+        },
+        "editor_use": {
+          "value": "unknown",
+          "source": "P-ELS"
+        }
+      },
+      "note": "",
+      "needs_review": true
+    },
+    {
+      "journal": "Journal of Accounting Research",
+      "abbrev": "JAR",
+      "lists": [
+        "FT50"
+      ],
+      "publisher": "Wiley",
+      "society": "University of Chicago Booth",
+      "field": "Accounting",
+      "layers": [
+        "P-WIL"
+      ],
+      "effective": {
+        "author_use": {
+          "value": "unknown",
+          "source": "P-WIL"
+        },
+        "disclosure_required": {
+          "value": "unknown",
+          "source": "P-WIL"
+        },
+        "ai_as_author": {
+          "value": "unknown",
+          "source": "P-WIL"
+        },
+        "ai_images": {
+          "value": "unknown",
+          "source": "P-WIL"
+        },
+        "reviewer_use": {
+          "value": "unknown",
+          "source": "P-WIL"
+        },
+        "reviewer_upload": {
+          "value": "unknown",
+          "source": "P-WIL"
+        },
+        "editor_use": {
+          "value": "unknown",
+          "source": "P-WIL"
+        }
+      },
+      "note": "",
+      "needs_review": true
+    },
+    {
+      "journal": "Journal of Applied Psychology",
+      "abbrev": "JAP",
+      "lists": [
+        "FT50"
+      ],
+      "publisher": "American Psychological Association",
+      "society": "American Psychological Association",
+      "field": "Management",
+      "layers": [
+        "P-APA"
+      ],
+      "effective": {
+        "author_use": {
+          "value": "unknown",
+          "source": "P-APA"
+        },
+        "disclosure_required": {
+          "value": "unknown",
+          "source": "P-APA"
+        },
+        "ai_as_author": {
+          "value": "unknown",
+          "source": "P-APA"
+        },
+        "ai_images": {
+          "value": "unknown",
+          "source": "P-APA"
+        },
+        "reviewer_use": {
+          "value": "unknown",
+          "source": "P-APA"
+        },
+        "reviewer_upload": {
+          "value": "unknown",
+          "source": "P-APA"
+        },
+        "editor_use": {
+          "value": "unknown",
+          "source": "P-APA"
+        }
+      },
+      "note": "",
+      "needs_review": true
+    },
+    {
+      "journal": "Journal of Business Venturing",
+      "abbrev": "JBV",
+      "lists": [
+        "FT50"
+      ],
+      "publisher": "Elsevier",
+      "society": "",
+      "field": "Entrepreneurship",
+      "layers": [
+        "P-ELS"
+      ],
+      "effective": {
+        "author_use": {
+          "value": "unknown",
+          "source": "P-ELS"
+        },
+        "disclosure_required": {
+          "value": "unknown",
+          "source": "P-ELS"
+        },
+        "ai_as_author": {
+          "value": "unknown",
+          "source": "P-ELS"
+        },
+        "ai_images": {
+          "value": "unknown",
+          "source": "P-ELS"
+        },
+        "reviewer_use": {
+          "value": "unknown",
+          "source": "P-ELS"
+        },
+        "reviewer_upload": {
+          "value": "unknown",
+          "source": "P-ELS"
+        },
+        "editor_use": {
+          "value": "unknown",
+          "source": "P-ELS"
+        }
+      },
+      "note": "",
+      "needs_review": true
+    },
+    {
+      "journal": "Journal of Consumer Psychology",
+      "abbrev": "JCP",
+      "lists": [
+        "FT50",
+        "MktBig15"
+      ],
+      "publisher": "Wiley",
+      "society": "Society for Consumer Psychology",
+      "field": "Marketing",
+      "layers": [
+        "P-WIL"
+      ],
+      "effective": {
+        "author_use": {
+          "value": "unknown",
+          "source": "P-WIL"
+        },
+        "disclosure_required": {
+          "value": "unknown",
+          "source": "P-WIL"
+        },
+        "ai_as_author": {
+          "value": "unknown",
+          "source": "P-WIL"
+        },
+        "ai_images": {
+          "value": "unknown",
+          "source": "P-WIL"
+        },
+        "reviewer_use": {
+          "value": "unknown",
+          "source": "P-WIL"
+        },
+        "reviewer_upload": {
+          "value": "unknown",
+          "source": "P-WIL"
+        },
+        "editor_use": {
+          "value": "unknown",
+          "source": "P-WIL"
+        }
+      },
+      "note": "",
+      "needs_review": true
+    },
+    {
+      "journal": "Journal of Consumer Research",
+      "abbrev": "JCR",
+      "lists": [
+        "FT50",
+        "MktBig15"
+      ],
+      "publisher": "Oxford University Press",
+      "society": "Journal of Consumer Research Inc.",
+      "field": "Marketing",
+      "layers": [
+        "P-OUP"
+      ],
+      "effective": {
+        "author_use": {
+          "value": "unknown",
+          "source": "P-OUP"
+        },
+        "disclosure_required": {
+          "value": "unknown",
+          "source": "P-OUP"
+        },
+        "ai_as_author": {
+          "value": "unknown",
+          "source": "P-OUP"
+        },
+        "ai_images": {
+          "value": "unknown",
+          "source": "P-OUP"
+        },
+        "reviewer_use": {
+          "value": "unknown",
+          "source": "P-OUP"
+        },
+        "reviewer_upload": {
+          "value": "unknown",
+          "source": "P-OUP"
+        },
+        "editor_use": {
+          "value": "unknown",
+          "source": "P-OUP"
+        }
+      },
+      "note": "no JCR-specific page found; OUP applies",
+      "needs_review": true
+    },
+    {
+      "journal": "Journal of Finance",
+      "abbrev": "JF",
+      "lists": [
+        "FT50"
+      ],
+      "publisher": "Wiley",
+      "society": "American Finance Association",
+      "field": "Finance",
+      "layers": [
+        "P-WIL"
+      ],
+      "effective": {
+        "author_use": {
+          "value": "unknown",
+          "source": "P-WIL"
+        },
+        "disclosure_required": {
+          "value": "unknown",
+          "source": "P-WIL"
+        },
+        "ai_as_author": {
+          "value": "unknown",
+          "source": "P-WIL"
+        },
+        "ai_images": {
+          "value": "unknown",
+          "source": "P-WIL"
+        },
+        "reviewer_use": {
+          "value": "unknown",
+          "source": "P-WIL"
+        },
+        "reviewer_upload": {
+          "value": "unknown",
+          "source": "P-WIL"
+        },
+        "editor_use": {
+          "value": "unknown",
+          "source": "P-WIL"
+        }
+      },
+      "note": "",
+      "needs_review": true
+    },
+    {
+      "journal": "Journal of Financial and Quantitative Analysis",
+      "abbrev": "JFQA",
+      "lists": [
+        "FT50"
+      ],
+      "publisher": "Cambridge University Press",
+      "society": "University of Washington (Foster)",
+      "field": "Finance",
+      "layers": [
+        "P-CUP"
+      ],
+      "effective": {
+        "author_use": {
+          "value": "unknown",
+          "source": "P-CUP"
+        },
+        "disclosure_required": {
+          "value": "unknown",
+          "source": "P-CUP"
+        },
+        "ai_as_author": {
+          "value": "unknown",
+          "source": "P-CUP"
+        },
+        "ai_images": {
+          "value": "unknown",
+          "source": "P-CUP"
+        },
+        "reviewer_use": {
+          "value": "unknown",
+          "source": "P-CUP"
+        },
+        "reviewer_upload": {
+          "value": "unknown",
+          "source": "P-CUP"
+        },
+        "editor_use": {
+          "value": "unknown",
+          "source": "P-CUP"
+        }
+      },
+      "note": "",
+      "needs_review": false
+    },
+    {
+      "journal": "Journal of Financial Economics",
+      "abbrev": "JFE",
+      "lists": [
+        "FT50"
+      ],
+      "publisher": "Elsevier",
+      "society": "",
+      "field": "Finance",
+      "layers": [
+        "P-ELS"
+      ],
+      "effective": {
+        "author_use": {
+          "value": "unknown",
+          "source": "P-ELS"
+        },
+        "disclosure_required": {
+          "value": "unknown",
+          "source": "P-ELS"
+        },
+        "ai_as_author": {
+          "value": "unknown",
+          "source": "P-ELS"
+        },
+        "ai_images": {
+          "value": "unknown",
+          "source": "P-ELS"
+        },
+        "reviewer_use": {
+          "value": "unknown",
+          "source": "P-ELS"
+        },
+        "reviewer_upload": {
+          "value": "unknown",
+          "source": "P-ELS"
+        },
+        "editor_use": {
+          "value": "unknown",
+          "source": "P-ELS"
+        }
+      },
+      "note": "",
+      "needs_review": true
+    },
+    {
+      "journal": "Journal of Interactive Marketing",
+      "abbrev": "JNM",
+      "lists": [
+        "MktBig15"
+      ],
+      "publisher": "SAGE",
+      "society": "American Marketing Association",
+      "field": "Marketing",
+      "layers": [
+        "P-SAG",
+        "S-AMA"
+      ],
+      "effective": {
+        "author_use": {
+          "value": "unknown",
+          "source": "S-AMA"
+        },
+        "disclosure_required": {
+          "value": "unknown",
+          "source": "S-AMA"
+        },
+        "ai_as_author": {
+          "value": "unknown",
+          "source": "S-AMA"
+        },
+        "ai_images": {
+          "value": "unknown",
+          "source": "S-AMA"
+        },
+        "reviewer_use": {
+          "value": "unknown",
+          "source": "S-AMA"
+        },
+        "reviewer_upload": {
+          "value": "unknown",
+          "source": "S-AMA"
+        },
+        "editor_use": {
+          "value": "unknown",
+          "source": "S-AMA"
+        }
+      },
+      "note": "",
+      "needs_review": true
+    },
+    {
+      "journal": "Journal of International Business Studies",
+      "abbrev": "JIBS",
+      "lists": [
+        "FT50"
+      ],
+      "publisher": "Springer Nature",
+      "society": "Academy of International Business",
+      "field": "International Business",
+      "layers": [
+        "P-SPR"
+      ],
+      "effective": {
+        "author_use": {
+          "value": "unknown",
+          "source": "P-SPR"
+        },
+        "disclosure_required": {
+          "value": "unknown",
+          "source": "P-SPR"
+        },
+        "ai_as_author": {
+          "value": "unknown",
+          "source": "P-SPR"
+        },
+        "ai_images": {
+          "value": "unknown",
+          "source": "P-SPR"
+        },
+        "reviewer_use": {
+          "value": "unknown",
+          "source": "P-SPR"
+        },
+        "reviewer_upload": {
+          "value": "unknown",
+          "source": "P-SPR"
+        },
+        "editor_use": {
+          "value": "unknown",
+          "source": "P-SPR"
+        }
+      },
+      "note": "",
+      "needs_review": true
+    },
+    {
+      "journal": "Journal of International Marketing",
+      "abbrev": "JIM",
+      "lists": [
+        "MktBig15"
+      ],
+      "publisher": "SAGE",
+      "society": "American Marketing Association",
+      "field": "Marketing",
+      "layers": [
+        "P-SAG",
+        "S-AMA"
+      ],
+      "effective": {
+        "author_use": {
+          "value": "unknown",
+          "source": "S-AMA"
+        },
+        "disclosure_required": {
+          "value": "unknown",
+          "source": "S-AMA"
+        },
+        "ai_as_author": {
+          "value": "unknown",
+          "source": "S-AMA"
+        },
+        "ai_images": {
+          "value": "unknown",
+          "source": "S-AMA"
+        },
+        "reviewer_use": {
+          "value": "unknown",
+          "source": "S-AMA"
+        },
+        "reviewer_upload": {
+          "value": "unknown",
+          "source": "S-AMA"
+        },
+        "editor_use": {
+          "value": "unknown",
+          "source": "S-AMA"
+        }
+      },
+      "note": "",
+      "needs_review": true
+    },
+    {
+      "journal": "Journal of Management",
+      "abbrev": "JOM",
+      "lists": [
+        "FT50"
+      ],
+      "publisher": "SAGE",
+      "society": "Southern Management Association",
+      "field": "Management",
+      "layers": [
+        "P-SAG"
+      ],
+      "effective": {
+        "author_use": {
+          "value": "unknown",
+          "source": "P-SAG"
+        },
+        "disclosure_required": {
+          "value": "unknown",
+          "source": "P-SAG"
+        },
+        "ai_as_author": {
+          "value": "unknown",
+          "source": "P-SAG"
+        },
+        "ai_images": {
+          "value": "unknown",
+          "source": "P-SAG"
+        },
+        "reviewer_use": {
+          "value": "unknown",
+          "source": "P-SAG"
+        },
+        "reviewer_upload": {
+          "value": "unknown",
+          "source": "P-SAG"
+        },
+        "editor_use": {
+          "value": "unknown",
+          "source": "P-SAG"
+        }
+      },
+      "note": "",
+      "needs_review": true
+    },
+    {
+      "journal": "Journal of Management Information Systems",
+      "abbrev": "JMIS",
+      "lists": [
+        "FT50"
+      ],
+      "publisher": "Taylor & Francis",
+      "society": "",
+      "field": "Information Systems",
+      "layers": [
+        "P-TF"
+      ],
+      "effective": {
+        "author_use": {
+          "value": "unknown",
+          "source": "P-TF"
+        },
+        "disclosure_required": {
+          "value": "unknown",
+          "source": "P-TF"
+        },
+        "ai_as_author": {
+          "value": "unknown",
+          "source": "P-TF"
+        },
+        "ai_images": {
+          "value": "unknown",
+          "source": "P-TF"
+        },
+        "reviewer_use": {
+          "value": "unknown",
+          "source": "P-TF"
+        },
+        "reviewer_upload": {
+          "value": "unknown",
+          "source": "P-TF"
+        },
+        "editor_use": {
+          "value": "unknown",
+          "source": "P-TF"
+        }
+      },
+      "note": "",
+      "needs_review": true
+    },
+    {
+      "journal": "Journal of Management Studies",
+      "abbrev": "JMS",
+      "lists": [
+        "FT50"
+      ],
+      "publisher": "Wiley",
+      "society": "Society for the Advancement of Management Studies",
+      "field": "Management",
+      "layers": [
+        "P-WIL",
+        "J-JMS"
+      ],
+      "effective": {
+        "author_use": {
+          "value": "unknown",
+          "source": "J-JMS"
+        },
+        "disclosure_required": {
+          "value": "unknown",
+          "source": "J-JMS"
+        },
+        "ai_as_author": {
+          "value": "unknown",
+          "source": "J-JMS"
+        },
+        "ai_images": {
+          "value": "unknown",
+          "source": "J-JMS"
+        },
+        "reviewer_use": {
+          "value": "unknown",
+          "source": "J-JMS"
+        },
+        "reviewer_upload": {
+          "value": "unknown",
+          "source": "J-JMS"
+        },
+        "editor_use": {
+          "value": "unknown",
+          "source": "J-JMS"
+        }
+      },
+      "note": "",
+      "needs_review": true
+    },
+    {
+      "journal": "Journal of Marketing",
+      "abbrev": "JM",
+      "lists": [
+        "FT50",
+        "MktBig15"
+      ],
+      "publisher": "SAGE",
+      "society": "American Marketing Association",
+      "field": "Marketing",
+      "layers": [
+        "P-SAG",
+        "S-AMA"
+      ],
+      "effective": {
+        "author_use": {
+          "value": "unknown",
+          "source": "S-AMA"
+        },
+        "disclosure_required": {
+          "value": "unknown",
+          "source": "S-AMA"
+        },
+        "ai_as_author": {
+          "value": "unknown",
+          "source": "S-AMA"
+        },
+        "ai_images": {
+          "value": "unknown",
+          "source": "S-AMA"
+        },
+        "reviewer_use": {
+          "value": "unknown",
+          "source": "S-AMA"
+        },
+        "reviewer_upload": {
+          "value": "unknown",
+          "source": "S-AMA"
+        },
+        "editor_use": {
+          "value": "unknown",
+          "source": "S-AMA"
+        }
+      },
+      "note": "",
+      "needs_review": true
+    },
+    {
+      "journal": "Journal of Marketing Research",
+      "abbrev": "JMR",
+      "lists": [
+        "FT50",
+        "MktBig15"
+      ],
+      "publisher": "SAGE",
+      "society": "American Marketing Association",
+      "field": "Marketing",
+      "layers": [
+        "P-SAG",
+        "S-AMA"
+      ],
+      "effective": {
+        "author_use": {
+          "value": "unknown",
+          "source": "S-AMA"
+        },
+        "disclosure_required": {
+          "value": "unknown",
+          "source": "S-AMA"
+        },
+        "ai_as_author": {
+          "value": "unknown",
+          "source": "S-AMA"
+        },
+        "ai_images": {
+          "value": "unknown",
+          "source": "S-AMA"
+        },
+        "reviewer_use": {
+          "value": "unknown",
+          "source": "S-AMA"
+        },
+        "reviewer_upload": {
+          "value": "unknown",
+          "source": "S-AMA"
+        },
+        "editor_use": {
+          "value": "unknown",
+          "source": "S-AMA"
+        }
+      },
+      "note": "",
+      "needs_review": true
+    },
+    {
+      "journal": "Journal of Operations Management",
+      "abbrev": "JOpM",
+      "lists": [
+        "FT50"
+      ],
+      "publisher": "Wiley",
+      "society": "",
+      "field": "Operations",
+      "layers": [
+        "P-WIL"
+      ],
+      "effective": {
+        "author_use": {
+          "value": "unknown",
+          "source": "P-WIL"
+        },
+        "disclosure_required": {
+          "value": "unknown",
+          "source": "P-WIL"
+        },
+        "ai_as_author": {
+          "value": "unknown",
+          "source": "P-WIL"
+        },
+        "ai_images": {
+          "value": "unknown",
+          "source": "P-WIL"
+        },
+        "reviewer_use": {
+          "value": "unknown",
+          "source": "P-WIL"
+        },
+        "reviewer_upload": {
+          "value": "unknown",
+          "source": "P-WIL"
+        },
+        "editor_use": {
+          "value": "unknown",
+          "source": "P-WIL"
+        }
+      },
+      "note": "",
+      "needs_review": true
+    },
+    {
+      "journal": "Journal of Political Economy",
+      "abbrev": "JPE",
+      "lists": [
+        "FT50"
+      ],
+      "publisher": "University of Chicago Press",
+      "society": "University of Chicago",
+      "field": "Economics",
+      "layers": [
+        "P-UCP"
+      ],
+      "effective": {
+        "author_use": {
+          "value": "unknown",
+          "source": "P-UCP"
+        },
+        "disclosure_required": {
+          "value": "unknown",
+          "source": "P-UCP"
+        },
+        "ai_as_author": {
+          "value": "unknown",
+          "source": "P-UCP"
+        },
+        "ai_images": {
+          "value": "unknown",
+          "source": "P-UCP"
+        },
+        "reviewer_use": {
+          "value": "unknown",
+          "source": "P-UCP"
+        },
+        "reviewer_upload": {
+          "value": "unknown",
+          "source": "P-UCP"
+        },
+        "editor_use": {
+          "value": "unknown",
+          "source": "P-UCP"
+        }
+      },
+      "note": "publisher page scope unclear",
+      "needs_review": true
+    },
+    {
+      "journal": "Journal of Public Policy & Marketing",
+      "abbrev": "JPPM",
+      "lists": [
+        "MktBig15"
+      ],
+      "publisher": "SAGE",
+      "society": "American Marketing Association",
+      "field": "Marketing",
+      "layers": [
+        "P-SAG",
+        "S-AMA"
+      ],
+      "effective": {
+        "author_use": {
+          "value": "unknown",
+          "source": "S-AMA"
+        },
+        "disclosure_required": {
+          "value": "unknown",
+          "source": "S-AMA"
+        },
+        "ai_as_author": {
+          "value": "unknown",
+          "source": "S-AMA"
+        },
+        "ai_images": {
+          "value": "unknown",
+          "source": "S-AMA"
+        },
+        "reviewer_use": {
+          "value": "unknown",
+          "source": "S-AMA"
+        },
+        "reviewer_upload": {
+          "value": "unknown",
+          "source": "S-AMA"
+        },
+        "editor_use": {
+          "value": "unknown",
+          "source": "S-AMA"
+        }
+      },
+      "note": "",
+      "needs_review": true
+    },
+    {
+      "journal": "Journal of Retailing",
+      "abbrev": "JR",
+      "lists": [
+        "MktBig15"
+      ],
+      "publisher": "Elsevier",
+      "society": "New York University",
+      "field": "Marketing",
+      "layers": [
+        "P-ELS"
+      ],
+      "effective": {
+        "author_use": {
+          "value": "unknown",
+          "source": "P-ELS"
+        },
+        "disclosure_required": {
+          "value": "unknown",
+          "source": "P-ELS"
+        },
+        "ai_as_author": {
+          "value": "unknown",
+          "source": "P-ELS"
+        },
+        "ai_images": {
+          "value": "unknown",
+          "source": "P-ELS"
+        },
+        "reviewer_use": {
+          "value": "unknown",
+          "source": "P-ELS"
+        },
+        "reviewer_upload": {
+          "value": "unknown",
+          "source": "P-ELS"
+        },
+        "editor_use": {
+          "value": "unknown",
+          "source": "P-ELS"
+        }
+      },
+      "note": "",
+      "needs_review": true
+    },
+    {
+      "journal": "Journal of Service Research",
+      "abbrev": "JSR",
+      "lists": [
+        "MktBig15"
+      ],
+      "publisher": "SAGE",
+      "society": "",
+      "field": "Marketing",
+      "layers": [
+        "P-SAG"
+      ],
+      "effective": {
+        "author_use": {
+          "value": "unknown",
+          "source": "P-SAG"
+        },
+        "disclosure_required": {
+          "value": "unknown",
+          "source": "P-SAG"
+        },
+        "ai_as_author": {
+          "value": "unknown",
+          "source": "P-SAG"
+        },
+        "ai_images": {
+          "value": "unknown",
+          "source": "P-SAG"
+        },
+        "reviewer_use": {
+          "value": "unknown",
+          "source": "P-SAG"
+        },
+        "reviewer_upload": {
+          "value": "unknown",
+          "source": "P-SAG"
+        },
+        "editor_use": {
+          "value": "unknown",
+          "source": "P-SAG"
+        }
+      },
+      "note": "",
+      "needs_review": true
+    },
+    {
+      "journal": "Journal of the Academy of Marketing Science",
+      "abbrev": "JAMS",
+      "lists": [
+        "FT50",
+        "MktBig15"
+      ],
+      "publisher": "Springer Nature",
+      "society": "Academy of Marketing Science",
+      "field": "Marketing",
+      "layers": [
+        "P-SPR"
+      ],
+      "effective": {
+        "author_use": {
+          "value": "unknown",
+          "source": "P-SPR"
+        },
+        "disclosure_required": {
+          "value": "unknown",
+          "source": "P-SPR"
+        },
+        "ai_as_author": {
+          "value": "unknown",
+          "source": "P-SPR"
+        },
+        "ai_images": {
+          "value": "unknown",
+          "source": "P-SPR"
+        },
+        "reviewer_use": {
+          "value": "unknown",
+          "source": "P-SPR"
+        },
+        "reviewer_upload": {
+          "value": "unknown",
+          "source": "P-SPR"
+        },
+        "editor_use": {
+          "value": "unknown",
+          "source": "P-SPR"
+        }
+      },
+      "note": "",
+      "needs_review": true
+    },
+    {
+      "journal": "Management Science",
+      "abbrev": "MS",
+      "lists": [
+        "FT50"
+      ],
+      "publisher": "INFORMS",
+      "society": "INFORMS",
+      "field": "Operations",
+      "layers": [
+        "P-INF",
+        "J-MNSC"
+      ],
+      "effective": {
+        "author_use": {
+          "value": "unknown",
+          "source": "J-MNSC"
+        },
+        "disclosure_required": {
+          "value": "unknown",
+          "source": "J-MNSC"
+        },
+        "ai_as_author": {
+          "value": "unknown",
+          "source": "J-MNSC"
+        },
+        "ai_images": {
+          "value": "unknown",
+          "source": "J-MNSC"
+        },
+        "reviewer_use": {
+          "value": "unknown",
+          "source": "J-MNSC"
+        },
+        "reviewer_upload": {
+          "value": "unknown",
+          "source": "J-MNSC"
+        },
+        "editor_use": {
+          "value": "unknown",
+          "source": "J-MNSC"
+        }
+      },
+      "note": "",
+      "needs_review": true
+    },
+    {
+      "journal": "Manufacturing & Service Operations Management",
+      "abbrev": "MSOM",
+      "lists": [
+        "FT50"
+      ],
+      "publisher": "INFORMS",
+      "society": "INFORMS",
+      "field": "Operations",
+      "layers": [
+        "P-INF",
+        "J-MSOM"
+      ],
+      "effective": {
+        "author_use": {
+          "value": "unknown",
+          "source": "J-MSOM"
+        },
+        "disclosure_required": {
+          "value": "unknown",
+          "source": "J-MSOM"
+        },
+        "ai_as_author": {
+          "value": "unknown",
+          "source": "J-MSOM"
+        },
+        "ai_images": {
+          "value": "unknown",
+          "source": "J-MSOM"
+        },
+        "reviewer_use": {
+          "value": "unknown",
+          "source": "J-MSOM"
+        },
+        "reviewer_upload": {
+          "value": "unknown",
+          "source": "J-MSOM"
+        },
+        "editor_use": {
+          "value": "unknown",
+          "source": "J-MSOM"
+        }
+      },
+      "note": "",
+      "needs_review": true
+    },
+    {
+      "journal": "Marketing Science",
+      "abbrev": "MKSC",
+      "lists": [
+        "FT50",
+        "MktBig15"
+      ],
+      "publisher": "INFORMS",
+      "society": "INFORMS",
+      "field": "Marketing",
+      "layers": [
+        "P-INF",
+        "J-MKSC"
+      ],
+      "effective": {
+        "author_use": {
+          "value": "unknown",
+          "source": "J-MKSC"
+        },
+        "disclosure_required": {
+          "value": "unknown",
+          "source": "J-MKSC"
+        },
+        "ai_as_author": {
+          "value": "unknown",
+          "source": "J-MKSC"
+        },
+        "ai_images": {
+          "value": "unknown",
+          "source": "J-MKSC"
+        },
+        "reviewer_use": {
+          "value": "unknown",
+          "source": "J-MKSC"
+        },
+        "reviewer_upload": {
+          "value": "unknown",
+          "source": "J-MKSC"
+        },
+        "editor_use": {
+          "value": "unknown",
+          "source": "J-MKSC"
+        }
+      },
+      "note": "",
+      "needs_review": true
+    },
+    {
+      "journal": "MIS Quarterly",
+      "abbrev": "MISQ",
+      "lists": [
+        "FT50"
+      ],
+      "publisher": "MIS Research Center (Univ. of Minnesota)",
+      "society": "MIS Research Center (Univ. of Minnesota)",
+      "field": "Information Systems",
+      "layers": [
+        "J-MISQ"
+      ],
+      "effective": {
+        "author_use": {
+          "value": "unknown",
+          "source": "J-MISQ"
+        },
+        "disclosure_required": {
+          "value": "unknown",
+          "source": "J-MISQ"
+        },
+        "ai_as_author": {
+          "value": "unknown",
+          "source": "J-MISQ"
+        },
+        "ai_images": {
+          "value": "unknown",
+          "source": "J-MISQ"
+        },
+        "reviewer_use": {
+          "value": "unknown",
+          "source": "J-MISQ"
+        },
+        "reviewer_upload": {
+          "value": "unknown",
+          "source": "J-MISQ"
+        },
+        "editor_use": {
+          "value": "unknown",
+          "source": "J-MISQ"
+        }
+      },
+      "note": "",
+      "needs_review": false
+    },
+    {
+      "journal": "MIT Sloan Management Review",
+      "abbrev": "SMR",
+      "lists": [
+        "FT50"
+      ],
+      "publisher": "MIT Sloan School of Management",
+      "society": "MIT Sloan School of Management",
+      "field": "Practitioner",
+      "layers": [],
+      "effective": {
+        "author_use": {
+          "value": "unknown",
+          "source": ""
+        },
+        "disclosure_required": {
+          "value": "unknown",
+          "source": ""
+        },
+        "ai_as_author": {
+          "value": "unknown",
+          "source": ""
+        },
+        "ai_images": {
+          "value": "unknown",
+          "source": ""
+        },
+        "reviewer_use": {
+          "value": "unknown",
+          "source": ""
+        },
+        "reviewer_upload": {
+          "value": "unknown",
+          "source": ""
+        },
+        "editor_use": {
+          "value": "unknown",
+          "source": ""
+        }
+      },
+      "note": "no public AI policy found",
+      "needs_review": false
+    },
+    {
+      "journal": "Operations Research",
+      "abbrev": "OR",
+      "lists": [
+        "FT50"
+      ],
+      "publisher": "INFORMS",
+      "society": "INFORMS",
+      "field": "Operations",
+      "layers": [
+        "P-INF",
+        "J-OPRE"
+      ],
+      "effective": {
+        "author_use": {
+          "value": "unknown",
+          "source": "J-OPRE"
+        },
+        "disclosure_required": {
+          "value": "unknown",
+          "source": "J-OPRE"
+        },
+        "ai_as_author": {
+          "value": "unknown",
+          "source": "J-OPRE"
+        },
+        "ai_images": {
+          "value": "unknown",
+          "source": "J-OPRE"
+        },
+        "reviewer_use": {
+          "value": "unknown",
+          "source": "J-OPRE"
+        },
+        "reviewer_upload": {
+          "value": "unknown",
+          "source": "J-OPRE"
+        },
+        "editor_use": {
+          "value": "unknown",
+          "source": "J-OPRE"
+        }
+      },
+      "note": "",
+      "needs_review": true
+    },
+    {
+      "journal": "Organization Science",
+      "abbrev": "OrgSci",
+      "lists": [
+        "FT50"
+      ],
+      "publisher": "INFORMS",
+      "society": "INFORMS",
+      "field": "Management",
+      "layers": [
+        "P-INF"
+      ],
+      "effective": {
+        "author_use": {
+          "value": "unknown",
+          "source": "P-INF"
+        },
+        "disclosure_required": {
+          "value": "unknown",
+          "source": "P-INF"
+        },
+        "ai_as_author": {
+          "value": "unknown",
+          "source": "P-INF"
+        },
+        "ai_images": {
+          "value": "unknown",
+          "source": "P-INF"
+        },
+        "reviewer_use": {
+          "value": "unknown",
+          "source": "P-INF"
+        },
+        "reviewer_upload": {
+          "value": "unknown",
+          "source": "P-INF"
+        },
+        "editor_use": {
+          "value": "unknown",
+          "source": "P-INF"
+        }
+      },
+      "note": "no journal page found; INFORMS author rules only",
+      "needs_review": true
+    },
+    {
+      "journal": "Organizational Behavior and Human Decision Processes",
+      "abbrev": "OBHDP",
+      "lists": [
+        "FT50"
+      ],
+      "publisher": "Elsevier",
+      "society": "",
+      "field": "Management",
+      "layers": [
+        "P-ELS"
+      ],
+      "effective": {
+        "author_use": {
+          "value": "unknown",
+          "source": "P-ELS"
+        },
+        "disclosure_required": {
+          "value": "unknown",
+          "source": "P-ELS"
+        },
+        "ai_as_author": {
+          "value": "unknown",
+          "source": "P-ELS"
+        },
+        "ai_images": {
+          "value": "unknown",
+          "source": "P-ELS"
+        },
+        "reviewer_use": {
+          "value": "unknown",
+          "source": "P-ELS"
+        },
+        "reviewer_upload": {
+          "value": "unknown",
+          "source": "P-ELS"
+        },
+        "editor_use": {
+          "value": "unknown",
+          "source": "P-ELS"
+        }
+      },
+      "note": "",
+      "needs_review": true
+    },
+    {
+      "journal": "Production and Operations Management",
+      "abbrev": "POM",
+      "lists": [
+        "FT50"
+      ],
+      "publisher": "SAGE",
+      "society": "Production and Operations Management Society",
+      "field": "Operations",
+      "layers": [
+        "P-SAG"
+      ],
+      "effective": {
+        "author_use": {
+          "value": "unknown",
+          "source": "P-SAG"
+        },
+        "disclosure_required": {
+          "value": "unknown",
+          "source": "P-SAG"
+        },
+        "ai_as_author": {
+          "value": "unknown",
+          "source": "P-SAG"
+        },
+        "ai_images": {
+          "value": "unknown",
+          "source": "P-SAG"
+        },
+        "reviewer_use": {
+          "value": "unknown",
+          "source": "P-SAG"
+        },
+        "reviewer_upload": {
+          "value": "unknown",
+          "source": "P-SAG"
+        },
+        "editor_use": {
+          "value": "unknown",
+          "source": "P-SAG"
+        }
+      },
+      "note": "",
+      "needs_review": true
+    },
+    {
+      "journal": "Psychological Science",
+      "abbrev": "PSCI",
+      "lists": [
+        "FT50"
+      ],
+      "publisher": "SAGE",
+      "society": "Association for Psychological Science",
+      "field": "Psychology",
+      "layers": [
+        "P-SAG"
+      ],
+      "effective": {
+        "author_use": {
+          "value": "unknown",
+          "source": "P-SAG"
+        },
+        "disclosure_required": {
+          "value": "unknown",
+          "source": "P-SAG"
+        },
+        "ai_as_author": {
+          "value": "unknown",
+          "source": "P-SAG"
+        },
+        "ai_images": {
+          "value": "unknown",
+          "source": "P-SAG"
+        },
+        "reviewer_use": {
+          "value": "unknown",
+          "source": "P-SAG"
+        },
+        "reviewer_upload": {
+          "value": "unknown",
+          "source": "P-SAG"
+        },
+        "editor_use": {
+          "value": "unknown",
+          "source": "P-SAG"
+        }
+      },
+      "note": "",
+      "needs_review": true
+    },
+    {
+      "journal": "Psychology & Marketing",
+      "abbrev": "P&M",
+      "lists": [
+        "MktBig15"
+      ],
+      "publisher": "Wiley",
+      "society": "",
+      "field": "Marketing",
+      "layers": [
+        "P-WIL"
+      ],
+      "effective": {
+        "author_use": {
+          "value": "unknown",
+          "source": "P-WIL"
+        },
+        "disclosure_required": {
+          "value": "unknown",
+          "source": "P-WIL"
+        },
+        "ai_as_author": {
+          "value": "unknown",
+          "source": "P-WIL"
+        },
+        "ai_images": {
+          "value": "unknown",
+          "source": "P-WIL"
+        },
+        "reviewer_use": {
+          "value": "unknown",
+          "source": "P-WIL"
+        },
+        "reviewer_upload": {
+          "value": "unknown",
+          "source": "P-WIL"
+        },
+        "editor_use": {
+          "value": "unknown",
+          "source": "P-WIL"
+        }
+      },
+      "note": "",
+      "needs_review": true
+    },
+    {
+      "journal": "Quarterly Journal of Economics",
+      "abbrev": "QJE",
+      "lists": [
+        "FT50"
+      ],
+      "publisher": "Oxford University Press",
+      "society": "Harvard University",
+      "field": "Economics",
+      "layers": [
+        "P-OUP"
+      ],
+      "effective": {
+        "author_use": {
+          "value": "unknown",
+          "source": "P-OUP"
+        },
+        "disclosure_required": {
+          "value": "unknown",
+          "source": "P-OUP"
+        },
+        "ai_as_author": {
+          "value": "unknown",
+          "source": "P-OUP"
+        },
+        "ai_images": {
+          "value": "unknown",
+          "source": "P-OUP"
+        },
+        "reviewer_use": {
+          "value": "unknown",
+          "source": "P-OUP"
+        },
+        "reviewer_upload": {
+          "value": "unknown",
+          "source": "P-OUP"
+        },
+        "editor_use": {
+          "value": "unknown",
+          "source": "P-OUP"
+        }
+      },
+      "note": "",
+      "needs_review": true
+    },
+    {
+      "journal": "Research Policy",
+      "abbrev": "RP",
+      "lists": [
+        "FT50"
+      ],
+      "publisher": "Elsevier",
+      "society": "",
+      "field": "Management",
+      "layers": [
+        "P-ELS"
+      ],
+      "effective": {
+        "author_use": {
+          "value": "unknown",
+          "source": "P-ELS"
+        },
+        "disclosure_required": {
+          "value": "unknown",
+          "source": "P-ELS"
+        },
+        "ai_as_author": {
+          "value": "unknown",
+          "source": "P-ELS"
+        },
+        "ai_images": {
+          "value": "unknown",
+          "source": "P-ELS"
+        },
+        "reviewer_use": {
+          "value": "unknown",
+          "source": "P-ELS"
+        },
+        "reviewer_upload": {
+          "value": "unknown",
+          "source": "P-ELS"
+        },
+        "editor_use": {
+          "value": "unknown",
+          "source": "P-ELS"
+        }
+      },
+      "note": "",
+      "needs_review": true
+    },
+    {
+      "journal": "Review of Accounting Studies",
+      "abbrev": "RAST",
+      "lists": [
+        "FT50"
+      ],
+      "publisher": "Springer Nature",
+      "society": "",
+      "field": "Accounting",
+      "layers": [
+        "P-SPR"
+      ],
+      "effective": {
+        "author_use": {
+          "value": "unknown",
+          "source": "P-SPR"
+        },
+        "disclosure_required": {
+          "value": "unknown",
+          "source": "P-SPR"
+        },
+        "ai_as_author": {
+          "value": "unknown",
+          "source": "P-SPR"
+        },
+        "ai_images": {
+          "value": "unknown",
+          "source": "P-SPR"
+        },
+        "reviewer_use": {
+          "value": "unknown",
+          "source": "P-SPR"
+        },
+        "reviewer_upload": {
+          "value": "unknown",
+          "source": "P-SPR"
+        },
+        "editor_use": {
+          "value": "unknown",
+          "source": "P-SPR"
+        }
+      },
+      "note": "",
+      "needs_review": true
+    },
+    {
+      "journal": "Review of Economic Studies",
+      "abbrev": "REStud",
+      "lists": [
+        "FT50"
+      ],
+      "publisher": "Oxford University Press",
+      "society": "Review of Economic Studies Ltd",
+      "field": "Economics",
+      "layers": [
+        "P-OUP"
+      ],
+      "effective": {
+        "author_use": {
+          "value": "unknown",
+          "source": "P-OUP"
+        },
+        "disclosure_required": {
+          "value": "unknown",
+          "source": "P-OUP"
+        },
+        "ai_as_author": {
+          "value": "unknown",
+          "source": "P-OUP"
+        },
+        "ai_images": {
+          "value": "unknown",
+          "source": "P-OUP"
+        },
+        "reviewer_use": {
+          "value": "unknown",
+          "source": "P-OUP"
+        },
+        "reviewer_upload": {
+          "value": "unknown",
+          "source": "P-OUP"
+        },
+        "editor_use": {
+          "value": "unknown",
+          "source": "P-OUP"
+        }
+      },
+      "note": "",
+      "needs_review": true
+    },
+    {
+      "journal": "Review of Finance",
+      "abbrev": "RoF",
+      "lists": [
+        "FT50"
+      ],
+      "publisher": "Oxford University Press",
+      "society": "European Finance Association",
+      "field": "Finance",
+      "layers": [
+        "P-OUP"
+      ],
+      "effective": {
+        "author_use": {
+          "value": "unknown",
+          "source": "P-OUP"
+        },
+        "disclosure_required": {
+          "value": "unknown",
+          "source": "P-OUP"
+        },
+        "ai_as_author": {
+          "value": "unknown",
+          "source": "P-OUP"
+        },
+        "ai_images": {
+          "value": "unknown",
+          "source": "P-OUP"
+        },
+        "reviewer_use": {
+          "value": "unknown",
+          "source": "P-OUP"
+        },
+        "reviewer_upload": {
+          "value": "unknown",
+          "source": "P-OUP"
+        },
+        "editor_use": {
+          "value": "unknown",
+          "source": "P-OUP"
+        }
+      },
+      "note": "",
+      "needs_review": true
+    },
+    {
+      "journal": "Review of Financial Studies",
+      "abbrev": "RFS",
+      "lists": [
+        "FT50"
+      ],
+      "publisher": "Oxford University Press",
+      "society": "Society for Financial Studies",
+      "field": "Finance",
+      "layers": [
+        "P-OUP"
+      ],
+      "effective": {
+        "author_use": {
+          "value": "unknown",
+          "source": "P-OUP"
+        },
+        "disclosure_required": {
+          "value": "unknown",
+          "source": "P-OUP"
+        },
+        "ai_as_author": {
+          "value": "unknown",
+          "source": "P-OUP"
+        },
+        "ai_images": {
+          "value": "unknown",
+          "source": "P-OUP"
+        },
+        "reviewer_use": {
+          "value": "unknown",
+          "source": "P-OUP"
+        },
+        "reviewer_upload": {
+          "value": "unknown",
+          "source": "P-OUP"
+        },
+        "editor_use": {
+          "value": "unknown",
+          "source": "P-OUP"
+        }
+      },
+      "note": "",
+      "needs_review": true
+    },
+    {
+      "journal": "Strategic Entrepreneurship Journal",
+      "abbrev": "SEJ",
+      "lists": [
+        "FT50"
+      ],
+      "publisher": "Wiley",
+      "society": "Strategic Management Society",
+      "field": "Entrepreneurship",
+      "layers": [
+        "P-WIL"
+      ],
+      "effective": {
+        "author_use": {
+          "value": "unknown",
+          "source": "P-WIL"
+        },
+        "disclosure_required": {
+          "value": "unknown",
+          "source": "P-WIL"
+        },
+        "ai_as_author": {
+          "value": "unknown",
+          "source": "P-WIL"
+        },
+        "ai_images": {
+          "value": "unknown",
+          "source": "P-WIL"
+        },
+        "reviewer_use": {
+          "value": "unknown",
+          "source": "P-WIL"
+        },
+        "reviewer_upload": {
+          "value": "unknown",
+          "source": "P-WIL"
+        },
+        "editor_use": {
+          "value": "unknown",
+          "source": "P-WIL"
+        }
+      },
+      "note": "",
+      "needs_review": true
+    },
+    {
+      "journal": "Strategic Management Journal",
+      "abbrev": "SMJ",
+      "lists": [
+        "FT50"
+      ],
+      "publisher": "Wiley",
+      "society": "Strategic Management Society",
+      "field": "Management",
+      "layers": [
+        "P-WIL"
+      ],
+      "effective": {
+        "author_use": {
+          "value": "unknown",
+          "source": "P-WIL"
+        },
+        "disclosure_required": {
+          "value": "unknown",
+          "source": "P-WIL"
+        },
+        "ai_as_author": {
+          "value": "unknown",
+          "source": "P-WIL"
+        },
+        "ai_images": {
+          "value": "unknown",
+          "source": "P-WIL"
+        },
+        "reviewer_use": {
+          "value": "unknown",
+          "source": "P-WIL"
+        },
+        "reviewer_upload": {
+          "value": "unknown",
+          "source": "P-WIL"
+        },
+        "editor_use": {
+          "value": "unknown",
+          "source": "P-WIL"
+        }
+      },
+      "note": "",
+      "needs_review": true
+    },
+    {
+      "journal": "The Accounting Review",
+      "abbrev": "TAR",
+      "lists": [
+        "FT50"
+      ],
+      "publisher": "American Accounting Association",
+      "society": "American Accounting Association",
+      "field": "Accounting",
+      "layers": [
+        "P-AAA"
+      ],
+      "effective": {
+        "author_use": {
+          "value": "unknown",
+          "source": "P-AAA"
+        },
+        "disclosure_required": {
+          "value": "unknown",
+          "source": "P-AAA"
+        },
+        "ai_as_author": {
+          "value": "unknown",
+          "source": "P-AAA"
+        },
+        "ai_images": {
+          "value": "unknown",
+          "source": "P-AAA"
+        },
+        "reviewer_use": {
+          "value": "unknown",
+          "source": "P-AAA"
+        },
+        "reviewer_upload": {
+          "value": "unknown",
+          "source": "P-AAA"
+        },
+        "editor_use": {
+          "value": "unknown",
+          "source": "P-AAA"
+        }
+      },
+      "note": "",
+      "needs_review": true
+    }
+  ],
+  "sources": {
+    "P-ELS": {
+      "id": "P-ELS",
+      "entity": "Elsevier",
+      "level": "publisher",
+      "url": "https://www.elsevier.com/about/policies-and-standards/generative-ai-policies-for-journals",
+      "verified": false,
+      "status": "found",
+      "summary": "",
+      "evidence": [],
+      "fields": {
+        "author_use": "unknown",
+        "disclosure_required": "unknown",
+        "ai_as_author": "unknown",
+        "ai_images": "unknown",
+        "reviewer_use": "unknown",
+        "reviewer_upload": "unknown",
+        "editor_use": "unknown"
+      },
+      "disclosure_location": [],
+      "confidence": "",
+      "page_last_updated": "",
+      "last_checked": "2026-10-15",
+      "last_policy_change": "",
+      "fetch_ok": false
+    },
+    "P-WIL": {
+      "id": "P-WIL",
+      "entity": "Wiley",
+      "level": "publisher",
+      "url": "https://www.wiley.com/en-us/publish/article/ai-guidelines/",
+      "verified": false,
+      "status": "found",
+      "summary": "",
+      "evidence": [],
+      "fields": {
+        "author_use": "unknown",
+        "disclosure_required": "unknown",
+        "ai_as_author": "unknown",
+        "ai_images": "unknown",
+        "reviewer_use": "unknown",
+        "reviewer_upload": "unknown",
+        "editor_use": "unknown"
+      },
+      "disclosure_location": [],
+      "confidence": "",
+      "page_last_updated": "",
+      "last_checked": "2026-10-15",
+      "last_policy_change": "",
+      "fetch_ok": false
+    },
+    "P-SAG": {
+      "id": "P-SAG",
+      "entity": "SAGE",
+      "level": "publisher",
+      "url": "https://www.sagepub.com/journals/publication-ethics-policies/artificial-intelligence-policy",
+      "verified": true,
+      "status": "verified",
+      "summary": "",
+      "evidence": [],
+      "fields": {
+        "author_use": "unknown",
+        "disclosure_required": "unknown",
+        "ai_as_author": "unknown",
+        "ai_images": "unknown",
+        "reviewer_use": "unknown",
+        "reviewer_upload": "unknown",
+        "editor_use": "unknown"
+      },
+      "disclosure_location": [],
+      "confidence": "",
+      "page_last_updated": "",
+      "last_checked": "2026-10-15",
+      "last_policy_change": "",
+      "fetch_ok": false
+    },
+    "P-OUP": {
+      "id": "P-OUP",
+      "entity": "Oxford University Press",
+      "level": "publisher",
+      "url": "https://academic.oup.com/pages/for-authors/journals/preparing-and-submitting-your-manuscript/ai-principles-for-oxford-journals/policy-on-ai-use-and-disclosure-for-oxford-journals-authors",
+      "verified": false,
+      "status": "found",
+      "summary": "",
+      "evidence": [],
+      "fields": {
+        "author_use": "unknown",
+        "disclosure_required": "unknown",
+        "ai_as_author": "unknown",
+        "ai_images": "unknown",
+        "reviewer_use": "unknown",
+        "reviewer_upload": "unknown",
+        "editor_use": "unknown"
+      },
+      "disclosure_location": [],
+      "confidence": "",
+      "page_last_updated": "",
+      "last_checked": "2026-10-15",
+      "last_policy_change": "",
+      "fetch_ok": false
+    },
+    "P-SPR": {
+      "id": "P-SPR",
+      "entity": "Springer Nature",
+      "level": "publisher",
+      "url": "https://www.springer.com/gp/editorial-policies/artificial-intelligence--ai-/25428500",
+      "verified": false,
+      "status": "found",
+      "summary": "",
+      "evidence": [],
+      "fields": {
+        "author_use": "unknown",
+        "disclosure_required": "unknown",
+        "ai_as_author": "unknown",
+        "ai_images": "unknown",
+        "reviewer_use": "unknown",
+        "reviewer_upload": "unknown",
+        "editor_use": "unknown"
+      },
+      "disclosure_location": [],
+      "confidence": "",
+      "page_last_updated": "",
+      "last_checked": "2026-10-15",
+      "last_policy_change": "",
+      "fetch_ok": false
+    },
+    "P-EME": {
+      "id": "P-EME",
+      "entity": "Emerald",
+      "level": "publisher",
+      "url": "https://www.emerald.com/publish-with-us/pages/publication-ethics",
+      "verified": false,
+      "status": "found",
+      "summary": "",
+      "evidence": [],
+      "fields": {
+        "author_use": "unknown",
+        "disclosure_required": "unknown",
+        "ai_as_author": "unknown",
+        "ai_images": "unknown",
+        "reviewer_use": "unknown",
+        "reviewer_upload": "unknown",
+        "editor_use": "unknown"
+      },
+      "disclosure_location": [],
+      "confidence": "",
+      "page_last_updated": "",
+      "last_checked": "2026-10-15",
+      "last_policy_change": "",
+      "fetch_ok": false
+    },
+    "P-TF": {
+      "id": "P-TF",
+      "entity": "Taylor & Francis",
+      "level": "publisher",
+      "url": "https://taylorandfrancis.com/our-policies/ai-policy/",
+      "verified": false,
+      "status": "found",
+      "summary": "",
+      "evidence": [],
+      "fields": {
+        "author_use": "unknown",
+        "disclosure_required": "unknown",
+        "ai_as_author": "unknown",
+        "ai_images": "unknown",
+        "reviewer_use": "unknown",
+        "reviewer_upload": "unknown",
+        "editor_use": "unknown"
+      },
+      "disclosure_location": [],
+      "confidence": "",
+      "page_last_updated": "",
+      "last_checked": "2026-10-15",
+      "last_policy_change": "",
+      "fetch_ok": false
+    },
+    "P-CUP": {
+      "id": "P-CUP",
+      "entity": "Cambridge University Press",
+      "level": "publisher",
+      "url": "https://www.cambridge.org/authorhub/application/files/7617/2743/0832/AI_Policy_for_Content_Creators.pdf",
+      "verified": false,
+      "status": "found",
+      "summary": "",
+      "evidence": [],
+      "fields": {
+        "author_use": "unknown",
+        "disclosure_required": "unknown",
+        "ai_as_author": "unknown",
+        "ai_images": "unknown",
+        "reviewer_use": "unknown",
+        "reviewer_upload": "unknown",
+        "editor_use": "unknown"
+      },
+      "disclosure_location": [],
+      "confidence": "",
+      "page_last_updated": "",
+      "last_checked": "2026-10-15",
+      "last_policy_change": "",
+      "fetch_ok": false
+    },
+    "P-UCP": {
+      "id": "P-UCP",
+      "entity": "University of Chicago Press",
+      "level": "publisher",
+      "url": "https://press.uchicago.edu/resource/ai_guidelines.html",
+      "verified": false,
+      "status": "to_verify",
+      "summary": "",
+      "evidence": [],
+      "fields": {
+        "author_use": "unknown",
+        "disclosure_required": "unknown",
+        "ai_as_author": "unknown",
+        "ai_images": "unknown",
+        "reviewer_use": "unknown",
+        "reviewer_upload": "unknown",
+        "editor_use": "unknown"
+      },
+      "disclosure_location": [],
+      "confidence": "",
+      "page_last_updated": "",
+      "last_checked": "2026-10-15",
+      "last_policy_change": "",
+      "fetch_ok": false
+    },
+    "P-INF": {
+      "id": "P-INF",
+      "entity": "INFORMS",
+      "level": "publisher",
+      "url": "https://pubsonline.informs.org/authorportal/publication-ethics",
+      "verified": true,
+      "status": "verified",
+      "summary": "",
+      "evidence": [],
+      "fields": {
+        "author_use": "unknown",
+        "disclosure_required": "unknown",
+        "ai_as_author": "unknown",
+        "ai_images": "unknown",
+        "reviewer_use": "unknown",
+        "reviewer_upload": "unknown",
+        "editor_use": "unknown"
+      },
+      "disclosure_location": [],
+      "confidence": "",
+      "page_last_updated": "",
+      "last_checked": "2026-10-15",
+      "last_policy_change": "",
+      "fetch_ok": false
+    },
+    "P-AOM": {
+      "id": "P-AOM",
+      "entity": "Academy of Management",
+      "level": "publisher",
+      "url": "https://www.aom.org/publications/journals/publishing-with-aom/aom-artificial-intelligence-policy/",
+      "verified": false,
+      "status": "found",
+      "summary": "",
+      "evidence": [],
+      "fields": {
+        "author_use": "unknown",
+        "disclosure_required": "unknown",
+        "ai_as_author": "unknown",
+        "ai_images": "unknown",
+        "reviewer_use": "unknown",
+        "reviewer_upload": "unknown",
+        "editor_use": "unknown"
+      },
+      "disclosure_location": [],
+      "confidence": "",
+      "page_last_updated": "",
+      "last_checked": "2026-10-15",
+      "last_policy_change": "",
+      "fetch_ok": false
+    },
+    "P-AEA": {
+      "id": "P-AEA",
+      "entity": "American Economic Association",
+      "level": "journal",
+      "url": "https://www.aeaweb.org/journals/aer/editorial-policy",
+      "verified": true,
+      "status": "verified",
+      "summary": "",
+      "evidence": [],
+      "fields": {
+        "author_use": "unknown",
+        "disclosure_required": "unknown",
+        "ai_as_author": "unknown",
+        "ai_images": "unknown",
+        "reviewer_use": "unknown",
+        "reviewer_upload": "unknown",
+        "editor_use": "unknown"
+      },
+      "disclosure_location": [],
+      "confidence": "",
+      "page_last_updated": "",
+      "last_checked": "2026-10-15",
+      "last_policy_change": "",
+      "fetch_ok": false
+    },
+    "P-APA": {
+      "id": "P-APA",
+      "entity": "American Psychological Association",
+      "level": "publisher",
+      "url": "https://www.apa.org/pubs/journals/resources/publishing-policies",
+      "verified": false,
+      "status": "found",
+      "summary": "",
+      "evidence": [],
+      "fields": {
+        "author_use": "unknown",
+        "disclosure_required": "unknown",
+        "ai_as_author": "unknown",
+        "ai_images": "unknown",
+        "reviewer_use": "unknown",
+        "reviewer_upload": "unknown",
+        "editor_use": "unknown"
+      },
+      "disclosure_location": [],
+      "confidence": "",
+      "page_last_updated": "",
+      "last_checked": "2026-10-15",
+      "last_policy_change": "",
+      "fetch_ok": false
+    },
+    "P-AAA": {
+      "id": "P-AAA",
+      "entity": "American Accounting Association",
+      "level": "publisher",
+      "url": "https://aaahq.org/portals/0/documents/journals/Editorial-Policies/Publication%20Ethics/PUB-009%20Publications%20Ethics_AI%20and%20AI-assisted%20writing%20-%20authors%20only.pdf",
+      "verified": false,
+      "status": "found",
+      "summary": "",
+      "evidence": [],
+      "fields": {
+        "author_use": "unknown",
+        "disclosure_required": "unknown",
+        "ai_as_author": "unknown",
+        "ai_images": "unknown",
+        "reviewer_use": "unknown",
+        "reviewer_upload": "unknown",
+        "editor_use": "unknown"
+      },
+      "disclosure_location": [],
+      "confidence": "",
+      "page_last_updated": "",
+      "last_checked": "2026-10-15",
+      "last_policy_change": "",
+      "fetch_ok": false
+    },
+    "S-AMA": {
+      "id": "S-AMA",
+      "entity": "American Marketing Association",
+      "level": "society",
+      "url": "https://www.ama.org/ama-journals-editorial-policies-procedures/",
+      "verified": true,
+      "status": "verified",
+      "summary": "",
+      "evidence": [],
+      "fields": {
+        "author_use": "unknown",
+        "disclosure_required": "unknown",
+        "ai_as_author": "unknown",
+        "ai_images": "unknown",
+        "reviewer_use": "unknown",
+        "reviewer_upload": "unknown",
+        "editor_use": "unknown"
+      },
+      "disclosure_location": [],
+      "confidence": "",
+      "page_last_updated": "",
+      "last_checked": "2026-10-15",
+      "last_policy_change": "",
+      "fetch_ok": false
+    },
+    "S-ECTA": {
+      "id": "S-ECTA",
+      "entity": "Econometric Society",
+      "level": "society",
+      "url": "https://www.econometricsociety.org/publications/econometrica/editorial-procedures-and-policies",
+      "verified": true,
+      "status": "verified",
+      "summary": "",
+      "evidence": [],
+      "fields": {
+        "author_use": "unknown",
+        "disclosure_required": "unknown",
+        "ai_as_author": "unknown",
+        "ai_images": "unknown",
+        "reviewer_use": "unknown",
+        "reviewer_upload": "unknown",
+        "editor_use": "unknown"
+      },
+      "disclosure_location": [],
+      "confidence": "",
+      "page_last_updated": "",
+      "last_checked": "2026-10-15",
+      "last_policy_change": "",
+      "fetch_ok": false
+    },
+    "J-MNSC": {
+      "id": "J-MNSC",
+      "entity": "Management Science",
+      "level": "journal",
+      "url": "https://pubsonline.informs.org/page/mnsc/submission-guidelines",
+      "verified": true,
+      "status": "verified",
+      "summary": "",
+      "evidence": [],
+      "fields": {
+        "author_use": "unknown",
+        "disclosure_required": "unknown",
+        "ai_as_author": "unknown",
+        "ai_images": "unknown",
+        "reviewer_use": "unknown",
+        "reviewer_upload": "unknown",
+        "editor_use": "unknown"
+      },
+      "disclosure_location": [],
+      "confidence": "",
+      "page_last_updated": "",
+      "last_checked": "2026-10-15",
+      "last_policy_change": "",
+      "fetch_ok": false
+    },
+    "J-MKSC": {
+      "id": "J-MKSC",
+      "entity": "Marketing Science",
+      "level": "journal",
+      "url": "https://pubsonline.informs.org/page/mksc/submission-guidelines",
+      "verified": true,
+      "status": "verified",
+      "summary": "",
+      "evidence": [],
+      "fields": {
+        "author_use": "unknown",
+        "disclosure_required": "unknown",
+        "ai_as_author": "unknown",
+        "ai_images": "unknown",
+        "reviewer_use": "unknown",
+        "reviewer_upload": "unknown",
+        "editor_use": "unknown"
+      },
+      "disclosure_location": [],
+      "confidence": "",
+      "page_last_updated": "",
+      "last_checked": "2026-10-15",
+      "last_policy_change": "",
+      "fetch_ok": false
+    },
+    "J-MSOM": {
+      "id": "J-MSOM",
+      "entity": "Manufacturing & Service Operations Management",
+      "level": "journal",
+      "url": "https://pubsonline.informs.org/journal/msom/aipolicy",
+      "verified": false,
+      "status": "found",
+      "summary": "",
+      "evidence": [],
+      "fields": {
+        "author_use": "unknown",
+        "disclosure_required": "unknown",
+        "ai_as_author": "unknown",
+        "ai_images": "unknown",
+        "reviewer_use": "unknown",
+        "reviewer_upload": "unknown",
+        "editor_use": "unknown"
+      },
+      "disclosure_location": [],
+      "confidence": "",
+      "page_last_updated": "",
+      "last_checked": "2026-10-15",
+      "last_policy_change": "",
+      "fetch_ok": false
+    },
+    "J-OPRE": {
+      "id": "J-OPRE",
+      "entity": "Operations Research",
+      "level": "journal",
+      "url": "https://pubsonline.informs.org/page/opre/generative-ai-guidelines",
+      "verified": true,
+      "status": "verified",
+      "summary": "",
+      "evidence": [],
+      "fields": {
+        "author_use": "unknown",
+        "disclosure_required": "unknown",
+        "ai_as_author": "unknown",
+        "ai_images": "unknown",
+        "reviewer_use": "unknown",
+        "reviewer_upload": "unknown",
+        "editor_use": "unknown"
+      },
+      "disclosure_location": [],
+      "confidence": "",
+      "page_last_updated": "",
+      "last_checked": "2026-10-15",
+      "last_policy_change": "",
+      "fetch_ok": false
+    },
+    "J-JMS": {
+      "id": "J-JMS",
+      "entity": "Journal of Management Studies",
+      "level": "journal",
+      "url": "https://car.aom.org/discussion/jms-launches-new-policy-on-the-use-of-ai-in-research",
+      "verified": false,
+      "status": "to_verify",
+      "summary": "",
+      "evidence": [],
+      "fields": {
+        "author_use": "unknown",
+        "disclosure_required": "unknown",
+        "ai_as_author": "unknown",
+        "ai_images": "unknown",
+        "reviewer_use": "unknown",
+        "reviewer_upload": "unknown",
+        "editor_use": "unknown"
+      },
+      "disclosure_location": [],
+      "confidence": "",
+      "page_last_updated": "",
+      "last_checked": "2026-10-15",
+      "last_policy_change": "",
+      "fetch_ok": false
+    },
+    "J-MISQ": {
+      "id": "J-MISQ",
+      "entity": "MIS Quarterly",
+      "level": "journal",
+      "url": "https://misq.umn.edu/misq/article/47/3/i/3416/Editor-s-CommentsEditing-Innovation-in-MIS",
+      "verified": false,
+      "status": "to_verify",
+      "summary": "",
+      "evidence": [],
+      "fields": {
+        "author_use": "unknown",
+        "disclosure_required": "unknown",
+        "ai_as_author": "unknown",
+        "ai_images": "unknown",
+        "reviewer_use": "unknown",
+        "reviewer_upload": "unknown",
+        "editor_use": "unknown"
+      },
+      "disclosure_location": [],
+      "confidence": "",
+      "page_last_updated": "",
+      "last_checked": "2026-10-15",
+      "last_policy_change": "",
+      "fetch_ok": false
+    }
+  },
   "changes": [],
   "stats": {
-    "journals": 0,
-    "sources": 0,
-    "verified": 0
+    "journals": 59,
+    "sources": 22,
+    "verified": 8
   }
 }

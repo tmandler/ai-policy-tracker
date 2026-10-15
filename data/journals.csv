@@ -1,60 +1,60 @@
 journal,abbrev,source_list,publisher,owner_society,field,issn,publisher_policy,extra_policy,coverage_note,active,added_on
-Journal of Marketing,JM,FT50|MktBig15,SAGE,American Marketing Association,Marketing,,P-SAG,S-AMA,,yes,2026-10-14
-Journal of Marketing Research,JMR,FT50|MktBig15,SAGE,American Marketing Association,Marketing,,P-SAG,S-AMA,,yes,2026-10-14
-Journal of Consumer Research,JCR,FT50|MktBig15,Oxford University Press,Journal of Consumer Research Inc.,Marketing,,P-OUP,,no JCR-specific page found; OUP applies,yes,2026-10-14
-Journal of Consumer Psychology,JCP,FT50|MktBig15,Wiley,Society for Consumer Psychology,Marketing,,P-WIL,,,yes,2026-10-14
-Journal of the Academy of Marketing Science,JAMS,FT50|MktBig15,Springer Nature,Academy of Marketing Science,Marketing,,P-SPR,,,yes,2026-10-14
-Marketing Science,MKSC,FT50|MktBig15,INFORMS,INFORMS,Marketing,,P-INF,J-MKSC,,yes,2026-10-14
-International Journal of Research in Marketing,IJRM,MktBig15,Elsevier,European Marketing Academy (EMAC),Marketing,,P-ELS,,,yes,2026-10-14
-Journal of Retailing,JR,MktBig15,Elsevier,New York University,Marketing,,P-ELS,,,yes,2026-10-14
-Journal of Service Research,JSR,MktBig15,SAGE,,Marketing,,P-SAG,,,yes,2026-10-14
-Industrial Marketing Management,IMM,MktBig15,Elsevier,,Marketing,,P-ELS,,,yes,2026-10-14
-European Journal of Marketing,EJM,MktBig15,Emerald,,Marketing,,P-EME,,,yes,2026-10-14
+Journal of Marketing,JM,FT50|MktBig15,SAGE,American Marketing Association,Marketing,0022-2429,P-SAG,S-AMA,,yes,2026-10-14
+Journal of Marketing Research,JMR,FT50|MktBig15,SAGE,American Marketing Association,Marketing,0022-2437,P-SAG,S-AMA,,yes,2026-10-14
+Journal of Consumer Research,JCR,FT50|MktBig15,Oxford University Press,Journal of Consumer Research Inc.,Marketing,0093-5301,P-OUP,,no JCR-specific page found; OUP applies,yes,2026-10-14
+Journal of Consumer Psychology,JCP,FT50|MktBig15,Wiley,Society for Consumer Psychology,Marketing,1057-7408,P-WIL,,,yes,2026-10-14
+Journal of the Academy of Marketing Science,JAMS,FT50|MktBig15,Springer Nature,Academy of Marketing Science,Marketing,0092-0703,P-SPR,,,yes,2026-10-14
+Marketing Science,MKSC,FT50|MktBig15,INFORMS,INFORMS,Marketing,0732-2399,P-INF,J-MKSC,,yes,2026-10-14
+International Journal of Research in Marketing,IJRM,MktBig15,Elsevier,European Marketing Academy (EMAC),Marketing,0167-8116,P-ELS,,,yes,2026-10-14
+Journal of Retailing,JR,MktBig15,Elsevier,New York University,Marketing,0022-4359,P-ELS,,,yes,2026-10-14
+Journal of Service Research,JSR,MktBig15,SAGE,,Marketing,1094-6705,P-SAG,,,yes,2026-10-14
+Industrial Marketing Management,IMM,MktBig15,Elsevier,,Marketing,0019-8501,P-ELS,,,yes,2026-10-14
+European Journal of Marketing,EJM,MktBig15,Emerald,,Marketing,0309-0566,P-EME,,,yes,2026-10-14
 Psychology & Marketing,P&M,MktBig15,Wiley,,Marketing,,P-WIL,,,yes,2026-10-14
-Journal of Interactive Marketing,JNM,MktBig15,SAGE,American Marketing Association,Marketing,,P-SAG,S-AMA,,yes,2026-10-14
+Journal of Interactive Marketing,JNM,MktBig15,SAGE,American Marketing Association,Marketing,1094-9968,P-SAG,S-AMA,,yes,2026-10-14
 Journal of Public Policy & Marketing,JPPM,MktBig15,SAGE,American Marketing Association,Marketing,,P-SAG,S-AMA,,yes,2026-10-14
-Journal of International Marketing,JIM,MktBig15,SAGE,American Marketing Association,Marketing,,P-SAG,S-AMA,,yes,2026-10-14
-Academy of Management Annals,AMA-Annals,FT50,Academy of Management,Academy of Management,Management,,P-AOM,,,yes,2026-10-14
-Academy of Management Journal,AMJ,FT50,Academy of Management,Academy of Management,Management,,P-AOM,,,yes,2026-10-14
-Academy of Management Review,AMR,FT50,Academy of Management,Academy of Management,Management,,P-AOM,,,yes,2026-10-14
-"Accounting, Organizations and Society",AOS,FT50,Elsevier,,Accounting,,P-ELS,,,yes,2026-10-14
-Administrative Science Quarterly,ASQ,FT50,SAGE,Cornell University (Johnson),Management,,P-SAG,,,yes,2026-10-14
-American Economic Review,AER,FT50,American Economic Association,American Economic Association,Economics,,P-AEA,,,yes,2026-10-14
-American Sociological Review,ASR,FT50,SAGE,American Sociological Association,Sociology,,P-SAG,,,yes,2026-10-14
-Contemporary Accounting Research,CAR,FT50,Wiley,Canadian Academic Accounting Association,Accounting,,P-WIL,,,yes,2026-10-14
-Econometrica,ECTA,FT50,Wiley,Econometric Society,Economics,,P-WIL,S-ECTA,,yes,2026-10-14
-Entrepreneurship Theory and Practice,ETP,FT50,SAGE,,Entrepreneurship,,P-SAG,,,yes,2026-10-14
+Journal of International Marketing,JIM,MktBig15,SAGE,American Marketing Association,Marketing,1069-031X,P-SAG,S-AMA,,yes,2026-10-14
+Academy of Management Annals,AMA-Annals,FT50,Academy of Management,Academy of Management,Management,1941-6520,P-AOM,,,yes,2026-10-14
+Academy of Management Journal,AMJ,FT50,Academy of Management,Academy of Management,Management,0001-4273,P-AOM,,,yes,2026-10-14
+Academy of Management Review,AMR,FT50,Academy of Management,Academy of Management,Management,0363-7425,P-AOM,,,yes,2026-10-14
+"Accounting, Organizations and Society",AOS,FT50,Elsevier,,Accounting,0361-3682,P-ELS,,,yes,2026-10-14
+Administrative Science Quarterly,ASQ,FT50,SAGE,Cornell University (Johnson),Management,0001-8392,P-SAG,,,yes,2026-10-14
+American Economic Review,AER,FT50,American Economic Association,American Economic Association,Economics,0002-8282,P-AEA,,,yes,2026-10-14
+American Sociological Review,ASR,FT50,SAGE,American Sociological Association,Sociology,0003-1224,P-SAG,,,yes,2026-10-14
+Contemporary Accounting Research,CAR,FT50,Wiley,Canadian Academic Accounting Association,Accounting,0823-9150,P-WIL,,,yes,2026-10-14
+Econometrica,ECTA,FT50,Wiley,Econometric Society,Economics,0012-9682,P-WIL,S-ECTA,,yes,2026-10-14
+Entrepreneurship Theory and Practice,ETP,FT50,SAGE,,Entrepreneurship,1042-2587,P-SAG,,,yes,2026-10-14
 Harvard Business Review,HBR,FT50,Harvard Business Publishing,Harvard Business Publishing,Practitioner,,,,no public AI policy found,yes,2026-10-14
-Human Resource Management,HRM,FT50,Wiley,,Management,,P-WIL,,,yes,2026-10-14
-Information Systems Research,ISR,FT50,INFORMS,INFORMS,Information Systems,,P-INF,,no journal page found; INFORMS author rules only,yes,2026-10-14
-Journal of Accounting and Economics,JAE,FT50,Elsevier,,Accounting,,P-ELS,,,yes,2026-10-14
-Journal of Accounting Research,JAR,FT50,Wiley,University of Chicago Booth,Accounting,,P-WIL,,,yes,2026-10-14
-Journal of Applied Psychology,JAP,FT50,American Psychological Association,American Psychological Association,Management,,P-APA,,,yes,2026-10-14
-Journal of Business Venturing,JBV,FT50,Elsevier,,Entrepreneurship,,P-ELS,,,yes,2026-10-14
-Journal of Finance,JF,FT50,Wiley,American Finance Association,Finance,,P-WIL,,,yes,2026-10-14
-Journal of Financial and Quantitative Analysis,JFQA,FT50,Cambridge University Press,University of Washington (Foster),Finance,,P-CUP,,,yes,2026-10-14
-Journal of Financial Economics,JFE,FT50,Elsevier,,Finance,,P-ELS,,,yes,2026-10-14
-Journal of International Business Studies,JIBS,FT50,Springer Nature,Academy of International Business,International Business,,P-SPR,,,yes,2026-10-14
-Journal of Management,JOM,FT50,SAGE,Southern Management Association,Management,,P-SAG,,,yes,2026-10-14
-Journal of Management Information Systems,JMIS,FT50,Taylor & Francis,,Information Systems,,P-TF,,,yes,2026-10-14
-Journal of Management Studies,JMS,FT50,Wiley,Society for the Advancement of Management Studies,Management,,P-WIL,J-JMS,,yes,2026-10-14
-Journal of Operations Management,JOpM,FT50,Wiley,,Operations,,P-WIL,,,yes,2026-10-14
-Journal of Political Economy,JPE,FT50,University of Chicago Press,University of Chicago,Economics,,P-UCP,,publisher page scope unclear,yes,2026-10-14
-Management Science,MS,FT50,INFORMS,INFORMS,Operations,,P-INF,J-MNSC,,yes,2026-10-14
+Human Resource Management,HRM,FT50,Wiley,,Management,0090-4848,P-WIL,,,yes,2026-10-14
+Information Systems Research,ISR,FT50,INFORMS,INFORMS,Information Systems,1047-7047,P-INF,,no journal page found; INFORMS author rules only,yes,2026-10-14
+Journal of Accounting and Economics,JAE,FT50,Elsevier,,Accounting,0165-4101,P-ELS,,,yes,2026-10-14
+Journal of Accounting Research,JAR,FT50,Wiley,University of Chicago Booth,Accounting,0021-8456,P-WIL,,,yes,2026-10-14
+Journal of Applied Psychology,JAP,FT50,American Psychological Association,American Psychological Association,Management,0021-9010,P-APA,,,yes,2026-10-14
+Journal of Business Venturing,JBV,FT50,Elsevier,,Entrepreneurship,0883-9026,P-ELS,,,yes,2026-10-14
+Journal of Finance,JF,FT50,Wiley,American Finance Association,Finance,1027-8257,P-WIL,,,yes,2026-10-14
+Journal of Financial and Quantitative Analysis,JFQA,FT50,Cambridge University Press,University of Washington (Foster),Finance,0022-1090,P-CUP,,,yes,2026-10-14
+Journal of Financial Economics,JFE,FT50,Elsevier,,Finance,0304-405X,P-ELS,,,yes,2026-10-14
+Journal of International Business Studies,JIBS,FT50,Springer Nature,Academy of International Business,International Business,0047-2506,P-SPR,,,yes,2026-10-14
+Journal of Management,JOM,FT50,SAGE,Southern Management Association,Management,0149-2063,P-SAG,,,yes,2026-10-14
+Journal of Management Information Systems,JMIS,FT50,Taylor & Francis,,Information Systems,0742-1222,P-TF,,,yes,2026-10-14
+Journal of Management Studies,JMS,FT50,Wiley,Society for the Advancement of Management Studies,Management,0022-2380,P-WIL,J-JMS,,yes,2026-10-14
+Journal of Operations Management,JOpM,FT50,Wiley,,Operations,0272-6963,P-WIL,,,yes,2026-10-14
+Journal of Political Economy,JPE,FT50,University of Chicago Press,University of Chicago,Economics,0022-3808,P-UCP,,publisher page scope unclear,yes,2026-10-14
+Management Science,MS,FT50,INFORMS,INFORMS,Operations,0025-1909,P-INF,J-MNSC,,yes,2026-10-14
 Manufacturing & Service Operations Management,MSOM,FT50,INFORMS,INFORMS,Operations,,P-INF,J-MSOM,,yes,2026-10-14
-MIS Quarterly,MISQ,FT50,MIS Research Center (Univ. of Minnesota),MIS Research Center (Univ. of Minnesota),Information Systems,,,J-MISQ,,yes,2026-10-14
-Operations Research,OR,FT50,INFORMS,INFORMS,Operations,,P-INF,J-OPRE,,yes,2026-10-14
-Organization Science,OrgSci,FT50,INFORMS,INFORMS,Management,,P-INF,,no journal page found; INFORMS author rules only,yes,2026-10-14
-Organizational Behavior and Human Decision Processes,OBHDP,FT50,Elsevier,,Management,,P-ELS,,,yes,2026-10-14
-Production and Operations Management,POM,FT50,SAGE,Production and Operations Management Society,Operations,,P-SAG,,,yes,2026-10-14
-Psychological Science,PSCI,FT50,SAGE,Association for Psychological Science,Psychology,,P-SAG,,,yes,2026-10-14
-Quarterly Journal of Economics,QJE,FT50,Oxford University Press,Harvard University,Economics,,P-OUP,,,yes,2026-10-14
-Research Policy,RP,FT50,Elsevier,,Management,,P-ELS,,,yes,2026-10-14
-Review of Accounting Studies,RAST,FT50,Springer Nature,,Accounting,,P-SPR,,,yes,2026-10-14
-Review of Economic Studies,REStud,FT50,Oxford University Press,Review of Economic Studies Ltd,Economics,,P-OUP,,,yes,2026-10-14
-Review of Finance,RoF,FT50,Oxford University Press,European Finance Association,Finance,,P-OUP,,,yes,2026-10-14
-Review of Financial Studies,RFS,FT50,Oxford University Press,Society for Financial Studies,Finance,,P-OUP,,,yes,2026-10-14
-MIT Sloan Management Review,SMR,FT50,MIT Sloan School of Management,MIT Sloan School of Management,Practitioner,,,,no public AI policy found,yes,2026-10-14
-Strategic Entrepreneurship Journal,SEJ,FT50,Wiley,Strategic Management Society,Entrepreneurship,,P-WIL,,,yes,2026-10-14
-Strategic Management Journal,SMJ,FT50,Wiley,Strategic Management Society,Management,,P-WIL,,,yes,2026-10-14
-The Accounting Review,TAR,FT50,American Accounting Association,American Accounting Association,Accounting,,P-AAA,,,yes,2026-10-14
+MIS Quarterly,MISQ,FT50,MIS Research Center (Univ. of Minnesota),MIS Research Center (Univ. of Minnesota),Information Systems,0276-7783,,J-MISQ,,yes,2026-10-14
+Operations Research,OR,FT50,INFORMS,INFORMS,Operations,0030-364X,P-INF,J-OPRE,,yes,2026-10-14
+Organization Science,OrgSci,FT50,INFORMS,INFORMS,Management,1047-7039,P-INF,,no journal page found; INFORMS author rules only,yes,2026-10-14
+Organizational Behavior and Human Decision Processes,OBHDP,FT50,Elsevier,,Management,0749-5978,P-ELS,,,yes,2026-10-14
+Production and Operations Management,POM,FT50,SAGE,Production and Operations Management Society,Operations,1059-1478,P-SAG,,,yes,2026-10-14
+Psychological Science,PSCI,FT50,SAGE,Association for Psychological Science,Psychology,0956-7976,P-SAG,,,yes,2026-10-14
+Quarterly Journal of Economics,QJE,FT50,Oxford University Press,Harvard University,Economics,0033-5533,P-OUP,,,yes,2026-10-14
+Research Policy,RP,FT50,Elsevier,,Management,0048-7333,P-ELS,,,yes,2026-10-14
+Review of Accounting Studies,RAST,FT50,Springer Nature,,Accounting,1380-6653,P-SPR,,,yes,2026-10-14
+Review of Economic Studies,REStud,FT50,Oxford University Press,Review of Economic Studies Ltd,Economics,0034-6527,P-OUP,,,yes,2026-10-14
+Review of Finance,RoF,FT50,Oxford University Press,European Finance Association,Finance,1572-3097,P-OUP,,,yes,2026-10-14
+Review of Financial Studies,RFS,FT50,Oxford University Press,Society for Financial Studies,Finance,0893-9454,P-OUP,,,yes,2026-10-14
+MIT Sloan Management Review,SMR,FT50,MIT Sloan School of Management,MIT Sloan School of Management,Practitioner,1532-9194,,,no public AI policy found,yes,2026-10-14
+Strategic Entrepreneurship Journal,SEJ,FT50,Wiley,Strategic Management Society,Entrepreneurship,1932-4391,P-WIL,,,yes,2026-10-14
+Strategic Management Journal,SMJ,FT50,Wiley,Strategic Management Society,Management,0143-2095,P-WIL,,,yes,2026-10-14
+The Accounting Review,TAR,FT50,American Accounting Association,American Accounting Association,Accounting,0001-4826,P-AAA,,,yes,2026-10-14
