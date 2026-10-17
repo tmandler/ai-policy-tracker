@@ -2,6 +2,8 @@
 import Base from "../layouts/Base.astro";
 import data from "../data/tracker.json";
 const { labels } = data;
+const models = data.models ?? [];
+const modelText = models.length ? models.join(" and ") : "a large language model";
 ---
 <Base title="Method · AI Policy Tracker">
   <section class="intro prose">
@@ -23,8 +25,9 @@ const { labels } = data;
       shown.</p>
 
     <h2>3. Reading the policies</h2>
-    <p>Each policy page is downloaded weekly. If its text has changed, a language model reads it again and records
-      the points below. A change is reported only when one of these points changes, not when a page is merely
+    <p>Each policy page is downloaded weekly. If its text has changed, a large language model ({modelText}, by
+      Anthropic) reads it again and records the points below, with short quotes from the page as evidence. The same
+      model searches the web for missing policy pages and reads the FT50 and UTD24 list pages. A change is reported only when one of these points changes, not when a page is merely
       reworded.</p>
     <ul>{Object.entries(labels).map(([, l]) => <li>{l}</li>)}</ul>
     <p>“Not stated” means the page does not address the point; it does not mean the use is allowed.</p>

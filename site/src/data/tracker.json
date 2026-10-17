@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-17T12:53:47+00:00",
+  "generated": "2026-10-17T13:00:29+00:00",
   "labels": {
     "author_use": "Authors may use generative AI in preparing manuscripts",
     "disclosure_required": "Authors must disclose AI use ('partial' = only some uses, e.g. not copy-editing)",
@@ -24720,6 +24720,9 @@
       "entity": "Harvard Business Review",
       "url": "https://hbr.org/guidelines-for-authors"
     }
+  ],
+  "models": [
+    "Claude Sonnet 5.5"
   ],
   "stats": {
     "journals": 468,

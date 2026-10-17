@@ -1,9 +1,16 @@
+import collections
 import json
+import re
 
 from common import CHANGELOG, EXTR, JOURNALS, REVIEW, SITE_DATA, SOURCES, STATE, load_json, now, read_csv, save_json
 from extract_policies import FIELDS, KEY_FIELDS
 
 LABELS = {k: v[0] for k, v in FIELDS.items()}
+
+
+def model_name(model_id):
+    m = re.match(r"claude-([a-z]+)-(\d+)-(\d+)", model_id or "")
+    return f"Claude {m.group(1).title()} {m.group(2)}.{m.group(3)}" if m else model_id
 
 
 def run():
@@ -57,6 +64,8 @@ def run():
 
     save_json(SITE_DATA / "tracker.json", {
         "generated": now(), "labels": LABELS, "journals": journals, "sources": src_out, "changes": changes,
+        "models": [model_name(m) for m, _ in collections.Counter(
+            e.get("model") for e in extracted.values() if e and e.get("model") not in (None, "mock")).most_common()],
         "stats": {"journals": len(journals), "sources": len(src_out),
                   "verified": sum(s["verified"] for s in src_out.values())},
     })
