@@ -120,3 +120,5 @@ table.policies { border-collapse: collapse; width: 100%; table-layout: fixed; }
 @media (prefers-reduced-motion: no-preference) {
   nav a { transition: color 140ms ease, border-color 140ms ease; }
 }
+
+.policies tbody.jrow[hidden] { display: none; }
