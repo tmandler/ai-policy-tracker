@@ -57,6 +57,7 @@ h2 { font-size: 22px; margin: 28px 0 6px; }
 .filters input:focus-visible, .filters select:focus-visible { outline: 3px solid color-mix(in srgb, var(--focus) 32%, transparent); border-color: var(--focus); }
 .filters input.has-value, .filters select.has-value { background: var(--gold); border-color: var(--gold); color: #333333; }
 .filters input { flex: 1 1 260px; }
+.filters select { min-width: 0; max-width: 240px; text-overflow: ellipsis; }
 .count { color: var(--muted); font-size: 13px; margin-left: auto; font-variant-numeric: tabular-nums; }
 .legend { display: flex; flex-wrap: wrap; gap: 7px; margin-bottom: 12px; }
 .table-scroll { border: 1px solid var(--line); background: var(--surface); }
@@ -102,7 +103,7 @@ table.policies { border-collapse: collapse; width: 100%; table-layout: fixed; }
   nav { gap: 16px; min-height: 40px; }
   .intro { padding-top: 30px; }
   h1 { font-size: 32px; }
-  .filters input, .filters select { flex: 1 1 100%; }
+  .filters input, .filters select { flex: 1 1 100%; width: 100%; max-width: 100%; }
   .count { margin: 2px 0 0; }
   .table-scroll { border: 0; background: transparent; }
   table.policies, .policies tbody { display: block; }
