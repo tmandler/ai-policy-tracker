@@ -45,7 +45,7 @@ const lists = [...new Set(journals.flatMap((j) => j.lists))].sort();
             </th>
             {COLUMNS.map(([k]) => {
               const v = j.effective[k].value;
-              return <td><span class={`pill ${VALUE_TONE[v] ?? "none"}`}>{VALUE_LABELS[v] ?? v}</span></td>;
+              return <td data-label={COLUMNS.find(([column]) => column === k)?.[1]}><span class={`pill ${VALUE_TONE[v] ?? "none"}`}>{VALUE_LABELS[v] ?? v}</span></td>;
             })}
           </tr>
           <tr class="detail-row" hidden>
