@@ -101,6 +101,7 @@ const lists = [...new Set(journals.flatMap((j) => j.lists))].sort();
         r.hidden = !ok;
         if (ok) n++;
       }
+      for (const el of [q, fl, fp, ff]) el.classList.toggle("has-value", Boolean(el.value.trim()));
       count.textContent = `${n} journal${n === 1 ? "" : "s"}`;
     }
     [q, fl, fp, ff].forEach((el) => el.addEventListener("input", apply));
