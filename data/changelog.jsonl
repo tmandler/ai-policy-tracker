@@ -117,3 +117,4 @@
 {"date": "2026-10-17", "type": "policy_added", "source_id": "P-SOCIETYFOR", "entity": "Society for Industrial and Applied Mathematics"}
 {"date": "2026-10-17", "type": "source_discovered", "source_id": "S-AIS", "entity": "Association for Information Systems", "note": "replaces J-MISQ for MIS Quarterly; also applies to JAIS"}
 {"date": "2026-10-17", "type": "policy_added", "source_id": "S-AIS", "entity": "Association for Information Systems"}
+{"date": "2026-10-17", "type": "policy_changed", "source_id": "J-PPOGY", "entity": "Personnel Psychology", "fields": {"author_use": ["not_stated", "allowed_with_conditions"], "disclosure_required": ["not_stated", "partial"], "ai_as_author": ["not_stated", "prohibited"], "ai_images": ["not_stated", "allowed_with_conditions"], "reviewer_use": ["not_stated", "allowed_with_conditions"], "reviewer_upload": ["not_stated", "prohibited"], "editor_use": ["not_stated", "allowed_with_conditions"]}}

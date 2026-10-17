@@ -42,12 +42,6 @@
     "url": "https://aisel.aisnet.org/jais/authorinfo.html"
   },
   {
-    "key": "new:J-PPOGY",
-    "reason": "auto-discovered journal policy; please confirm",
-    "added": "2026-10-17",
-    "url": "https://onlinelibrary.wiley.com/page/journal/17446570/homepage/forauthors.html"
-  },
-  {
     "key": "new:J-PAR",
     "reason": "auto-discovered journal policy; please confirm",
     "added": "2026-10-17",
@@ -280,11 +274,5 @@
     "reason": "auto-discovered publisher policy; please confirm",
     "added": "2026-10-17",
     "url": "https://epubs.siam.org/artificial-intelligence"
-  },
-  {
-    "key": "notpolicy:J-PPOGY",
-    "reason": "page no longer looks like an AI policy",
-    "added": "2026-10-17",
-    "url": "https://onlinelibrary.wiley.com/page/journal/17446570/homepage/forauthors.html"
   }
 ]

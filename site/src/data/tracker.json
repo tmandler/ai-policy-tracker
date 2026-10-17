@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-17T14:44:25+00:00",
+  "generated": "2026-10-17T14:46:58+00:00",
   "labels": {
     "author_use": "Authors may use generative AI in preparing manuscripts",
     "disclosure_required": "Authors must disclose AI use ('partial' = only some uses, e.g. not copy-editing)",
@@ -16836,35 +16836,35 @@
       "effective": {
         "author_use": {
           "value": "allowed_with_conditions",
-          "source": "P-WIL"
+          "source": "J-PPOGY"
         },
         "disclosure_required": {
           "value": "partial",
-          "source": "P-WIL"
+          "source": "J-PPOGY"
         },
         "ai_as_author": {
           "value": "prohibited",
-          "source": "P-WIL"
+          "source": "J-PPOGY"
         },
         "ai_images": {
           "value": "allowed_with_conditions",
-          "source": "P-WIL"
+          "source": "J-PPOGY"
         },
         "reviewer_use": {
           "value": "allowed_with_conditions",
-          "source": "P-WIL"
+          "source": "J-PPOGY"
         },
         "reviewer_upload": {
           "value": "prohibited",
-          "source": "P-WIL"
+          "source": "J-PPOGY"
         },
         "editor_use": {
           "value": "allowed_with_conditions",
-          "source": "P-WIL"
+          "source": "J-PPOGY"
         }
       },
       "note": "",
-      "needs_review": true
+      "needs_review": false
     },
     {
       "journal": "Policy and Politics",
@@ -22037,25 +22037,62 @@
       "id": "J-PPOGY",
       "entity": "Personnel Psychology",
       "level": "journal",
-      "url": "https://onlinelibrary.wiley.com/page/journal/17446570/homepage/forauthors.html",
-      "verified": false,
-      "status": "auto_found",
-      "summary": "The Personnel Psychology author guidelines page covers submission, formatting, ethics, licensing and publication processes, but contains no policy on generative AI use by authors, reviewers or editors. The only AI-related text is a footer copyright notice reserving text and data mining and AI training rights, which is not a policy on AI use in manuscripts.",
-      "evidence": [],
+      "url": "https://authors.wiley.com/ethics-guidelines/index.html",
+      "verified": true,
+      "status": "verified",
+      "summary": "Wiley welcomes responsible author use of AI as a supplementary tool, with human oversight, rights/terms review, and disclosure when AI substantially edits, develops, or translates content (spelling/grammar tools are exempt). AI cannot be listed as an author. Reviewers and editors may use AI only to improve the clarity of written feedback (disclosed to the handling editor) and must not upload manuscripts or parts of them into AI tools.",
+      "evidence": [
+        {
+          "field": "author_use",
+          "quote": "We welcome the responsible use of AI technology"
+        },
+        {
+          "field": "disclosure_required",
+          "quote": "AI Tools used solely for spelling, grammar, and general editing are not included in these disclosure requirements."
+        },
+        {
+          "field": "disclosure_required",
+          "quote": "Authors must also disclose their use of AI Technologies when submitting a manuscript to a Wiley journal."
+        },
+        {
+          "field": "ai_as_author",
+          "quote": "these tools cannot fulfil the role of an author and must not be listed as one on an article."
+        },
+        {
+          "field": "ai_images",
+          "quote": "AI Technology may be used for creating data visualizations and illustrations, however, important restrictions apply to photograph enhancement"
+        },
+        {
+          "field": "reviewer_use",
+          "quote": "the reviewer must disclose that use to the handling editor when the review is submitted."
+        },
+        {
+          "field": "reviewer_upload",
+          "quote": "editors and peer reviewers are not permitted to upload manuscripts (or any parts of manuscripts including figures and tables) into AI Technology."
+        },
+        {
+          "field": "editor_use",
+          "quote": "editors or peer reviewers may use AI Technology to help improve the clarity or quality of the written feedback"
+        }
+      ],
       "fields": {
-        "author_use": "not_stated",
-        "disclosure_required": "not_stated",
-        "ai_as_author": "not_stated",
-        "ai_images": "not_stated",
-        "reviewer_use": "not_stated",
-        "reviewer_upload": "not_stated",
-        "editor_use": "not_stated"
+        "author_use": "allowed_with_conditions",
+        "disclosure_required": "partial",
+        "ai_as_author": "prohibited",
+        "ai_images": "allowed_with_conditions",
+        "reviewer_use": "allowed_with_conditions",
+        "reviewer_upload": "prohibited",
+        "editor_use": "allowed_with_conditions"
       },
-      "disclosure_location": [],
+      "disclosure_location": [
+        "submission_system",
+        "dedicated_statement",
+        "other"
+      ],
       "confidence": "high",
-      "page_last_updated": "",
+      "page_last_updated": "July 2026",
       "last_checked": "2026-10-17",
-      "last_policy_change": "",
+      "last_policy_change": "2026-10-17",
       "fetch_ok": true
     },
     "J-PAR": {
@@ -23972,6 +24009,42 @@
   "changes": [
     {
       "date": "2026-10-17",
+      "type": "policy_changed",
+      "source_id": "J-PPOGY",
+      "entity": "Personnel Psychology",
+      "fields": {
+        "author_use": [
+          "not_stated",
+          "allowed_with_conditions"
+        ],
+        "disclosure_required": [
+          "not_stated",
+          "partial"
+        ],
+        "ai_as_author": [
+          "not_stated",
+          "prohibited"
+        ],
+        "ai_images": [
+          "not_stated",
+          "allowed_with_conditions"
+        ],
+        "reviewer_use": [
+          "not_stated",
+          "allowed_with_conditions"
+        ],
+        "reviewer_upload": [
+          "not_stated",
+          "prohibited"
+        ],
+        "editor_use": [
+          "not_stated",
+          "allowed_with_conditions"
+        ]
+      }
+    },
+    {
+      "date": "2026-10-17",
       "type": "policy_added",
       "source_id": "S-AIS",
       "entity": "Association for Information Systems"
@@ -24756,6 +24829,6 @@
   "stats": {
     "journals": 468,
     "sources": 71,
-    "verified": 9
+    "verified": 10
   }
 }

@@ -2,7 +2,7 @@
 
 Reply to this issue with one command per line (or answer the notification email). Copy a command from below, e.g. `verify P-XYZ`. Several IDs per line work: `verify P-XYZ J-ABC`. Changes are applied within a few minutes; reply `help` for all commands.
 
-## Confirm new or moved policy pages (47)
+## Confirm new or moved policy pages (46)
 
 - **Harvard Business Review** (journal, `J-HBR`) · [open page](https://hbr.org/guidelines-for-authors): auto-discovered journal policy; please confirm
   `verify J-HBR` · `url J-HBR <correct link>` · `reject J-HBR`
@@ -18,8 +18,6 @@ Reply to this issue with one command per line (or answer the notification email)
   `verify P-ANNUALREVI` · `url P-ANNUALREVI <correct link>` · `reject P-ANNUALREVI`
 - **Journal of the Association for Information Systems** (journal, `J-JAIS`) · [open page](https://aisel.aisnet.org/jais/authorinfo.html): auto-discovered journal policy; please confirm
   `verify J-JAIS` · `url J-JAIS <correct link>` · `reject J-JAIS`
-- **Personnel Psychology** (journal, `J-PPOGY`) · [open page](https://onlinelibrary.wiley.com/page/journal/17446570/homepage/forauthors.html): auto-discovered journal policy; please confirm
-  `verify J-PPOGY` · `url J-PPOGY <correct link>` · `reject J-PPOGY`
 - **Public Administration Review** (journal, `J-PAR`) · [open page](https://onlinelibrary.wiley.com/page/journal/15406210/homepage/forauthors.html): auto-discovered journal policy; please confirm
   `verify J-PAR` · `url J-PAR <correct link>` · `reject J-PAR`
 - **Academy of Management Perspectives** (journal, `J-AMP`) · [open page](https://www.aom.org/publications/journals/publishing-with-aom/author-and-reviewer-resources/author-resources/submitting-to-perspectives/): auto-discovered journal policy; please confirm
@@ -98,9 +96,4 @@ Reply to this issue with one command per line (or answer the notification email)
   `verify P-NORDICASSO` · `url P-NORDICASSO <correct link>` · `reject P-NORDICASSO`
 - **Society for Industrial and Applied Mathematics** (publisher, `P-SOCIETYFOR`) · [open page](https://epubs.siam.org/artificial-intelligence): auto-discovered publisher policy; please confirm
   `verify P-SOCIETYFOR` · `url P-SOCIETYFOR <correct link>` · `reject P-SOCIETYFOR`
-
-## Check how a page was read (1)
-
-- **Personnel Psychology** (journal, `J-PPOGY`) · [open page](https://onlinelibrary.wiley.com/page/journal/17446570/homepage/forauthors.html): page no longer looks like an AI policy
-  `verify J-PPOGY` · `url J-PPOGY <correct link>` · `reject J-PPOGY`
 

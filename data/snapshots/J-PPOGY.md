@@ -1,592 +1,706 @@
-- Skip to Main Content
+Best Practice Guidelines on Publishing Ethics | Wiley
 
-[![Wiley Online Library](https://onlinelibrary.wiley.com/pb-assets/hub-assets/pericles/logo-header-1690978619437.png)](https://onlinelibrary.wiley.com/ "")
+Top
 
-[![Wiley Online Library](https://onlinelibrary.wiley.com/pb-assets/hub-assets/pericles/mobilehublogo-1690978876347.png)](https://onlinelibrary.wiley.com/ "")
+Page Content
 
-Search withinThis JournalAnywhere
+Aims and scope
 
-- Search term
+Research integrity at Wiley
 
-[Advanced Search](https://onlinelibrary.wiley.com/search/advanced?publication=17446570 "") [Citation Search](https://onlinelibrary.wiley.com/search/advanced?publication=17446570#citation "")
+Academic debate
 
-- Search term
+Appeals
 
-[Advanced Search](https://onlinelibrary.wiley.com/search/advanced "") [Citation Search](https://onlinelibrary.wiley.com/search/advanced#citation "")
+Artificial Intelligence
 
+Authorship
 
-Login / Register
+Citations
 
-- [Individual login](https://onlinelibrary.wiley.com/action/showLogin?acdl-redirect=true&uri=%2Fpage%2Fjournal%2F17446570%2Fhomepage%2Fforauthors.html)
-- [Institutional login](https://onlinelibrary.wiley.com/action/ssostart?redirectUri=%2Fpage%2Fjournal%2F17446570%2Fhomepage%2Fforauthors.html)
-- [REGISTER](https://onlinelibrary.wiley.com/action/registration?redirectUri=%2Fpage%2Fjournal%2F17446570%2Fhomepage%2Fforauthors.html&acdl-redirect=true)
+Conflicts of interest
 
-- [Journal](https://onlinelibrary.wiley.com/page/journal/17446570/homepage/forauthors.html#)
+Copyright and intellectual property
 
+Corrections, expressions of concern, retractions, and withdrawals
 
+Data and reporting guidelines
 
+Diversity, Equity and Inclusion
 
-  - [About](https://onlinelibrary.wiley.com/page/journal/17446570/homepage/forauthors.html#)
-    - [Overview](https://onlinelibrary.wiley.com/page/journal/17446570/homepage/productinformation.html)
-    - [Journal Metrics](https://onlinelibrary.wiley.com/journal/17446570/journal-metrics)
-    - [Contact](https://onlinelibrary.wiley.com/page/journal/17446570/homepage/contact.html)
-    - [Editorial Board](https://onlinelibrary.wiley.com/page/journal/17446570/homepage/editorialboard.html)
-    - [Become a Wiley Editor](https://form.typeform.com/to/CP5B8fYd?utm_source=WOL)
-    - [OA Advantages](https://onlinelibrary.wiley.com/page/journal/17446570/homepage/oa-advantages)
-    - [Advertise](https://onlinelibrary.wiley.com/page/journal/17446570/homepage/advertise.html)
-    - [Permissions](https://onlinelibrary.wiley.com/page/journal/17446570/homepage/permissions.html)
-    - [Reviewer Resources](https://onlinelibrary.wiley.com/page/journal/17446570/homepage/reviewerguidelines.html)
-  - [Authors](https://onlinelibrary.wiley.com/page/journal/17446570/homepage/forauthors.html#)
-    - [Author Guidelines](https://onlinelibrary.wiley.com/page/journal/17446570/homepage/forauthors.html)
-    - [Open Access](https://onlinelibrary.wiley.com/page/journal/17446570/homepage/fundedaccess.html)
-    - [Submit a Manuscript](https://onlinelibrary.wiley.com/page/journal/17446570/homepage/forauthors.html?)
-    - [Call for Papers](https://onlinelibrary.wiley.com/page/journal/17446570/call-for-papers)
-    - [Reviewer Resources](http://wileypeerreview.com/)
+Fabrication, falsification, and image manipulation
 
-- [_![](https://onlinelibrary.wiley.com/pb-assets/hub-assets/pericles/articles_1-1499257321163.png)_ Articles](https://onlinelibrary.wiley.com/page/journal/17446570/homepage/forauthors.html#)
+Investigation of questionable research practices
 
+Juristictional neutrality
 
+Peer review
 
+Plagiarism, duplicate/redundant publication, text recycling, and translations
 
-  - [Browse](https://onlinelibrary.wiley.com/page/journal/17446570/homepage/forauthors.html#)
-    - [Early View](https://onlinelibrary.wiley.com/toc/17446570/0/0)
-    - [Current Issue](https://onlinelibrary.wiley.com/toc/17446570/current)
-    - [All Issues](https://onlinelibrary.wiley.com/loi/17446570)
-    - [Personnel Psychology Awards](https://onlinelibrary.wiley.com/page/journal/17446570/homepage/personnel-psychology-awards)
-    - [Special Issues and Article Collections](https://onlinelibrary.wiley.com/page/journal/17446570/homepage/article-collections.html)
+Preprints
 
-- [Actions](https://onlinelibrary.wiley.com/page/journal/17446570/homepage/forauthors.html#)
+Research ethics
 
+Research funding
 
-## Tools
+Sanctions
 
+Systemic manipulation of the publication process
 
+Best Practice Guidelines on
+Research Integrity and Publishing Ethics
 
+Page Content
 
+Aims and scope
 
-  - [Journal Metrics](https://onlinelibrary.wiley.com/journal/17446570/journal-metrics)
+Research integrity at Wiley
 
-## Follow journal
+Academic debate
 
-  - [Sign-up for alerts](https://onlinelibrary.wiley.com/action/doUpdateAlertSettings?action=addJournal&journalCode=17446570)
-  - [Most recent (RSS)](https://onlinelibrary.wiley.com/feed/17446570/most-recent)
-  - [Most cited (RSS)](https://onlinelibrary.wiley.com/feed/17446570/most-cited)
+Appeals
 
-[Personnel Psychology\\
-![Personnel Psychology](https://onlinelibrary.wiley.com/pb-assets/journal-banners/17446570-1768599355697.jpg)](https://onlinelibrary.wiley.com/journal/17446570 "Personnel Psychology homepage")
+Artificial Intelligence
 
-[menu drawer](https://onlinelibrary.wiley.com/page/journal/17446570/homepage/forauthors.html#undefined "menu drawer")
+Authorship
 
-## Navigation Bar
+Citations
 
-### Menu
+Conflicts of interest
 
-[Home](https://onlinelibrary.wiley.com/)
+Copyright and intellectual property
 
-- [Home](https://onlinelibrary.wiley.com/journal/17446570)
-- [About](https://onlinelibrary.wiley.com/page/journal/17446570/homepage/forauthors.html#)
-  - [Overview](https://onlinelibrary.wiley.com/page/journal/17446570/homepage/productinformation.html)
-  - [Journal Metrics](https://onlinelibrary.wiley.com/journal/17446570/journal-metrics)
-  - [Contact](https://onlinelibrary.wiley.com/page/journal/17446570/homepage/contact.html)
-  - [Editorial Board](https://onlinelibrary.wiley.com/page/journal/17446570/homepage/editorialboard.html)
-  - [Become a Wiley Editor](https://form.typeform.com/to/CP5B8fYd?utm_source=WOL)
-  - [OA Advantages](https://onlinelibrary.wiley.com/page/journal/17446570/homepage/oa-advantages)
-  - [Advertise](https://onlinelibrary.wiley.com/page/journal/17446570/homepage/advertise.html)
-  - [Permissions](https://onlinelibrary.wiley.com/page/journal/17446570/homepage/permissions.html)
-  - [Reviewer Resources](https://onlinelibrary.wiley.com/page/journal/17446570/homepage/reviewerguidelines.html)
-- [Authors](https://onlinelibrary.wiley.com/page/journal/17446570/homepage/forauthors.html#)
-  - [Author Guidelines](https://onlinelibrary.wiley.com/page/journal/17446570/homepage/forauthors.html)
-  - [Open Access](https://onlinelibrary.wiley.com/page/journal/17446570/homepage/fundedaccess.html)
-  - [Submit a Manuscript](https://onlinelibrary.wiley.com/page/journal/17446570/homepage/forauthors.html?)
-  - [Call for Papers](https://onlinelibrary.wiley.com/page/journal/17446570/call-for-papers)
-  - [Reviewer Resources](http://wileypeerreview.com/)
-- [Browse](https://onlinelibrary.wiley.com/page/journal/17446570/homepage/forauthors.html#)
-  - [Early View](https://onlinelibrary.wiley.com/toc/17446570/0/0)
-  - [Current Issue](https://onlinelibrary.wiley.com/toc/17446570/current)
-  - [All Issues](https://onlinelibrary.wiley.com/loi/17446570)
-  - [Personnel Psychology Awards](https://onlinelibrary.wiley.com/page/journal/17446570/homepage/personnel-psychology-awards)
-  - [Special Issues and Article Collections](https://onlinelibrary.wiley.com/page/journal/17446570/homepage/article-collections.html)
+Corrections, expressions of concern, retractions, and withdrawals
 
-- [Sign-up for alerts](https://onlinelibrary.wiley.com/action/doUpdateAlertSettings?action=addJournal&journalCode=17446570)
-- [RSS Feeds](https://onlinelibrary.wiley.com/page/journal/17446570/homepage/forauthors.html#)
+Data and reporting guidelines
 
-  - [Most recent (RSS)](https://onlinelibrary.wiley.com/feed/17446570/most-recent)
-  - [Most cited (RSS)](https://onlinelibrary.wiley.com/feed/17446570/most-cited)
+Diversity, Equity and Inclusion
 
-## Author Guidelines
+Fabrication, falsification, and image manipulation
 
-**Contents**
+Investigation of questionable research practices
 
-1. [**Submission**](https://onlinelibrary.wiley.com/page/journal/17446570/homepage/forauthors.html#submission)
-2. [**Aims and Scope**](https://onlinelibrary.wiley.com/page/journal/17446570/homepage/forauthors.html#scope)
-3. [**Preparing Your Submission**](https://onlinelibrary.wiley.com/page/journal/17446570/homepage/forauthors.html#preparing)
-4. [**Editorial Policies and Ethical Considerations**](https://onlinelibrary.wiley.com/page/journal/17446570/homepage/forauthors.html#editorial)
-5. [**Author Licensing**](https://onlinelibrary.wiley.com/page/journal/17446570/homepage/forauthors.html#licensing)
-6. [**Publication Process After Acceptance**](https://onlinelibrary.wiley.com/page/journal/17446570/homepage/forauthors.html#postaccept)
-7. [**Post Publication**](https://onlinelibrary.wiley.com/page/journal/17446570/homepage/forauthors.html#postpub)
-8. **[Editorial Office Contact Details](https://onlinelibrary.wiley.com/page/journal/17446570/homepage/forauthors.html#contact)**
+Juristictional neutrality/a>
 
-**1\. SUBMISSION**
+Peer review
 
-Thank you for your interest in _Personnel Psychology_.
+Plagiarism, duplicate/redundant publication, text recycling, and translations
 
-Note that submission implies that the content has not been published or submitted for publication elsewhere except as a brief abstract in the proceedings of a scientific meeting or symposium.
+Preprints
 
-New submissions should be made via the Wiley Authors submission portal [https://authors.wiley.com/journal/PEPS](https://authors.wiley.com/journal/PEPS). Should your manuscript proceed to the revision stage, you will be directed to make your revisions via the same submission portal. You may check the status of your submission at anytime by logging on to submission.wiley.com and clicking the “My Submissions” button. For technical help with the submission system, please review our [FAQs](https://submissionhelp.wiley.com/) or contact [submissionhelp@wiley.com](mailto:submissionhelp@wiley.com).
+Research ethics
 
-**Data Protection**
+Research funding
 
-By submitting a manuscript to or reviewing for this publication, your name, email address, and affiliation, and other contact details the publication might require, will be used for the regular operations of the publication, including, when necessary, sharing with the publisher (Wiley) and partners for production and publication. The publication and the publisher recognize the importance of protecting the personal information collected from users in the operation of these services, and have practices in place to ensure that steps are taken to maintain the security, integrity, and privacy of the personal data collected and processed. You can learn more at [https://authorservices.wiley.com/statements/data-protection-policy.html](https://authorservices.wiley.com/statements/data-protection-policy.html).
+Sanctions
 
-**Preprint policy**
+Systemic manipulation of the publication process
 
-Please find the Wiley preprint policy [here](https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/preprints-policy.html).
+Aims and scope
 
-This journal accepts articles previously published on preprint servers.
+The policies outlined here aim to support authors and researchers in all aspects of scholarly publishing in Wiley journals and publications. These policies are also available in 
+Chinese
+.
 
-Wiley's Preprints Policy statement for subscription/hybrid open access journals:
+Research integrity at Wiley
 
-Personnel Psychology will consider for review articles previously available as preprints. Authors may also post the submitted version of a manuscript to a preprint server at any time. Authors are requested to update any pre-publication versions with a link to the final published article.
+Wileyâs 
+Research Integrity team
+ develops and implements policies and best practices across our publishing workflows. We also share our findings with the scholarly community and lead critical discussions on research integrity across the industry. Through our 
+Integrity Assurance & Case Resolution team
+, we investigate and resolve research integrity concerns in line with our own policies and workflows, which are informed by the Committee on Publication Ethics 
+(COPE) guidelines
+, correcting the scholarly record where necessary. Research integrity concerns can be raised by emailing 
+researchintegrity@wiley.com
+; the Integrity Assurance and Case Resolution team will work with the journalâs editor to review and take the appropriate action. 
 
-**2\. AIMS AND SCOPE**
+Academic debate
 
-_Personnel Psychology_ publishes rigorous and relevant research that advances understanding of people and work, with applied relevance serving as a defining feature of contribution. The journal publishes research that spans the full range of industrial-organizational psychology, human resource management, organizational behavior, and related organizational sciences, including but not limited to job and work design, selection and assessment, training and development, performance management, compensation and rewards, careers, work-family issues, leadership, teams, employee health and well-being, equity and inclusion, technology and work, global and cross-cultural issues, and strategic human resource systems. Research conducted at multiple levels of analysis, such as individual, team, organizational, and societal levels, as well as research using diverse methodological approaches is encouraged, provided it meaningfully informs understanding of real-world working lives. _Personnel Psychology_ publishes original empirical research, theory development with applied aims, meta-analytic reviews, and integrative literature reviews that advance explanation and application in the science of people and work. Articles are evaluated by at least two reviewers and an editor. Reviewers are chosen for their expertise in the topic area.
+Wiley journals encourage academic debate by giving authors the opportunity to publish letters to the editor or correspondence articles where appropriate. Please note that submitting post-publication critique of an article does not guarantee publication. Letters critiquing articles are often peer reviewed, and the authors of the original article are usually given an opportunity to respond. When correspondence discusses a published article, we follow COPE guidance on 
+handling of post-publication critiques
+. 
 
-_Personnel Psychology_ places practical and societal relevance at the forefront of contribution. Manuscripts are evaluated based on practical, theoretical, and empirical contributions, but they are viewed as interdependent strands of a single rope, strongest when woven together to strengthen knowledge and action. Decisions regarding the acceptance of an article for publication are based on judgments of the article’s contribution with regard to:
+Appeals
 
-- Ideas (theoretical reasoning with applied orientation): Theoretical contributions must extend beyond abstract constructs. Strong theory or theoretical reasoning clarifies mechanisms that matter for practice, identifies conditions under which interventions succeed or fail, and points toward implementable solutions. Theoretical reasoning with an applied orientation means developing or refining ideas in ways that reveal mechanisms with practical leverage. Whenever possible, theoretical work should draw on applied populations, address real-world problems, or lay the foundation for tools, frameworks, or policies with a practical use case.
-- Evidence (empirical rigor): Rigorous data test, refine, and contextualize ideas, strengthening insights so they can be applied reliably. Strong empirical work uses appropriate designs, diverse and applied samples, and transparent methods to ensure findings generalize to the contexts in which individuals are embedded. Evidence not only tests ideas but also generates knowledge that can be trusted and applied in real-world contexts.
-- Impact (practical and societal relevance): Research must demonstrate why it matters and what it enables practitioners, leaders, employees, or policymakers to do differently. Actionability is essential. We recognize that relevance involves judgment. Our goal is to make those judgments transparent by emphasizing clarity about who benefits, what changes, and why it matters.
+Wiley journals consider substantiated appeals of editorial decisions if they provide new evidence or information. Authors should submit their appeal to the relevant journal using the contact details provided on Wiley Online Library. 
 
-**3\. PREPARING THE SUBMISSION**
+Artificial Intelligence
 
-**Data Sharing and Data Availability**
+General Guidance & Best Practice
 
-This journal expects data sharing, which means that authors are required to provide a data availability statement to describe the availability or the absence of shared data. Review [Wiley’s Data Sharing policy](https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/data-sharing-citation/data-sharing-policy.html) where you will be able to see and select the data availability statement that is right for your submission.
+Authors may wish to use artificial intelligence tools or technologies (âAI Technologyâ) when preparing a manuscript for submission to a Wiley journal. When used responsibly, AI Technology can help authors maintain high editorial standards, safeguard intellectual property and other rights, and foster transparency with readers. We welcome the responsible use of AI technology, and our 
+ AI guidelines for researchers
+ provide more detailed information. Authors remain fully accountable for their submissions and any tools or sources they use.
 
-**Formatting**
+Review terms and conditions
+Authors should carefully review the terms and conditions, terms of use, and any other conditions or licenses associated with the AI Technology they are considering. Authors must confirm that the AI Technology does not claim ownership or copyright of their content or impose limitations on how it could be used. These restrictions could affect the authorâs or Wiley's rights, including the ability to publish a submission following acceptance. Authors should periodically revisit the AI Technologyâs terms to ensure ongoing compliance.
 
-Authors should prepare their manuscripts for blind review according to the directions provided in the Publication Manual of the American Psychological Association (APA), and ensure that DOI numbers are included for all articles referenced in the manuscript. Be sure to remove any information that may potentially reveal the identity of the authors to the review team.
+Human Oversight
+ Authors may only use AI Technology as an additional tool in their writing process, not a replacement for their own expertise and judgement. As always, authors remain fully responsible for the accuracy of all content and must verify that all claims, citations, and analyses align with their expertise and research. Before including AI-generated content in a journal submission, authors must carefully review it to ensure the final work reflects their own expertise, voice, and originality and that it complies with Wiley's ethical and editorial standards.
 
-**Free Format submission**
+Disclosure
+Authors should document all AI Technology used, including its purpose, whether it influenced key arguments or conclusions, and how they personally reviewed and verified any AI-generated content. Authors must also disclose their use of AI Technologies when submitting a manuscript to a Wiley journal. If disclosure is not provided at submission, it may be requested during peer review or after publication. Transparency is essential to our commitment to ethical publishing and integrity. Additional, specific guidance around AI disclosure is available in the section titled 
+âSpecific guidanceâ
 
-_Personnel Psychology_ now offers [Free Format submission](https://authorservices.wiley.com/author-resources/Journal-Authors/Prepare/free-format-submission.html) for a simplified and streamlined submission process.
+Rights Protection
+Authors must not use any AI Technology that restricts their own, Wileyâs, or any other partyâs use of the submission. Authors must ensure the AI Technology and the provider of that AI Technology does not gain any rights over the authorâs underlying content, including the right to âtrainâ their AI Technology on the content, The only exception is the limited right to access and use the submission to provide the service. By reviewing an AI Technologyâs terms and conditions, especially for clauses related to âownership,â âdata reuse,â âtraining,â or âopt outâ among others, authors can prevent unintended transfers of rights.
 
-Before you submit, you will need:
+Responsible and Ethical Use
+Authors must use AI Technology in a way that aligns with privacy, confidentiality, and compliance obligations. This includes respecting data protection laws, avoiding the use of AI to replicate the unique style or voice of others, and fact-checking AI-generated content for accuracy and neutrality. Authors should be aware of 
+potential biases
+ in AI outputs and remove any stereotypes or misinformation. For guidance on what to look for when evaluating AI Technologies to protect your research and data, please refer to this 
+table
+. 
 
-- Your manuscript: this should be an editable file including text, figures, and tables, or separate files—whichever you prefer. All required sections should be contained in your manuscript, including abstract, introduction, methods, results, and conclusions. Figures and tables should have legends. Figures should be uploaded in the highest resolution possible. If the figures are not of sufficiently high quality your manuscript may be delayed. References may be submitted in any style or format, as long as it is consistent throughout the manuscript. Supporting information should be submitted in separate files. If the manuscript, figures or tables are difficult for you to read, they will also be difficult for the editors and reviewers, and the editorial office will send it back to you for revision. Your manuscript may also be sent back to you for revision if the quality of English language is poor.
-- An ORCID ID, freely available at [https://orcid.org](https://orcid.org/). _(Why is this important? Your article, if accepted and published, will be attached to your ORCID profile. Institutions and funders are increasingly requiring authors to have ORCID IDs.)_
-- The title page of the manuscript, including:
-  - Your co-author details, including affiliation and email address. _(Why is this important? We need to keep all co-authors informed of the outcome of the peer review process.)_
-  - Statements relating to our ethics and integrity policies, which may include any of the following _(Why are these important? We need to uphold rigorous ethical standards for the research we consider for publication)_:
-    - data availability statement
-    - funding statement
-    - conflict of interest disclosure
-    - ethics approval statement
-    - patient consent statement
-    - permission to reproduce material from other sources
-    - clinical trial registration
+Adherence to Agreements
+Authors must adhere to the terms and conditions of their license agreement with Wiley. Authors remain responsible for upholding the warranties in those agreements. The terms potentially affected by using AI Technology are: ensuring their submission is original, that it has not been previously published, and that they have the right to grant the necessary permissions to Wiley as written in their agreement.  Standard author agreements are explained in more detail in 
+understanding copyright and licensing.
 
-The journal does not have a strict page limit, but most manuscripts submitted to the journal are shorter than 50 pages (including references, tables, and figures), with some exceptions made for meta-analyses and those that report the results of multiple studies. Articles deemed too long for their contribution will be returned without a review.
+We value authors' unique creativity and expertise, and view AI Technologies as tools that enhance, rather than replace, creativity. We remain committed to providing clear guidance that builds trust with readers, protects authors' and Wileyâs rights, and upholds the quality of published content. These guidelines will continue to evolve along with technology and author needs. For additional context, please refer to the 
+STMâs guidance on generative AI in scholarly communications 
+ regarding the role of generative AI technologies.
 
-For the purposes of quicker submission and faster entry into peer review your initial submission can be in the form of one document. This document in .doc, .docx or .rtf format must be blinded and include the abstract, keywords, main text, references, tables, figures and appendices if applicable.
+Specific guidance
 
-**Cover Letter**
+Disclosure:
+ If an author has used AI Technology to substantially edit, develop, or translate any part of a manuscript, its use must be described transparently and integrated into the manuscript as described in our guidance 
+on disclosure and declaration of AI use
+. AI Tools used solely for spelling, grammar, and general editing are not included in these disclosure requirements. Please see the 
+example disclosure statements
+ provided. Authors remain fully responsible for the accuracy of any information provided by the AI Technology and for correctly referencing any supporting work. 
 
-This section is included as a part of the submission questions within the submission portal. Please be sure to include the following:
+  AI Technology may be used for creating data visualizations and illustrations, however, important restrictions apply to photograph enhancement to protect research integrity, see guidance on 
+data visualizations, illustrations and photographs with AI
+. The final decision on whether using AI Technology is appropriate or permissible for a submitted manuscript or a published article belongs to the journalâs editor or other party responsible for the publicationâs editorial policy.
 
-- Any information about earlier versions of this paper, or the data used in the current paper, that are important to bring to the Editor’s attention.
-- If the dataset used in the paper is also used in a different paper (published or in progress), even if there is no variable overlap, please include a data transparency table explaining which manuscripts include which variables, and how the manuscripts are different from each other.
+AI & Authorship:
+ AI Technology is not considered capable of initiating an original piece of research without human direction. Such tools cannot be held accountable for published work or for research design, which are both requirements of authorship (as discussed in the Authorship section in these guidelines). AI Technology also lacks legal standing and cannot hold or assign copyright. Therefore, in accordance with 
+COPEâs position statement on Authorship and AI tools
+ these tools cannot fulfil the role of an author and must not be listed as one on an article. 
 
-**Title Page** Please upload a title page along with your manuscript. The title page should be uploaded as a separate file, and should contain:
+Peer Review:
+ Authors should be aware that editors or peer reviewers may use AI Technology to help improve the clarity or quality of the written feedback in a peer review report. If this occurs, the reviewer must disclose that use to the handling editor when the review is submitted. Beyond this limited use, editors and peer reviewers are not permitted to upload manuscripts (or any parts of manuscripts including figures and tables) into AI Technology. Such tools may store or reuse input data for training or other purposes, which could compromise the confidentiality of the peer review process, the privacy of authors and reviewers, and the copyright associated with the submitted work. Peer review remains a fundamental human endeavor. Responsibility for the accuracy, integrity, and overall content of a peer review report rests entirely with the individual reviewer and must not be delegated to AI Technology. Editors have the right to disregard peer reviewer reports that show signs of inappropriate AI use. 
 
-- a short informative title that contains the major key words. The title should not contain abbreviations ( [See Wiley's best practice tips](https://authorservices.wiley.com/author-resources/Journal-Authors/Prepare/writing-for-seo.html));
-- a short running title of less than 40 characters;
-- the full names of the authors;
-- the author's institutional affiliations at which the work was carried out;
-- acknowledgments
+Authorship
 
-The present address of any author, if different from where the work was carried out, should be supplied in a footnote.
+Authorship gives researchers recognition, accountability, and legal rights for their work. While authorship definitions and criteria vary across disciplines, the core requirements for authorship are a substantial contribution to the research and accountability for the work undertaken. Authors can create and use their unique 
+ORCID iD
+ to distinguish themselves from other researchers, link to research outputs, and submit manuscripts to Wiley journals. 
+CRediT (Contributor Role Taxonomy)
+ is a community-owned 14-role taxonomy that can be used to describe the key types of contributions typically made to the production and publication of research.
 
-**_Authorship_**
+To promote 
+equity and inclusion
+ in research, local researchers who meet authorship criteria should be considered for inclusion. Intercultural research should also appropriately attribute traditional knowledge, respecting anonymity where necessary, through notices or citations of indigenous sources. Contributors who do not qualify for authorship, including minors (with a legal guardian's consent), should be acknowledged.
 
-Please refer to the journal’s Authorship policy in the Editorial Policies and Ethical Considerations section for details on author listing eligibility.
+Corresponding authors
 
-**_Acknowledgments_**
+The corresponding author ensures that all co-authors approve the manuscript and that journal requirements are met. This author manages all communication with the journal through submission, review, and publication, and must be authorized to act for all co-authors. If multiple corresponding authors are listed, one Responsible Corresponding Author (RCA) must be designated at submission to 
+sign agreements
+ and authorize publication. This individual acts for all authors and should remain unchanged throughout the process. Eligibility for Article Publication Charge (APC) payments and open access waivers depends on the responsible corresponding author's affiliation at submission in accordance with 
+COPE guidance on author fees and waivers
+.
 
-Contributions from anyone who does not meet the criteria for authorship should be listed, with permission from the contributor, in an Acknowledgments section. Financial and material support should also be mentioned. Thanks to anonymous reviewers are not appropriate.
+Authorship removals/additions
 
-**_Conflict of Interest Statement_**
+Any authorship additions or removals prior to publication are handled by agreement of the entire author group. These changes must be requested centrally via the journal editorial office or journal submission system. All co-authors, including those directly affected by the change, must provide their agreement. The reasons for the proposed changes will be reviewed and recorded for transparency. Any authorship changes during the production process and following publication must be requested via the 'Request for Changes to Journal Article Author List' 
+form
+. All co-authors, including those directly affected by the change, must provide their agreement.
 
-You will be asked to provide a conflict of interest statement during the submission process. See the section ‘Conflict of Interest’ in the Editorial Policies and Ethical Considerations section for details on what to include in this section. Please ensure you liaise with all co-authors to confirm agreement with the final statement.
+Disputed authorship
 
-**Main Text File**
+Neither Wiley nor the editors of journals published by Wiley will adjudicate disputes between authors on whether a contributor qualifies for authorship on a submitted manuscript or published article. Authorship requirements for all of our journals are detailed in their respective author guidelines. In its 
+Discussion document on authorship
+, COPE recommends that authors ensure agreement, prior to submission, on both the list of contributors who qualify for authorship and the order they will appear.
 
-As papers are double-blind peer reviewed, the main text file should not include any information that might identify the authors. Please follow the APA Publication Manual (7th Edition) when preparing your manuscript.
+Managing authorship within the editorial team
 
-The main text file should be presented in the following order:
+If editors, editorial board members, or members of the journal's editorial staff submit a manuscript to their own journal, they should inform the editorial office, editor-in-chief, or another appropriate member of the journal editorial team at the time of submission and include a corresponding statement in their manuscript. They must also remove themselves from the decision-making process. For further information, see 
+Managing Conflicts of Interest: Practical Summary for Editors
+.
 
-- Title, abstract, and keywords;
-- Main text;
-- References;
-- Endnotes (if relevant);
-- Tables (each table complete with title and footnotes);
-- Figures;
-- Appendices (if relevant).
+Author name change after publication
 
-Appropriate headings should appear throughout the manuscript (e.g., Methods, Results, Discussion). Note that headings should not be numbered in manuscripts submitted to the journal.
+If an author requests a name or pronoun change after publication, Wiley will update and republish the article as described in our 
+author name change policy
+. We will also inform indexing services and handle the request discreetly, without issuing a correction notice or notifying co-authors, to protect privacy. Authors should contact the journal's editorial office to initiate the change.
 
-Footnotes are allowed but should be used sparingly.
+Deceased authors
 
-**_Abstract_**
+If a manuscript includes a deceased author at submission, or an author dies during peer review, Wiley will add an explanatory footnote to the published article. A co-author should confirm the deceased authorâs contribution and disclose any conflicts of interest. If the deceased was the corresponding author, another co-author must be nominated. Copyright is considered personal property; if transfer agreements were not signed prior to death, permission must be granted by the authorâs inheritor.
 
-The Abstract should briefly summarize the purpose, hypotheses, methods, key findings, and implications; it should not exceed 200 words.
+Citations
 
-**_Keywords_**
+Citing appropriate and relevant literature is a 
+shared responsibility
+ across the researcher community to ensure that citation practices within scholarly publishing are responsible, appropriate, and 
+inclusive
+. Authors should not engage in excessive self-citation of their work or of other authors' work, cite sources that are irrelevant to their article, or engage in other forms of 
+citation manipulation
+. Any type of citation manipulation will result in the manuscript being rejected. If authors receive requests from editors or peer reviewers to add citations during peer review without a strong scholarly rationale, they should report this to Wiley's Research integrity team by emailing 
+researchintegrity@wiley.com
+.
 
-Please provide up to 3 keywords as a required piece of the submission process.
+Conflicts of interest
 
-**_Reference style_**
+Editors, authors, and peer reviewers should disclose interests that might appear to affect their ability to present or review work objectively. These might include relevant financial interests (for example, patent ownership, stock ownership, consultancies, or speaker’s fees), or personal, political, or religious interests.
 
-There is no submission requirement for formatting references.
+Copyright and intellectual property
 
-We do ask that authors use a consistent reference style throughout the manuscript and include:
+Authors are legally required to sign a copyright agreement before publication. Standard author agreements are further explained in 
+understanding copyright and licensing
+.
 
-- Author(s) name(s)
-- Journal title/book title
-- Article title (where applicable)
-- Year of Publication
-- Volume & Issue / Book Chapter
-- Pagination
-- Optional: DOI
+Corrections, expressions of concern, retractions, and withdrawals
 
-If your manuscript is accepted for publication, we will update the formatting into the journal style.
+Wiley is committed to upholding the integrity and accuracy of the publication record. Our 
+research integrity team
+ works with authors, institutions, and editors to investigate and resolve research integrity concerns in accordance with best practice in scholarly publishing. We publish post-publication notices to amend the scholarly record as necessary, such as retractions, withdrawals, expressions of concern, and corrections. Amendments are not punitive in any way and are not a sanction towards the researchers involved. We describe these amendments in more detail in our 
+Policy page for handling post-publication amendments
+. We encourage authors to use this 
+Correction template
+ when drafting a correction. These amendments are permanent, accessible, and indexable, adhering to the practices and guidance described by 
+NISO recommended practice for the Communication of Retractions, Removals and Expressions of Concern (CREC)
+.
 
-**_Tables_**
+Data and reporting guidelines
 
-Tables should be self-contained and complement, not duplicate, information contained in the text. They should be supplied in editable format, and not pasted as images. Legends should be concise but comprehensive – the table, legend, and footnotes must be understandable without reference to the text. All abbreviations must be defined in footnotes.
+Data sharing
 
-**_Figure Legends_**
+Wiley supports 
+data sharing
+ in creating an open, equitable, and transparent research landscape. We encourage authors to make their research data openly available whenever possible, as this benefits both authors and the research community. We endorse the 
+FORCE11 Joint Declaration of Data Citation Principles
+ and recommend citing data in the format outlined in this proposal.
 
-Legends should be concise but comprehensive – the figure and its legend must be understandable without reference to the text. Include definitions of any symbols used and define/explain all abbreviations and units of measurement.
+Policies governing requirements for data sharing are determined by discipline and journal, as well as requirements from research funders, institutions, governments, or varying legal agreements. All research published in Wiley journals must include a Data Availability Statement in accordance with our 
+data sharing policies
+. Authors should ensure their Data Availability Statement is accurate and provides clear guidance on how to access or request research data. For instance, if an author has stated that data is available for sharing upon request, authors should then be open to complying with reasonable requests for data sharing. Whenever data cannot be shared, authors should include an explanation in their Data Availability Statement.
 
-**_Preparing Figures_**
+Definitions of research data vary by discipline, but generally 'data' are defined as any research output that has been collected, observed, or created for the purpose of analysis to produce research results. Research data can include (but are not limited to) raw data, processed data, software, algorithms, code, protocols, methods, materials, photographs, and specimens. Generally, these policies apply to all research data that underlie and support the results documented in research articles. However, journals or communities may have more specific standards. Editors may request access to datasets that are not publicly available during the peer review process.
 
-Although we encourage authors to send us the highest-quality figures possible, for peer-review purposes we are happy to accept a wide variety of formats, sizes, and resolutions.
+Reporting guidelines
 
-[**Click here**](http://media.wiley.com/assets/7323/92/electronic_artwork_guidelines.pdf) for the basic figure requirements for figures submitted with manuscripts for initial peer review, as well as the more detailed post-acceptance figure requirements.
+Accurate and complete reporting enables readers to fully judge, replicate, and build upon research. 
+FAIRsharing
+ provides an overview of reporting guidelines and standards, while many disciplines have developed their own frameworks to support transparent and comprehensive reporting. Authors must provide sufficient information to allow the evaluation of the methods and results presented, in accordance with specific journal policies detailed in their author guidelines. Below, we highlight key reporting guidelines and policies that underpin standard reporting requirements for Wiley journals.
 
-**Figures submitted in color** may be reproduced in color online free of charge. Please note, however, that it is preferable that line figures (e.g. graphs and charts) are supplied in black and white so that they are legible if printed by a reader in black and white.
+In health research, the 
+EQUATOR Network
+ promotes reporting guidelines for common study types. Individual guidelines used by a journal will be detailed in the author guidelines.
 
-**Additional Files** **_Appendices_**
+The 
+ARRIVE (Animal Research Reporting of In Vivo Experiment) guidelines
+ provide recommendations for transparent report of research involving animals. Livestock reporting guidelines are provided by the 
+REFLECT statement
+.
 
-Any appendices should appear after the references, tables and figures.
+For cell line research, the following information should be provided in the manuscript. If any of this information is unknown, this must be stated and the rationale for the use of the cell line provided. Further guidance on misidentification and contamination is available from the 
+International Cell Line Authentication Committee (ICLAC) register
+, the 
+NCBI misidentified cell line database
+, and the 
+Cellosaurus problematic cell line database
+.
 
-**_Supporting Information_**
+Provide the species, sex, tissue of origin, official cell line name, and Research Resource Identifier (RRID)
 
-Supporting information is information that is not essential to the article, but provides greater depth and background. It is hosted online and appears without editing or typesetting. It may include tables, figures, videos, datasets, etc. [**Click here**](http://www.wileyauthors.com/suppinfoFAQs) for Wiley’s FAQs on supporting information.
+Provide the source/supplier of the cell line and when it was obtained
 
-Note: if data, scripts, or other artefacts used to generate the analyses presented in the paper are available via a publicly available data repository, authors should include a reference to the location of the material within their paper.
+Provide confirmation that the cell line was authenticated for the described experiments (including the percentage match result and method used) and has not been previously reported as misidentified
 
-**General Style Points**
+Provide confirmation that the cell line was free of mycoplasma contamination for the described experiments
 
-The following points provide general advice on formatting and style.
+Research based solely on openly available data sets â (including bioinformatics analysis, computational studies, genome-wide association studies, and Mendelian Randomization studies) must present a clearly defined hypothesis, demonstrate methodological rigor, and include appropriate validation and/or experimental findings to advance knowledge beyond the original data sets. Mendelian Randomization studies must also adhere to the reporting guidelines for 
+Strengthening the Reporting of Observational Studies in Epidemiology using Mendelian Randomization
+, and a completed checklist must be provided on submission as a supplementary file. Manuscripts that do not meet these criteria may be rejected.
 
-- **Abbreviations**: In general, terms should not be abbreviated unless they are used repeatedly and the abbreviation is helpful to the reader. Initially, use the word in full, followed by the abbreviation in parentheses. Thereafter use the abbreviation only.
-- **Numbers**: Numbers under 10 are spelled out, except for: measurements with a unit (8mmol/l); age (6 weeks old), or lists with other numbers (11 dogs, 9 cats, 4 gerbils).
-- **Decimals**: Use a zero before a decimal point when the statistic can exceed 1 (e.g., t, d, and F statistics). Do not use a zero before a decimal point if the statistic cannot exceed 1 (e.g., p values, correlations, Cronbach’s alpha). In general, use two decimals when reporting results. When reporting p values, sometimes using three decimals will be appropriate (e.g., _p_ = .041).
+Standards for the comprehensive reporting of sex and gender in research including humans and animals are provided by the 
+Sex and Gender Equity in Research (SAGER) guidelines
+.
 
-**Wiley Author Resources**
+Diversity, Equity and Inclusion
 
-**_Manuscript Preparation Tips_**: Wiley has a range of resources for authors preparing manuscripts for submission available [**here**](http://www.wileyauthors.com/prepare). In particular, authors may benefit from referring to Wiley’s best practice tips on [**Writing for Search Engine Optimization**](http://www.wileyauthors.com/seo).
+Wiley is committed to advancing diversity, equity, and inclusion through intentional 
+efforts
+ to create environments where all individuals feel respected, valued, and empowered. Diverse research perspectives offer new ideas, avenues of discovery and solutions to immense global challenges.
 
-**_Editing, Translation, and Formatting Support_**: [**Wiley Editing Services**](http://wileyeditingservices.com/en/) can greatly improve the chances of a manuscript being accepted. Offering expert help in English language editing, translation, manuscript formatting, and figure preparation, Wiley Editing Services ensures that the manuscript is ready for submission. Also, check out our resources for [**Preparing Your Article**](https://authorservices.wiley.com/author-resources/Journal-Authors/Prepare/index.html?utm_source=wol&utm_medium=backlink&utm_term=ag&utm_content=prepresources&utm_campaign=prodops) for general guidance about writing and preparing your manuscript.
+We are one of 56 publishing organizations that have signed the 
+Joint Commitment for Action on Inclusion and Diversity in Publishing
+. This is a collective initiative aimed at establishing new standards to reduce bias in publishing activities and promote positive change within scholarly publishing. Wiley partners with the 
+Coalition for Diversity and Inclusion in Scholarly Communications (C4DISC)
+ which tackles challenges of diversity, equity, and inclusion in academic publishing through provision of best practices, 
+toolkits for equity
+ and training materials. We publish material on behalf of partner organizations across multiple countries and regions. Our audience is global; we recognize and respect our authors' responsibility to comply with local laws and regulations governing their published works.
 
-**4\. EDITORIAL POLICIES AND ETHICAL CONSIDERATIONS**
+Wiley does not tolerate harassment or discrimination against an individual on the grounds of age, ancestry, color, religious creed, physical or mental disability, marital status, medical condition, genetic information, military and veteran status, national origin, race, sex, gender, gender identity, gender expression, sexual identity, sexual orientation, political affiliation, or any other category protected by law.
 
-**Editorial Review and Acceptance**
+In turn, we expect everyone involved in research publishing, including authors, reviewers, editors, and third parties, to behave professionally and respectfully to one another. We do not tolerate unprofessional, threatening, or intimidating behavior. If necessary, we will follow up with an individual's research institution and/or employer as required.
 
-The acceptance criteria for all papers are the quality and originality of the research and its significance to journal readership. Except where otherwise stated, manuscripts are double-blind peer reviewed. Papers will only be sent to review if the Editor-in-Chief determines that the paper meets the appropriate quality and relevance requirements.
+Bias-free language
 
-Wiley's policy on confidentiality of the review process is available [**here**](http://www.wileypeerreview.com/reviewpolicy).
+Authors must clearly describe the study population in any research involving human participants, ensuring that all language and descriptors used are accurate and bias-free. The American Psychological Association have 
+guidelines
+ for eliminating bias in language in relation to gender, age, racial and ethnic background, sexual orientation, disability status, and socioeconomic status. Further guidance on the comprehensive reporting of sex and gender in research including humans and animals are also provided by the 
+Sex and Gender Equity in Research (SAGER) guidelines
+.
 
-**Data Storage and Documentation**
+Research relating to gender, age, racial and ethnic background, sexual orientation, disability status, and socioeconomic status may contain qualitative data from participants (i.e. direct quotes or transcribed interviews) that could include derogatory demographic descriptors. Authors should not use derogatory demographic descriptors or offensive language unless it is essential to the research in question. For example, offensive language may be acceptable to include if it is a direct quote (transparently noted as such) from a participant reporting their own personal experiences of the use of such language.
 
-Personnel Psychology encourages data sharing wherever possible, unless this is prevented by ethical, privacy, or confidentiality matters. Authors publishing in the journal are therefore encouraged to make their data, scripts, and other artefacts used to generate the analyses presented in the paper available via a publicly available data repository; however, this is not mandatory. If the study includes original data, at least one author must confirm that he or she had full access to all the data in the study and takes responsibility for the integrity of the data and the accuracy of the data analysis.
+Cultures, heritage, ethnicity, and race
 
-**Human Studies and Subjects**
+Wiley expects authors to build 
+equitable partnerships
+ with local researchers at every stage of their research to actively support the decolonization of research and promote inclusive, contextually-grounded research practices. The 
+TRUST Family of Ethics Codes
+ provides resources to support equitable research practices worldwide. You may also explore the principles outlined in 
+NHMRC Ethical conduct in research with Aboriginal and Torres Strait Islander Peoples and communities
+ and the 
+AIATSIS Code of Ethics for Aboriginal and Torres Strait Islander Research
+.
 
-For manuscripts reporting studies that involve human participants, a statement identifying the ethics committee that approved the study and confirmation that the study conforms to recognized standards is required, for example: [**Declaration of Helsinki**](http://www.wma.net/en/30publications/10policies/b3/); [**US Federal Policy for the Protection of Human Subjects**](https://www.hhs.gov/ohrp/regulations-and-policy/regulations/common-rule/index.html); or [**European Medicines Agency Guidelines for Good Clinical Practice**](http://www.ema.europa.eu/docs/en_GB/document_library/Scientific_guideline/2009/09/WC500002874.pdf).
+Authors should be mindful when reporting on culturally sensitive material. Examples of community-based review approaches include 
+Principles and Procedures: Conducting Research in a MÄori Context
+ from Waikato Institute of Technology, New Zealand and 
+Community IRBs and Research Review Boards: Shaping the Future of Community-Engaged Research
+ from Albert Einstein College of Medicine, USA. In addition, the US Office for Human Research Protection provides a 
+searchable database
+ of independent community Institutional Review Boards that approve research and publication of culturally sensitive materials.
 
-Images and information from individual participants will only be published where the authors have obtained the individual's free prior informed consent. Authors do not need to provide a copy of the consent form to the publisher; however, in signing the author license to publish, authors are required to confirm that consent has been obtained. Wiley has a [**standard patient consent form available**](https://authorservices.wiley.com/asset/photos/licensing-and-open-access-photos/Patient-Consent-Form.pdf) for use.
+Authors should carefully consider and respect sensitivities when publishing images that may be culturally significant (especially those depicting religious texts or historical events) or offensive. Images of human participants, human remains, or animal remains should not be shared (see section below on 'Research ethics' for more information).
 
-**Research Reporting Guidelines**
+Authors are expected to describe demographic information about a study population using terms to designate ethnicity (e.g. African American and South Asian) rather than race. The British Sociological Association (BSA) has developed 
+language guidelines
+ on how to refer to ethnic identity.
 
-Accurate and complete reporting enables readers to fully appraise research, replicate it, and use it. Authors are encouraged to adhere to the following research reporting standards.
+Fabrication, falsification, and image manipulation
 
-- JARS [https://www.apa.org/pubs/authors/jars.pdf](https://www.apa.org/pubs/authors/jars.pdf)
+Data fabrication is the intentional misrepresentation of research data by making-up findings, recording, or reporting of results. Data falsification is the manipulation of research materials, equipment, or processes, including omitting and changing data, with the intention of giving a false impression. Changes to images can create misleading results when research data are collected as images. Inappropriate image manipulation is one form of fabrication or falsification that journals can identify. It may, however, be legitimate and even necessary to edit images. For example, the selective enlargement of part of an artwork may be needed to reveal features that would not otherwise be visible and editing of video data may be needed to protect the privacy of participants.
 
-**Conflict of Interest**
+The US Office of Research Integrity (ORI)
+ outlines the differences between fabrication and falsification within their definition of research misconduct. Data fabrication is the intentional misrepresentation of research data by inventing findings, generating false records, or reporting fabricated results. Data falsification is the deliberate manipulation of existing research materials, equipment, or processes, including selectively including or excluding data with the intention of giving a false impression.
 
-The journal requires that all authors disclose any potential sources of conflict of interest. Any interest or relationship, financial or otherwise that might be perceived as influencing an author's objectivity is considered a potential source of conflict of interest. These must be disclosed when directly relevant or directly related to the work that the authors describe in their manuscript. Potential sources of conflict of interest include, but are not limited to: patent or stock ownership, membership of a company board of directors, membership of an advisory board or committee for a company, and consultancy for or receipt of speaker's fees from a company. The existence of a conflict of interest does not preclude publication. If the authors have no conflict of interest to declare, they must also state this at submission. It is the responsibility of the corresponding author to review this policy with all authors and collectively to disclose with the submission ALL pertinent commercial and other relationships.
+Inappropriate image manipulation is considered a form of data fabrication or falsification, as it compromises the integrity of the research and can lead to misleading and inaccurate results. However, certain image edits may be legitimate and necessary, provided they do not alter the integrity of the underlying data. Please see 
+Wiley guidelines for the preparation of figures
+ for more information.
 
-**Funding**
+Authors should retain original unprocessed images and make them available upon request if necessary. Some journals may also require that original unprocessed images are submitted alongside any processed versions.
 
-Authors should list all funding sources in the Acknowledgments section. Authors are responsible for the accuracy of their funder designation. If in doubt, please check the Open Funder Registry for the correct nomenclature: [**https://www.crossref.org/services/funder-registry/**](https://www.crossref.org/services/funder-registry/).
+Research funding
 
-**Authorship**
+Authors must list all funding sources in their manuscript within a dedicated funding section. The 
+Open Funder Registry
+ provides guidance on accurately acknowledging funding sources. Authors should also describe the role of the funder beyond providing financial support where applicable. For example, it may be important to disclose if a commercial organization funded the study, designed the study, and recruited the investigators. All other forms of support should be clearly identified in the funding section. These may include funding for open access publication (from a grant or from an author's institution), support for writing or editorial assistance, or the provision of experimental materials. If there is no specific funding, this should be explicitly stated.
 
-The list of authors should accurately illustrate who contributed to the work and how. All those listed as authors should qualify for authorship according to the following criteria:
+Investigation of questionable research practices
 
-1. Have made substantial contributions to conception and design, or acquisition of data, or analysis and interpretation of data;
-2. Been involved in drafting the manuscript or revising it critically for important intellectual content;
-3. Given final approval of the version to be published. Each author should have participated sufficiently in the work to take public responsibility for appropriate portions of the content; and
-4. Agreed to be accountable for all aspects of the work in ensuring that questions related to the accuracy or integrity of any part of the work are appropriately investigated and resolved.
+We will address any potential concerns of questionable research practices and publishing ethics malpractice (including but not limited to authorship issues, data fabrication or falsification; plagiarism; peer review concerns and unethical research). Potential concerns may be raised by authors, readers, editors, peer reviewers, or third parties by emailing 
+researchintegrity@wiley.com
+, or may be identified through routine screening.
 
-Contributions from anyone who does not meet the criteria for authorship should be listed, with permission from the contributor, in an Acknowledgments section (for example, to recognize contributions from people who provided technical help, collation of data, writing assistance, acquisition of funding, or a department chairperson who provided general support). Prior to submitting the article all authors should agree on the order in which their names will be listed in the manuscript.
+Where specific and detailed evidence of questionable research practices has been provided, an investigation will be conducted by Wiley's 
+Integrity Assurance & Case Resolution team
+. All concerns will be treated confidentially and assessed in line with COPE guidance whether raised 
+directly
+ or 
+indirectly
+. Cases requiring access to primary data or institutional records will be referred to the relevant research institution, employer, relevant national statuary body, or funder for formal investigation. Where necessary, input from editorial board members of the journal will be sought and 
+amendments
+ made to published articles.
 
-**Additional Authorship Options:** Joint first or senior authorship: In the case of joint first authorship, a footnote should be added to the author listing, e.g. ‘X and Y should be considered joint first author’ or ‘X and Y should be considered joint senior author.’
+Jurisdictional neutrality
 
-**Author Name Change Policy**
+The global research community includes diverse perspectives on many issues, including the legal status of certain countries and regions. We believe the best way to respect those views is for authors to state their own institutional and country/region affiliations.  We are neutral on any jurisdictional claims. The geographical designations and institutional affiliations in published materials reflect the authorâs stance and do not in any way reflect any opinion or position on the part of Wiley.
 
-In cases where authors wish to change their name following publication, Wiley will update and republish the paper and redeliver the updated metadata to indexing services. Our editorial and production teams will use discretion in recognizing that name changes may be of a sensitive and private nature for various reasons including (but not limited to) alignment with gender identity, or as a result of marriage, divorce, or religious conversion. Accordingly, to protect the author’s privacy, we will not publish a correction notice to the paper, and we will not notify co-authors of the change. Authors should contact the journal’s Editorial Office with their name change request.
+Peer review
 
-**ORCID**
+Peer review is the critical evaluation of a submitted manuscript by subject-matter experts (see 
+COPE's ethical guidelines for peer review
+). This process is confidential, typically led by a handling editor, and usually involves obtaining at least two independent peer review reports for research manuscripts. Reviewers are selected based on their expertise and a lack of any perceived potential conflicts of interest.
 
-As part of the journal’s commitment to supporting authors at every step of the publishing process, the journal requires the submitting author (only) to provide an ORCID iD when submitting a manuscript. This takes around 2 minutes to complete. [**Find more information here**](http://olabout.wiley.com/WileyCDA/Section/id-828034.html).
+All journals should uphold these 
+over-arching peer-review standards
+, although specific policies may vary and are communicated on the journal's webpage. Editors will adopt the model of peer review that best suits their journal and community. For more information on peer review terminology see the infographic "
+A Standard Terminology for Peer Review
+" and the related 
+ANSI/NISO Standard
+. Some editors may edit peer review reports under certain circumstances; see COPE's position on 
+Editing or suppressing peer reviews
+ for more information.
 
-**Publication Ethics**
+The peer review process is a human endeavor. Responsibility and accountability for submitting a peer review report, in line with a journal's editorial polices and peer review model, sits with the experts who have accepted an invitation from a journal to review a submitted manuscript. This process should not be delegated to AI Technology. If authors suspect manipulation of the peer review process or receive requests from editors or peer reviewers to 
+add citations
+ without a strong scholarly rationale, they should report this to Wiley's Research integrity team by emailing 
+researchintegrity@wiley.com
+.
 
-This journal is a member of the [**Committee on Publication Ethics (COPE)**](http://publicationethics.org/). Note this journal uses iThenticate’s CrossCheck software to detect instances of overlapping and similar text in submitted manuscripts. Read the
+Plagiarism, duplicate/redundant publication, text recycling, and translations
 
-Top 10 Publishing Ethics Tips for Authors [**here**](http://www.wileyauthors.com/ethics). Wiley’s Publication Ethics Guidelines can be found at [**authorservices.wiley.com/ethics-guidelines/index.html**](https://authorservices.wiley.com/ethics-guidelines/index.html).
+Plagiarism
 
-**Correction and Retraction Policy**
+Plagiarism is the use of another person's ideas, data, or text without proper attribution. It misleads readers about the true origin of the work and is a serious breach of publication ethics. 
+The US Office of Research Integrity (ORI)
+ provides a working definition of plagiarism, describing it as: "both the theft or misappropriation of intellectual property and the substantial unattributed textual copying of another's work. It does not include authorship or credit disputes."
 
-The journal's correction and retraction process is outlined in a document which may be found [here](https://onlinelibrary.wiley.com/pb-assets/assets/17446570/Personnel%20Psychology%20Correction%20and%20Retraction%20Policy%202021-1615413869527.pdf).
+Wiley routinely screens submitted manuscripts for duplicated text using tools such as 
+Crossref Similarity Check
+. If significant and unexplained overlap is identified, we will follow COPE guidelines on handling plagiarism in a 
+submitted manuscript
+ or 
+published article
+ to resolve the issue.
 
-**5\. AUTHOR LICENSING**
+Text recycling/self-plagiarism
 
-If a paper is accepted for publication, the author identified as the formal corresponding author will receive an email prompting them to log in to Author Services, where via the Wiley Author Licensing Service (WALS) they will be required to complete a copyright license agreement on behalf of all authors of the paper.
+COPE defines 
+text recycling/self-plagiarism
+ as "reusing one's own previous writing without being transparent about this or appropriately referencing/quoting from the original." Reusing text can sometimes be appropriate; for example, text recycled in a methods section of a manuscript may be more acceptable than text recycled in the discussion section. However, authors should always be transparent and cite the source. We follow 
+COPE endorsed guidance
+ on handling text recycling in a submitted manuscript or published article. There may also be copyright implications, and authors must ensure they have the necessary permissions for reuse, as copyright of the original material may belong to someone else.
 
-Authors may choose to publish under the terms of the journal’s standard copyright agreement, or [Open Access](https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/hybrid-open-access.html) under the terms of a Creative Commons License.
+Duplicate (redundant) and fragmented publication
 
-General information regarding licensing and copyright is available [**here**](http://www.wileyauthors.com/licensingFAQ). To review the Creative Commons License options offered under Open Access, please click [**here**](http://www.wileyauthors.com/OAA). (Note that certain funders mandate a particular type of CC license be used; to check this please click [**here**](http://www.wileyauthors.com/compliancetool).)
+COPE defines 
+duplicate/redundant publication
+ as "the publication, or attempted publication, of whole or substantial parts of work/data/analysis that have already been published (or have been submitted elsewhere), without transparency or appropriate declaration/referencing."
 
-**_Self-Archiving Definitions and Policies_**: Green open access, also called self-archiving, is when the author, institution or publisher places a version of the article online in a repository or website after publishing in a subscription-based journal – making it freely available to everyone.
+Publishing the same manuscript multiple times distorts the scholarly record and is a serious breach of publishing ethics referred to as 'duplicate' or 'redundant' publication. To avoid duplicate and redundant publication, manuscripts must be submitted on the understanding that they are not published, in press, or submitted elsewhere. Reproducing significant parts of previously published work without justification may also be considered as redundant publication. Authors should declare any potentially overlapping publications on submission.
 
-For more information about Wiley’s policy, visit the [**Self-Archiving page**](http://www.wileyauthors.com/self-archiving).
+Fragmented publication, also referred to as "
+salami slicing
+" or "salami publication", differs from duplicate publication in that it involves dividing research findings into their smallest possible publishable units. This practice is also unethical, as it distorts the scholarly record and artificially inflates publication counts. If fragmentation or duplication of research outputs is identified, we will follow COPE guidelines on handling redundant (duplicate) publication in a 
+submitted manuscript
+ or 
+published article
+ to resolve the issue. There are some exceptions, as outlined in the "Acceptable reuse and prior publication" section.
 
-**WALS & Full Open Access**
+Acceptable reuse and prior publication
 
-This journal offers authors an open access option called Open Access, to have their article immediately freely available to everyone, including those who don’t subscribe. Visit our [**Open Access**](https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/hybrid-open-access.html) page for more information and instructions on how to order. To cover the cost of publishing OnlineOpen, authors pay an article publication charge (APC). For more information on this journal’s APCs, please see the **[Open Access page](https://onlinelibrary.wiley.com/page/journal/17446570/homepage/fundedaccess.html)**. Payment must be received for the article to be made open access. Wiley has agreements with funders and institutions around the world, which covers the cost of APCs. Find out if your institution or funder will cover the APCs by visiting the [**Wiley Open Access Account**](http://www.wileyauthors.com/instpayment) page.
+Some prior dissemination and publication can be acceptable and does not constitute duplicate publication if it is transparently disclosed and cited in the submitted manuscript as follows:
 
-If a paper is accepted for publication, the author identified as the formal corresponding author will receive an email prompting them to login to Author Services, where via the Wiley Author Licensing Service (WALS), they will be able to complete the license agreement on behalf of all authors on the paper.
+Abstracts or posters that have been presented and published as part of conference proceedings. However, material already published in full as part of conference proceedings is typically considered prior publication as it is available in citable form.
 
-To find out which Creative Commons Licenses are available for the journal, click [**here**](http://www.wileyopenaccess.com/details/content/12f25db4c87/Copyright--License.html). To learn more about Creative Commons Licenses and to preview terms and conditions of the agreements, please click [**here**](http://www.wileyauthors.com/OAA). Note that certain funders mandate a particular type of CC license be used; to check this, please click [**here**](http://www.wileyauthors.com/compliancetool).
+Results presented at meetings, for example, to inform participants about findings.
 
-**6\. PUBLICATION PROCESS AFTER ACCEPTANCE**
+Results in databases and clinical trials registries i.e. data in the form of tables and text to describe information, without interpretation, discussion, context, or conclusions.
 
-**Accepted Article received in Production**
+Dissertations and theses in institutional archives.
 
-When an accepted article is received by Wiley’s production team, you (corresponding author) will receive an email asking them to login or register with [**Wiley Author Services**](http://www.wileyauthors.com/). You will be asked to sign a publication license at this point.
+Manuscripts placed on preprint servers (for more information see 
+Wiley's general preprint policy
+).
 
-**Proofs**
+Translations of previously published work may be considered at the discretion of the editor, provided that the original journal or publisher agrees and the original copyright is not breached. For further information see 
+COPE's position on publishing translations of previously published articles
+ and 
+ICMJE guidance on acceptable secondary publication
+.
 
-Once your paper is typeset you will receive an email notification of the URL from where to download a PDF typeset page proof, associated forms and full instructions on how to correct and return the file.
+Transparent co-publication of the same article in multiple journals to raise awareness of a particular topic (e.g. community guidelines) may be considered at the discretion of the editor.
 
-Please note that you are responsible for all statements made in your work, including changes made during the editorial process and thus you must check your proofs carefully. Note that proofs should be returned 48 hours from receipt of first proof.
+Preprints
 
-**Publication Charges**
+A preprint is a manuscript made publicly available that has not yet undergone formal peer review or publication in a journal. It is typically posted on a preprint server by the author either before or at the time of submission to a journal. Wiley encourages authors to submit manuscripts that they have already made available as a preprint where permissible by journal policy. Allowing submission does not, of course, guarantee that a manuscript will be peer reviewed; it simply reflects a belief that availability on a preprint server should not be a disqualifier for submission. Authors should not assign copyright during the preprint process; authors should retain copyright in their work when posting to a preprint server. Preferably, authors should only grant "no re-use" licenses to their preprints. For further information on citing, licensing, and preprint versions and updates see 
+Wiley's general preprint policy
+. Individual journal policies on preprints can be viewed using the 
+Author Compliance Tool
+.
 
-Color figures may be published online free of charge.
+Research Ethics
 
-**7\. POST PUBLICATION**
+It is essential that authors ensure their research adheres to relevant ethical and reporting guidelines (see section above on âData sharing and reporting guidelinesâ for more information), and that all necessary consents and approvals have been obtained to publish their work. 
 
-**Access and Sharing**
+Research involving humans 
 
-When your article is published online:
+Ethics approval
 
-- You receive an email alert (if requested).
-- You can share a link to your published article through social media.
-- As the author, you will have free access to your paper (after accepting the Terms & Conditions of use, you can view your article).
-- The corresponding author and co-authors can nominate up to ten colleagues to receive a publication alert and free online access to your article.
+Prospective medical research involving human participants, samples, and data must adhere to recognized ethical standards. See for example:
 
-You can now order print copies of your article (instructions are sent at proofing stage or use the below contact details).
+WMA Declaration of Helsinki â Ethical Principles for Medical Research Involving Human Subjects
 
-Email: [**chris.jones@sheridan.com**](mailto:chris.jones@sheridan.com)
+Belmont Report
+ from the US Department of Health and Human Services
 
-**Now is the time to start promoting your article. Find out how to do that** [**here**](https://authorservices.wiley.com/author-resources/Journal-Authors/Promotion/promotional-toolkit.html) **.**
+European Medicines Agency Guidelines for Good Clinical Practice
 
-**Measuring the Impact of your Work**
+Ethical Review Methods for Biomedical Research involving Human Subjects
+ adopted by the National Health and Family Planning Commission of the People's Republic of China
 
-Wiley also helps you measure the impact of your research through our specialist partnerships with [**Kudos**](https://authorservices.wiley.com/author-resources/Journal-Authors/Promotion/measure-impact.html) and [**Altmetric**](https://authorservices.wiley.com/author-resources/Journal-Authors/Promotion/measure-impact.html).
+Standards provided by the 
+Sex and Gender Equity in Research (SAGER) guidelines
+ for the comprehensive reporting of sex and gender in research should be followed. Further information regarding research involving 
+clinical trials
+, 
+vulnerable groups
+, 
+transplants
+, 
+surveys
+, and 
+retrospective studies
+ is available in the sections of the same name below. 
 
-**Article Promotion Support**
+Authors must confirm in their manuscript that ethical approval was received before the beginning of the study. The name of the approving ethics committee or institutional review board must also be included, along with any associated approval numbers. Authors are encouraged to follow the 
+CARE guidelines
+ when preparing case reports. Ethics approval must be obtained before a study begins; retrospective ethics approval is generally not accepted. Editors may request additional information or supporting documentation for studies that lack prospective ethics approval, and they may decline to consider such manuscripts.
 
-[**Wiley Editing Services**](https://wileyeditingservices.com/en/article-promotion/?utm_source=wol&utm_medium=backlink&utm_term=ag&utm_content=promo&utm_campaign=prodops) offers professional video, design, and writing services to create shareable video abstracts, infographics, conference posters, lay summaries, and research news stories for your research – so you can help your research get the attention it deserves.
+Consent
 
-**8\. EDITORIAL OFFICE CONTACT DETAILS**
+Authors must provide details on how freely-given, informed consent for participation in research or treatment was obtained from human participants and, where applicable, whether consent for publication of their data was also granted. This information must be declared to the journal on submission, with a corresponding statement in the manuscript. Informed consent should be obtained from the parent or legal guardian of any participant who is unable to provide informed consent themselves. Consent forms do not need to be submitted with the manuscript, but authors should provide the necessary details if requested by the journal. Wiley provides a 
+standard patient consent for publication form
+ available for use if required.
 
-Managing editor Office: [**ppsychedoffice@wiley.com**](mailto:ppsychedoffice@wiley.com)
+Vulnerable groups
 
-### Sign up for email alerts
+Researchers must consider additional ethical issues when working with potentially vulnerable groups to ensure their participation is truly voluntary. For guidance, see, for example, the 
+UKRI Economic and Social Research Council's
+ resources on 
+research with potentially vulnerable people
+. Vulnerability can arise in many ways and can stem from abuse, marginalisation, disability, age, or power imbalances. Potentially vulnerable groups include: women and girls; children; refugees; internally displaced persons; stateless persons; national and religious minorities; Indigenous peoples; migrant workers; people with disabilities; older adults; people living with HIV or AIDS; LGBTQIA persons (lesbian, gay, bisexual, transgender, queer, intersex, asexual, and others); prisoners; people experiencing addiction; and poor or disadvantaged populations. Where research involves potentially vulnerable groups or individuals, researchers and everyone involved in the research and publication process must take particular care to ensure that international ethical standards are upheld and that appropriate protections are in place (see 
+COPE position on the protection of vulnerable groups and individuals
+). Traditional methods of obtaining consent may not be appropriate in all contexts. For example, the 
+AIATSIS Code of Ethics for Aboriginal and Torres Strait Islander Research
+ outlines responsibilities, principles, and cultural considerations required when partnering with Indigenous peoples for research purposes. Editors or the publisher may request additional information regarding informed consent procedures to ensure that appropriate protection has been given to vulnerable populations.
 
-Enter your email to receive alerts when new articles and issues are published.
+Identifying information/images
 
-Email address\*
+Identifying information or images of human participants or human remains must not be published unless it is essential for the research and explicit consent for publication has been obtained. Masking the eye region in photographs does not adequately protect anonymity (see section II, part E of 
+Recommendations for the conduct, reporting, editing and publication of scholarly work in medical journals
+ by the International Committee of Medical Journal Editors).
 
-Please select your location and accept the terms of use.
+In the case of technical images (for example, radiographs or micrographs), authors should ensure that all information that could identify the participant has been removed from the image, including precise geographic origin. For voices or images of any human participant, permission and informed consent according to applicable national laws must be sought before recording or distributing. In many jurisdictions, it is a requirement that formal copyright clearance is obtained from participants to publish any video or audio recordings. When publishing genetic sequences or family genograms, authors may need consent from multiple family members, not just the index case, because such data may reveal identifiable information that can impact relatives.
 
-Country or location\*
+Research including organ or tissue transplants 
 
-Open this select menuAfghanistanÅland IslandsAlbaniaAlgeriaAmerican SamoaAndorraAngolaAnguillaAntarcticaAntigua And BarbudaArgentinaArmeniaArubaAustraliaAustriaAzerbaijanBahamasBahrainBangladeshBarbadosBelarusBelgiumBelizeBeninBermudaBhutanBoliviaBonaire, Sint Eustatius And SabaBosnia And HerzegovinaBotswanaBouvet IslandBrazilBritish Indian Ocean TerritoryBrunei DarussalamBulgariaBurkina FasoBurundiCambodiaCameroonCanadaCape VerdeCayman IslandsCentral African RepublicChadChileChinaChristmas IslandCocos (keeling) IslandsColombiaComorosCongoCongo, The Democratic Republic Of TheCook IslandsCosta RicaCôte D'ivoireCroatiaCubaCuraçaoCyprusCzech RepublicDenmarkDjiboutiDominicaDominican RepublicEcuadorEgyptEl SalvadorEquatorial GuineaEritreaEstoniaEthiopiaFalkland Islands (malvinas)Faroe IslandsFijiFinlandFranceFrench GuianaFrench PolynesiaFrench Southern TerritoriesGabonGambiaGeorgiaGermanyGhanaGibraltarGreeceGreenlandGrenadaGuadeloupeGuamGuatemalaGuernseyGuineaGuinea-bissauGuyanaHaitiHeard Island And Mcdonald IslandsHoly See (vatican City State)HondurasHong KongHungaryIcelandIndiaIndonesiaIran, Islamic Republic OfIraqIrelandIsle Of ManIsraelItalyJamaicaJapanJerseyJordanKazakhstanKenyaKiribatiKorea, Democratic People's Republic OfKorea, Republic OfKosovo, Republic OfKuwaitKyrgyzstanLao People's Democratic RepublicLatviaLebanonLesothoLiberiaLibyan Arab JamahiriyaLiechtensteinLithuaniaLuxembourgMacaoMacedonia, The Former Yugoslav Republic OfMadagascarMalawiMalaysiaMaldivesMaliMaltaMarshall IslandsMartiniqueMauritaniaMauritiusMayotteMexicoMicronesia, Federated States OfMoldova, Republic OfMonacoMongoliaMontenegroMontserratMoroccoMozambiqueMyanmarNamibiaNauruNepalNetherlandsNetherlands AntillesNew CaledoniaNew ZealandNicaraguaNigerNigeriaNiueNorfolk IslandNorthern Mariana IslandsNorwayOmanPakistanPalauPalestinian Territory, OccupiedPanamaPapua New GuineaParaguayPeruPhilippinesPitcairnPolandPortugalPuerto RicoQatarReunionRomaniaRussian FederationRwandaSaint BarthélemySaint HelenaSaint Kitts And NevisSaint LuciaSaint MartinSaint Pierre And MiquelonSaint Vincent And The GrenadinesSamoaSan MarinoSao Tome And PrincipeSaudi ArabiaSenegalSerbiaSeychellesSierra LeoneSingaporeSint MaartenSlovakiaSloveniaSolomon IslandsSomaliaSouth AfricaSouth Georgia And The South Sandwich IslandsSouth SudanSpainSri LankaSudanSurinameSvalbard And Jan MayenSwazilandSwedenSwitzerlandSyrian Arab RepublicTaiwanTajikistanTanzania, United Republic OfThailandTimor-lesteTogoTokelauTongaTrinidad And TobagoTunisiaTürkiyeTurkmenistanTurks And Caicos IslandsTuvaluUgandaUkraineUnited Arab EmiratesUnited KingdomUnited StatesUnited States Minor Outlying IslandsUruguayUzbekistanVanuatuVenezuela, Bolivarian Republic OfViet NamVirgin Islands, BritishVirgin Islands, U.s.Wallis And FutunaWestern SaharaYemenZambiaZimbabwe
+All studies that use donated human organs, tissues or cells are expected to comply with the ethics guidance provided by the 
+World Medical Association's statement on organ and tissue donation
+. Authors must confirm in their manuscript the relevant details of the ethics approval body and that procedures were undertaken in compliance with relevant international laws. Authors should clearly state the sources of donor tissue in their submitted manuscript and verify that donated organs were obtained with informed consent from the donor, the donor's legal guardian (for minors), or the donor's next of kin (for deceased donors).
 
-I consent to Wiley Online Library’s
-[Terms of Use](https://onlinelibrary.wiley.com/termsAndConditions) and processing of my personal data as disclosed in Wiley’s [Privacy Policy](https://www.wiley.com/privacy). _\*_I consent to my personal information being transferred outside of the People’s Republic of China as laid out in Wiley’s Privacy Policy.\*(Optional) I consent to special offers,
+Research involving tissue donations from 
+vulnerable groups
+ requires additional care. Authors must provide sufficient details regarding informed consent procedures to ensure that consent was given freely and that appropriate safeguards were in place to prevent coercion or bribery. Wiley journals will not consider manuscripts that contain data derived from unethically sourced organs or tissue, including those obtained from executed prisoners, individuals in custody, or individuals in any form of detention, in accordance with 
+Global Rights Compliance on mitigating human rights risks
+ and the 
+Declaration of Istanbul
+. Manuscripts that discuss such practices (e.g., editorials or commentaries) may be considered only at the discretion of the editor(s) and require a written request to the journal prior to submission. Editors reserve the right to reject a manuscript if the authors have not provided sufficient information, or if the research conducted does not adhere to accepted standards.
 
-newsletter & promotions from Wiley.
-See [Privacy Policy](https://www.wiley.com/privacy) for more details.
+Registering clinical trials 
 
-Sign up to alerts
+The 
+World Health Organization
+ (WHO) defines a clinical trial as "any research study that prospectively assigns human participants or groups of humans to one or more health-related interventions to evaluate the effects on health outcomes." Clinical trials, also referred to as interventional trials, may include, but are not limited to, "drugs, cells and other biological products, surgical procedures, radiologic procedures, devices, behavioral treatments, process-of-care changes, preventive care, etc." The WHO recommends that all clinical trials meeting this definition be registered.
 
-Continue
+Wiley requires that authors prospectively register clinical trials (i.e., before participant enrolment) in a suitable, WHO-recommended registry in accordance with 
+WHO policy
+ and the 
+Declaration of Helsinki
+. If a trial has been registered after recruitment has begun, authors must provide an explanation. Editors reserve the right to reject a manuscript if the explanation for retrospective registration is not acceptable.
 
-- [Journal Metrics](https://onlinelibrary.wiley.com/journal/17446570/journal-metrics)
+Authors should follow the 
+CONSORT guidelines
+ (CONsolidated Standards of Reporting Trials) for reporting randomized trials. Clinical trial registration numbers and the date of registration must be included in all manuscripts reporting trial results. Recommended registries include 
+ClinicalTrials.gov
+ or any of the primary registries listed in the 
+WHO International Clinical Trials Registry Platform (ICTRP)
+.
 
-## Submit an article
+The International Federation of Pharmaceutical Manufacturers and Associations
+ also requires its members to register clinical trials. Authors should note that legislation requirements may vary by study type and national requirements.
 
-_Personnel Psychology_ manuscripts are submitted and tracked through [Wiley Authors](https://authors.wiley.com/).
+Survey studies
 
+For research projects involving surveys, participants must be informed about the nature and purpose of the research and how their data will be used, stored and reported. Participants should provide voluntary consent and must be told whether their participation is anonymous or identifiable. Where required, ethical approval must be obtained before the survey is undertaken, and information regarding the approval and consent procedures must be clearly stated in the manuscript.
 
-[Start your submission](https://authors.wiley.com/journal/PEPS) [Track your submissions](https://authors.wiley.com/dashboard)
+Retrospective studies
 
-## Wiley Editing Services
+Retrospective studies are typically based on already available data sets or samples. Formal consent requirements may vary by institutional or national guidelines, and in some cases, consent may not be required or may be unobtainable for these data sets/samples. In such studies, authors must consult with their institution's requirements to determine the most appropriate course of action. If ethical approval is not required or has been formally waived by an institutional ethics committee, authors must clearly state this in their manuscript. Editors reserve the right to reject a manuscript or retract a publication offer if the authors have not provided sufficient information, or if the research conducted does not adhere to accepted standards.
 
-Professionally-edited manuscripts are **accepted more than twice as often**. Take the stress out of manuscript writing with Article Preparation services.
+Animals in research
 
-- [Quick Language Fix](https://wileyeditingservices.com/en/article-preparation/english-language-editing?utm_source=wol&utm_medium=referral&utm_campaign=right_hand_rail_ses)
-- [In-depth language support and editing](https://wileyeditingservices.com/en/article-preparation/english-language-editing?utm_source=wol&utm_medium=referral&utm_campaign=right_hand_rail_pes)
-- [Top Journal Editing](https://wileyeditingservices.com/en/article-preparation/scientific-editing/?utm_source=wol&utm_medium=referral&utm_campaign=right_hand_rail_sce)
-- [Submission Ready Formatting Service](https://wileyeditingservices.com/en/article-preparation/manuscript-formatting?utm_source=wol&utm_medium=referral&utm_campaign=right_hand_rail_mf)
-- [Graphical Abstract Design](https://wileyeditingservices.com/en/article-preparation/graphical-abstract-design?utm_source=wol&utm_medium=referral&utm_campaign=right_hand_rail_ga)
-- [One-Click Language Check (FREE)](https://en.wileyeditingservices.com/english-language-checker-service-recommender?utm_source=wol&utm_medium=referral&utm_campaign=right_hand_rail_lssr)
+Research involving vertebrates and regulated invertebrates must adhere to the accepted international, national and institutional requirements where the research was conducted. See, for example:
 
-## Additional links
+the International Council for Laboratory Animal Science (ICLAS) 
+guidelines for researchers
 
-### About Wiley Online Library
+the Association for the Study of Animal Behavior (ASAB) 
+guidelines for ethical treatment of animals in behavioral research and teaching
 
-- [Privacy Policy](https://www.wiley.com/privacy)
-- [Terms of Use](https://onlinelibrary.wiley.com/terms-and-conditions)
-- [About Cookies](https://onlinelibrary.wiley.com/cookies)
-- Manage Cookies
-- [Accessibility](https://onlinelibrary.wiley.com/accessibility)
-- [Wiley Research DE&I Statement and Publishing Policies](https://onlinelibrary.wiley.com/publishing-policies)
+the Basel Declaration outlining 
+fundamental principles
+ for animal research
 
-### Help & Support
+the 
+Animal Welfare Act (AWA)
+ for research on livestock
 
-- [Contact Us](https://hub.wiley.com/community/support/onlinelibrary)
-- [Training and Support](https://www.wiley.com/customer-success/wiley-online-library-training-hub)
-- [DMCA & Reporting Piracy](https://onlinelibrary.wiley.com/dmca-notification-policy)
-- [Sitemap](https://onlinelibrary.wiley.com/sitemap)
+Authors must confirm in their manuscript that ethical approval was obtained before the study began and must provide the name of the approving body and associated approval code or permit number.
 
-### Opportunities
+Authors must provide sufficient information to allow the evaluation of the methods and results presented, in accordance with the 
+ARRIVE (Animal Research Reporting of In Vivo Experiment) guidelines
+, the 
+REFLECT statement
+ for livestock reporting, and the 
+SAGER guidelines
+.
 
-- [Subscription Agents](https://onlinelibrary.wiley.com/agents)
-- [Advertisers & Corporate Partners](https://onlinelibrary.wiley.com/advertisers)
+Any euthanasia and anesthesia methods must be described in detail, including information on the procedures and any agents used. Authors should also provide information on endpoints for any experiments requiring the sacrifice of animals. All steps to reduce suffering must be reported, in accordance with 
+NC3Rs (National Centre for the Replacement Refinement & Reduction of Animals in Research)
+ guidance on 
+humane endpoints
+. Images of dead animals should not be shared unless they are essential for understanding the research.
 
-### Connect with Wiley
+Editors may request additional information regarding evidence of ethical research approval or the procedures used during the research. Editors reserve the right to reject a manuscript if the authors have not provided sufficient information or if the research conducted does not adhere to accepted standards for animal research.
 
-- [The Wiley Network](https://www.wiley.com/network)
-- [Wiley Press Room](https://newsroom.wiley.com/)
+Research involving plants and geological samples
 
-Copyright © 1999-2026 [John Wiley & Sons, Inc](https://www.wiley.com/) or related companies. All rights reserved, including rights for text and data mining and training of artificial intelligence technologies or similar technologies.
+Research involving plants (cultivated or wild) and geological samples, including their collection, must comply with all relevant institutional, national, and international guidelines. Authors must confirm that fieldwork has been conducted in accordance with local legislation and provide evidence that the appropriate licenses and/or permissions were obtained. 
 
-[![Wiley Home Page](https://onlinelibrary.wiley.com/pb-assets/tmp-images/footer-logo-wiley-1510029248417.png)](https://www.wiley.com/ "Wiley Home Page")
+Dual-use research of concern
 
-[Cancel Login](https://onlinelibrary.wiley.com/page/journal/17446570/homepage/forauthors.html#)
+Authors are responsible for identifying whether their research could potentially be classified as 'dual-use research of concern', i.e., research that is intended for benefit, but could also be misapplied to cause harm. These may involve products, chemicals, methods, or technologies that could pose a threat to public health or safety, the environment, plants, animals, or equipment. Researchers must assess their research for potential dual-use concerns in line with guidance from the 
+World Health Organization's report
+ and the 
+considerations
+ discussed by the 
+National Science Advisory Board for Biosecurity
+. Any research that may pose risks to public health, safety, the environment, agriculture, or national security must undergo institutional review, incorporate appropriate risk mitigation measures, and ensure responsible communication and data dissemination. Editors reserve the right to reject a manuscript if the potential for harm outweighs any potential benefit.
 
-![](https://onlinelibrary.wiley.com/pb-assets/hub-assets/pericles/logo-header-1690978619437.png)
+Sanctions
 
-## Log in to Wiley Online Library
+Publisher sanctions imposed for questionable practices
 
-Email or Customer ID
+On rare occasions, Wiley and/or individual journals may impose sanctions on researchers who have engaged in questionable research practices or publishing ethics malpractice. These sanctions may include bans on submitting material and restrictions on serving as a reviewer or editor. Such restrictions are typically time-limited but may be indefinite if an investigation determines that further involvement would pose a significant risk to Wiley's or the journal's processes or reputation. Bans are communicated directly to the individuals concerned. They are reviewed upon expiry and revoked or extended if necessary. Sanctions may be appealed by writing to the journal and/or publisher with new information; however, initial decisions are carefully considered and generally upheld. To maintain the integrity of published content, information related to sanctions may be shared, as appropriate, with individuals responsible for screening across Wiley.
 
-Password
+Sanctions imposed by governments
 
-[Forgot password?](https://onlinelibrary.wiley.com/action/requestResetPassword)
+While Wiley welcomes contributions from all over the world, we are required to comply with sanctions laws and regulations. As of the date of this update, sanctions measures imposed by the United States, United Kingdom, European Union, and Australia are currently in place in relation to Cuba, Iran, North Korea, Russia, and Syria as well as the regions of Crimea, Donetsk, and Luhansk. Journal editors are required to take extra care when handling submissions that involve a sanctioned country or region with regard to the author affiliation, subject matter, and funding in order to ensure publication is compliant with the sanctions laws and regulations in place.
 
-[NEW USER >](https://onlinelibrary.wiley.com/action/registration?acdl-redirect=true) [INSTITUTIONAL LOGIN >](https://onlinelibrary.wiley.com/action/ssostart?redirectUri=%2Fpage%2Fjournal%2F17446570%2Fhomepage%2Fforauthors.html)
+Systemic manipulation of the publication process
 
-[close dialog](https://onlinelibrary.wiley.com/page/journal/17446570/homepage/forauthors.html#)
+Systematic manipulation of the publication process is when an individual or group of individuals aim to publish research or other scholarly material by dishonest or fraudulent means. This may involve subverting or unduly influencing the peer review process, engaging in inappropriate practices for authorship, citation manipulation or by the publication of fabricated content. 
+COPE's guidance on systemic manipulation of the publication process
+ explores these issues in detail.
 
-![](https://onlinelibrary.wiley.com/pb-assets/hub-assets/pericles/logo-header-1690978619437.png)
+Systematic manipulation is often associated with paper mill activity, i.e. "the process by which manufactured manuscripts are submitted to a journal for a fee on behalf of researchers with the purpose of providing an easy publication for them or to offer authorship for sale" (see this 
+research report
+ on paper mills from COPE and STM for further information). Systematic manipulation is an ongoing concern for all involved in scholarly publishing, and Wiley has discussed 
+findings
+ from a broader investigation involving manipulation at scale. Initiatives such as 
+United2Act
+ and the 
+STM Integrity Hub
+ are bringing multiple stakeholders together to work collaboratively on these challenges and address the root causes. We will continue to reject manuscripts or retract published articles that have been implicated in systematic manipulation and/or paper mill activity. In such cases, detailed findings of internal investigations will not necessarily be shared with all parties involved, to limit sharing of intelligence with potential bad actors.
 
-## Change Password
+Author Contributions:
+ Kristofer Barr, Petr Borodavkin, Tina Chisnell, James Edgar, Caroline Kelly, Elizabeth Moylan, Jake Seviour, Rebecca Strauss and Max Williams. 
 
-Old Password
+Acknowledgements
+: These guidelines build on earlier versions developed by previous Wiley colleagues. We are grateful to internal colleagues for their review and feedback on the current version. 
 
-New Password
+For more information on our work please see 
+Wiley's research integrity hub
 
-Too ShortWeakMediumStrongVery StrongToo Long
+Last updated: July 2026.
 
-#### Your password must have 10 characters or more:
-
-- a lower case character,
-- an upper case character,
-- a special character
-- or a digit
-
-Too Short
-
-## Password Changed Successfully
-
-Your password has been changed
-
-[close dialog](https://onlinelibrary.wiley.com/page/journal/17446570/homepage/forauthors.html#)
-
-## Create a new account
-
-Email
-
-[Returning user](https://onlinelibrary.wiley.com/action/showLogin)
-
-[close dialog](https://onlinelibrary.wiley.com/page/journal/17446570/homepage/forauthors.html#)
-
-![](https://onlinelibrary.wiley.com/pb-assets/hub-assets/pericles/logo-header-1690978619437.png)
-
-## Forgot your password?
-
-Enter your email address below.
-
-Email
-
-Please check your email for instructions on resetting your password.
-If you do not receive an email within 10 minutes, your email address may not be registered,
-and you may need to create a new Wiley Online Library account.
-
-[close dialog](https://onlinelibrary.wiley.com/page/journal/17446570/homepage/forauthors.html#)
-
-## Request Username
-
-Can't sign in? Forgot your username?
-
-Enter your email address below and we will send you your username
-
-Email
-
-[Close](https://onlinelibrary.wiley.com/page/journal/17446570/homepage/forauthors.html#)
-
-If the address matches an existing account you will receive an email with instructions to retrieve your username
-
-wiley.scienceconnect.io
-
-# wiley.scienceconnect.io is blocked
-
-**wiley.scienceconnect.io** refused to connect.
-
-ERR\_BLOCKED\_BY\_RESPONSE
-
-**wiley.scienceconnect.io** refused to connect.
-
-![](<Base64-Image-Removed>)![](<Base64-Image-Removed>)
+{"path": "/ethics-guidelines/index", "title": "Best Practice Guidelines on Publishing Ethics | Wiley"}

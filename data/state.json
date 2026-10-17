@@ -287,11 +287,12 @@
     "last_text_change": "2026-10-17"
   },
   "J-PPOGY": {
-    "hash": "d8ea1e69933bcc57",
+    "hash": "56384b8e836844d3",
     "failures": 0,
-    "last_checked": "2026-10-17T12:44:49+00:00",
+    "last_checked": "2026-10-17T14:46:45+00:00",
     "previous_hash": "",
-    "last_text_change": "2026-10-17"
+    "last_text_change": "2026-10-17",
+    "last_policy_change": "2026-10-17"
   },
   "J-PAR": {
     "hash": "90421bc27904d554",
@@ -572,7 +573,6 @@
     "new:J-APSR",
     "new:P-ANNUALREVI",
     "new:J-JAIS",
-    "new:J-PPOGY",
     "new:J-PAR",
     "new:J-AMP",
     "new:J-AEJAE",
@@ -611,13 +611,13 @@
     "new:P-BMJ",
     "new:P-BRISTOLUNI",
     "new:P-NORDICASSO",
-    "new:P-SOCIETYFOR",
-    "notpolicy:J-PPOGY"
+    "new:P-SOCIETYFOR"
   ],
   "_processed_comments": [
     6235053382,
     6235247275,
-    6235248811
+    6235248811,
+    6235273175
   ],
   "S-AIS": {
     "failures": 0,
