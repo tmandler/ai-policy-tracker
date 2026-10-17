@@ -1,0 +1,38 @@
+{
+  "author_use": "allowed_with_conditions",
+  "disclosure_required": "yes",
+  "ai_as_author": "not_stated",
+  "ai_images": "not_stated",
+  "reviewer_use": "not_stated",
+  "reviewer_upload": "not_stated",
+  "editor_use": "not_stated",
+  "disclosure_location": [
+    "other"
+  ],
+  "summary": "AIS endorses responsible AI use in research (brainstorming, feedback, writing polish) provided authors keep intellectual ownership, verify all AI output, and ensure substantive human contribution. Authors should disclose AI use generally, and must give specific disclosure (the AI used, representative prompts, affected sections) where AI generated original composition. Submissions should not be desk rejected solely for disclosed AI use, except for fabricated content, undisclosed AI use, or no original human content.",
+  "evidence": [
+    {
+      "field": "author_use",
+      "quote": "AIS recognizes opportunities available to scholars to responsibly use AI in their research."
+    },
+    {
+      "field": "author_use",
+      "quote": "AI should never be the sole contributor to the originality of insight and knowledge in a paper."
+    },
+    {
+      "field": "disclosure_required",
+      "quote": "Authors should disclose which sections of their paper, and more generally which activities in the conduct of their research, were influenced by the use of AI"
+    },
+    {
+      "field": "disclosure_required",
+      "quote": "the authors need to disclose upon submission of the paper the specific AI and representative prompts that were used"
+    }
+  ],
+  "page_last_updated": "May 14, 2026",
+  "confidence": "medium",
+  "is_ai_policy": true,
+  "source_id": "S-AIS",
+  "content_hash": "f89ab1d9f13f150f",
+  "extracted_at": "2026-10-17T14:44:25+00:00",
+  "model": "claude-sonnet-5-5"
+}

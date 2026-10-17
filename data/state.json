@@ -566,9 +566,6 @@
   },
   "_notified_keys": [
     "new:J-HBR",
-    "new:J-SMR",
-    "notpolicy:J-MISQ",
-    "notpolicy:J-SMR",
     "new:J-IJOC",
     "new:J-AMLE",
     "new:J-AJPS",
@@ -618,6 +615,15 @@
     "notpolicy:J-PPOGY"
   ],
   "_processed_comments": [
-    6235053382
-  ]
+    6235053382,
+    6235247275,
+    6235248811
+  ],
+  "S-AIS": {
+    "failures": 0,
+    "hash": "f89ab1d9f13f150f",
+    "last_checked": "2026-10-17T14:44:12+00:00",
+    "previous_hash": "",
+    "last_text_change": "2026-10-17"
+  }
 }

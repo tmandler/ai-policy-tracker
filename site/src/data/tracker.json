@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-17T14:41:50+00:00",
+  "generated": "2026-10-17T14:44:25+00:00",
   "labels": {
     "author_use": "Authors may use generative AI in preparing manuscripts",
     "disclosure_required": "Authors must disclose AI use ('partial' = only some uses, e.g. not copy-editing)",
@@ -14441,11 +14441,11 @@
       "effective": {
         "author_use": {
           "value": "allowed_with_conditions",
-          "source": "P-TF"
+          "source": "S-AIS"
         },
         "disclosure_required": {
           "value": "yes",
-          "source": "P-TF"
+          "source": "S-AIS"
         },
         "ai_as_author": {
           "value": "prohibited",
@@ -14469,7 +14469,7 @@
         }
       },
       "note": "",
-      "needs_review": true
+      "needs_review": false
     },
     {
       "journal": "Journal of the Association of Environmental and Resource Economists",
@@ -15769,36 +15769,36 @@
       ],
       "effective": {
         "author_use": {
-          "value": "unknown",
+          "value": "allowed_with_conditions",
           "source": "S-AIS"
         },
         "disclosure_required": {
-          "value": "unknown",
+          "value": "yes",
           "source": "S-AIS"
         },
         "ai_as_author": {
-          "value": "unknown",
+          "value": "not_stated",
           "source": "S-AIS"
         },
         "ai_images": {
-          "value": "unknown",
+          "value": "not_stated",
           "source": "S-AIS"
         },
         "reviewer_use": {
-          "value": "unknown",
+          "value": "not_stated",
           "source": "S-AIS"
         },
         "reviewer_upload": {
-          "value": "unknown",
+          "value": "not_stated",
           "source": "S-AIS"
         },
         "editor_use": {
-          "value": "unknown",
+          "value": "not_stated",
           "source": "S-AIS"
         }
       },
       "note": "",
-      "needs_review": true
+      "needs_review": false
     },
     {
       "journal": "MIT Sloan Management Review",
@@ -15810,41 +15810,39 @@
       "publisher": "MIT Sloan School of Management",
       "society": "MIT Sloan School of Management",
       "field": "General Management, Ethics & CSR",
-      "layers": [
-        "J-SMR"
-      ],
+      "layers": [],
       "effective": {
         "author_use": {
-          "value": "not_stated",
-          "source": "J-SMR"
+          "value": "unknown",
+          "source": ""
         },
         "disclosure_required": {
-          "value": "not_stated",
-          "source": "J-SMR"
+          "value": "unknown",
+          "source": ""
         },
         "ai_as_author": {
-          "value": "not_stated",
-          "source": "J-SMR"
+          "value": "unknown",
+          "source": ""
         },
         "ai_images": {
-          "value": "not_stated",
-          "source": "J-SMR"
+          "value": "unknown",
+          "source": ""
         },
         "reviewer_use": {
-          "value": "not_stated",
-          "source": "J-SMR"
+          "value": "unknown",
+          "source": ""
         },
         "reviewer_upload": {
-          "value": "not_stated",
-          "source": "J-SMR"
+          "value": "unknown",
+          "source": ""
         },
         "editor_use": {
-          "value": "not_stated",
-          "source": "J-SMR"
+          "value": "unknown",
+          "source": ""
         }
       },
       "note": "",
-      "needs_review": true
+      "needs_review": false
     },
     {
       "journal": "Multinational Business Review",
@@ -21752,7 +21750,7 @@
       "level": "journal",
       "url": "https://sloanreview.mit.edu/authors",
       "verified": false,
-      "status": "auto_found",
+      "status": "retired",
       "summary": "The Author Guidelines page now only announces that MIT Sloan Management Review is ending print publication and that a new digital version will launch. It tells interested authors to email for inquiries and contains no policy on generative AI use by authors, reviewers, or editors.",
       "evidence": [],
       "fields": {
@@ -23931,28 +23929,53 @@
       "entity": "Association for Information Systems",
       "level": "society",
       "url": "https://aisnet.org/wp-content/uploads/2026/05/AISStatement2026v1b.pdf",
-      "verified": false,
-      "status": "found",
-      "summary": "",
-      "evidence": [],
+      "verified": true,
+      "status": "verified",
+      "summary": "AIS endorses responsible AI use in research (brainstorming, feedback, writing polish) provided authors keep intellectual ownership, verify all AI output, and ensure substantive human contribution. Authors should disclose AI use generally, and must give specific disclosure (the AI used, representative prompts, affected sections) where AI generated original composition. Submissions should not be desk rejected solely for disclosed AI use, except for fabricated content, undisclosed AI use, or no original human content.",
+      "evidence": [
+        {
+          "field": "author_use",
+          "quote": "AIS recognizes opportunities available to scholars to responsibly use AI in their research."
+        },
+        {
+          "field": "author_use",
+          "quote": "AI should never be the sole contributor to the originality of insight and knowledge in a paper."
+        },
+        {
+          "field": "disclosure_required",
+          "quote": "Authors should disclose which sections of their paper, and more generally which activities in the conduct of their research, were influenced by the use of AI"
+        },
+        {
+          "field": "disclosure_required",
+          "quote": "the authors need to disclose upon submission of the paper the specific AI and representative prompts that were used"
+        }
+      ],
       "fields": {
-        "author_use": "unknown",
-        "disclosure_required": "unknown",
-        "ai_as_author": "unknown",
-        "ai_images": "unknown",
-        "reviewer_use": "unknown",
-        "reviewer_upload": "unknown",
-        "editor_use": "unknown"
+        "author_use": "allowed_with_conditions",
+        "disclosure_required": "yes",
+        "ai_as_author": "not_stated",
+        "ai_images": "not_stated",
+        "reviewer_use": "not_stated",
+        "reviewer_upload": "not_stated",
+        "editor_use": "not_stated"
       },
-      "disclosure_location": [],
-      "confidence": "",
-      "page_last_updated": "",
-      "last_checked": "",
+      "disclosure_location": [
+        "other"
+      ],
+      "confidence": "medium",
+      "page_last_updated": "May 14, 2026",
+      "last_checked": "2026-10-17",
       "last_policy_change": "",
-      "fetch_ok": false
+      "fetch_ok": true
     }
   },
   "changes": [
+    {
+      "date": "2026-10-17",
+      "type": "policy_added",
+      "source_id": "S-AIS",
+      "entity": "Association for Information Systems"
+    },
     {
       "date": "2026-10-17",
       "type": "source_discovered",
@@ -24733,6 +24756,6 @@
   "stats": {
     "journals": 468,
     "sources": 71,
-    "verified": 8
+    "verified": 9
   }
 }
