@@ -615,8 +615,9 @@
     "new:P-BRISTOLUNI",
     "new:P-NORDICASSO",
     "new:P-SOCIETYFOR",
-    "fetch:P-CUP",
-    "fetch:J-JMS",
     "notpolicy:J-PPOGY"
+  ],
+  "_processed_comments": [
+    6235053382
   ]
 }

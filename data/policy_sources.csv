@@ -6,7 +6,7 @@ P-OUP,Oxford University Press,publisher,https://academic.oup.com/pages/for-autho
 P-SPR,Springer Nature,publisher,https://www.springer.com/gp/editorial-policies/artificial-intelligence--ai-/25428500,found,Palgrave variant for JIBS: https://www.springer.com/gp/palgrave/editorial-policies/artificial-intelligence--ai-/25429434 (verify path)
 P-EME,Emerald,publisher,https://www.emerald.com/publish-with-us/pages/publication-ethics,found,AI section sits inside general ethics page
 P-TF,Taylor & Francis,publisher,https://taylorandfrancis.com/our-policies/ai-policy/,found,
-P-CUP,Cambridge University Press,publisher,https://www.cambridge.org/authorhub/application/files/7617/2743/0832/AI_Policy_for_Content_Creators.pdf,found,PDF; needs PDF parsing
+P-CUP,Cambridge University Press,publisher,https://www.cambridge.org/authorhub/application/files/7617/2743/0832/AI_Policy_for_Content_Creators.pdf,retired,PDF; needs PDF parsing | rejected 2026-10-17: https://www.cambridge.org/authorhub/application/files/7617/2743/0832/AI_Policy_for_Content_Creators.pdf
 P-UCP,University of Chicago Press,publisher,https://press.uchicago.edu/resource/ai_guidelines.html,retired,Covers books only; tells journal authors to follow each journal's own guidelines
 P-INF,INFORMS,publisher,https://pubsonline.informs.org/authorportal/publication-ethics,verified,Authors only (section Authorship Misrepresentation); reviewer rules are set per journal
 P-AOM,Academy of Management,publisher,https://www.aom.org/publications/journals/publishing-with-aom/aom-artificial-intelligence-policy/,found,
@@ -19,7 +19,7 @@ J-MNSC,Management Science,journal,https://pubsonline.informs.org/page/mnsc/submi
 J-MKSC,Marketing Science,journal,https://pubsonline.informs.org/page/mksc/submission-guidelines,verified,Reviewer rules on https://pubsonline.informs.org/page/mksc/review-process
 J-MSOM,Manufacturing & Service Operations Management,journal,https://pubsonline.informs.org/journal/msom/aipolicy,found,
 J-OPRE,Operations Research,journal,https://pubsonline.informs.org/page/opre/generative-ai-guidelines,verified,Reviewer/editor confidentiality rules
-J-JMS,Journal of Management Studies,journal,https://car.aom.org/discussion/jms-launches-new-policy-on-the-use-of-ai-in-research,to_verify,Announcement only; locate policy on JMS/Wiley site
+J-JMS,Journal of Management Studies,journal,https://car.aom.org/discussion/jms-launches-new-policy-on-the-use-of-ai-in-research,retired,Announcement only; locate policy on JMS/Wiley site | rejected 2026-10-17: https://car.aom.org/discussion/jms-launches-new-policy-on-the-use-of-ai-in-research
 J-MISQ,MIS Quarterly,journal,https://misq.umn.edu/misq/article/47/3/i/3416/Editor-s-CommentsEditing-Innovation-in-MIS,to_verify,Only 2023 editorial interim guidance found
 J-HBR,Harvard Business Review,journal,https://hbr.org/guidelines-for-authors,auto_found,"HBR's contributor guidelines ask authors to disclose whether and how they used AI tools, and they say authors stay accountable for accuracy, integrity, sourcing and originality."
 J-SMR,MIT Sloan Management Review,journal,https://sloanreview.mit.edu/authors,auto_found,"The MIT SMR Author Guidelines page has a section called 'Our Position on the Use of Generative AI'. It says AI tools can't be listed as authors and that authors must disclose which AI tool they used and how. I saw this text only on a dev-site copy of the page, not on the live page, so I'm assuming the live page matches."

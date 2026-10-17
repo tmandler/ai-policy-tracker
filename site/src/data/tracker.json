@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-17T13:00:29+00:00",
+  "generated": "2026-10-17T14:25:21+00:00",
   "labels": {
     "author_use": "Authors may use generative AI in preparing manuscripts",
     "disclosure_required": "Authors must disclose AI use ('partial' = only some uses, e.g. not copy-editing)",
@@ -1137,7 +1137,6 @@
       "society": "",
       "field": "Social Sciences",
       "layers": [
-        "P-CUP",
         "J-APSR"
       ],
       "effective": {
@@ -1799,7 +1798,6 @@
       "society": "",
       "field": "Psychology (General)",
       "layers": [
-        "P-CUP",
         "J-BBS"
       ],
       "effective": {
@@ -2329,41 +2327,39 @@
       "publisher": "Cambridge University Press",
       "society": "",
       "field": "General Management, Ethics & CSR",
-      "layers": [
-        "P-CUP"
-      ],
+      "layers": [],
       "effective": {
         "author_use": {
           "value": "unknown",
-          "source": "P-CUP"
+          "source": ""
         },
         "disclosure_required": {
           "value": "unknown",
-          "source": "P-CUP"
+          "source": ""
         },
         "ai_as_author": {
           "value": "unknown",
-          "source": "P-CUP"
+          "source": ""
         },
         "ai_images": {
           "value": "unknown",
-          "source": "P-CUP"
+          "source": ""
         },
         "reviewer_use": {
           "value": "unknown",
-          "source": "P-CUP"
+          "source": ""
         },
         "reviewer_upload": {
           "value": "unknown",
-          "source": "P-CUP"
+          "source": ""
         },
         "editor_use": {
           "value": "unknown",
-          "source": "P-CUP"
+          "source": ""
         }
       },
       "note": "new: journal-level check pending",
-      "needs_review": true
+      "needs_review": false
     },
     {
       "journal": "Business History",
@@ -2418,7 +2414,6 @@
       "society": "",
       "field": "Business & Economic History",
       "layers": [
-        "P-CUP",
         "J-BHR"
       ],
       "effective": {
@@ -3347,7 +3342,6 @@
       "society": "",
       "field": "Economics, Econometrics & Statistics",
       "layers": [
-        "P-CUP",
         "J-ETORY"
       ],
       "effective": {
@@ -4097,41 +4091,39 @@
       "publisher": "Cambridge University Press",
       "society": "",
       "field": "Business & Economic History",
-      "layers": [
-        "P-CUP"
-      ],
+      "layers": [],
       "effective": {
         "author_use": {
           "value": "unknown",
-          "source": "P-CUP"
+          "source": ""
         },
         "disclosure_required": {
           "value": "unknown",
-          "source": "P-CUP"
+          "source": ""
         },
         "ai_as_author": {
           "value": "unknown",
-          "source": "P-CUP"
+          "source": ""
         },
         "ai_images": {
           "value": "unknown",
-          "source": "P-CUP"
+          "source": ""
         },
         "reviewer_use": {
           "value": "unknown",
-          "source": "P-CUP"
+          "source": ""
         },
         "reviewer_upload": {
           "value": "unknown",
-          "source": "P-CUP"
+          "source": ""
         },
         "editor_use": {
           "value": "unknown",
-          "source": "P-CUP"
+          "source": ""
         }
       },
       "note": "new: journal-level check pending",
-      "needs_review": true
+      "needs_review": false
     },
     {
       "journal": "Entrepreneurship and Regional Development",
@@ -5289,41 +5281,39 @@
       "publisher": "Cambridge University Press",
       "society": "",
       "field": "Economics, Econometrics & Statistics",
-      "layers": [
-        "P-CUP"
-      ],
+      "layers": [],
       "effective": {
         "author_use": {
           "value": "unknown",
-          "source": "P-CUP"
+          "source": ""
         },
         "disclosure_required": {
           "value": "unknown",
-          "source": "P-CUP"
+          "source": ""
         },
         "ai_as_author": {
           "value": "unknown",
-          "source": "P-CUP"
+          "source": ""
         },
         "ai_images": {
           "value": "unknown",
-          "source": "P-CUP"
+          "source": ""
         },
         "reviewer_use": {
           "value": "unknown",
-          "source": "P-CUP"
+          "source": ""
         },
         "reviewer_upload": {
           "value": "unknown",
-          "source": "P-CUP"
+          "source": ""
         },
         "editor_use": {
           "value": "unknown",
-          "source": "P-CUP"
+          "source": ""
         }
       },
       "note": "new: journal-level check pending",
-      "needs_review": true
+      "needs_review": false
     },
     {
       "journal": "Explorations in Economic History",
@@ -8428,7 +8418,6 @@
       "society": "",
       "field": "Social Sciences",
       "layers": [
-        "P-CUP",
         "J-IOION"
       ],
       "effective": {
@@ -10426,41 +10415,39 @@
       "publisher": "Cambridge University Press",
       "society": "",
       "field": "Business & Economic History",
-      "layers": [
-        "P-CUP"
-      ],
+      "layers": [],
       "effective": {
         "author_use": {
           "value": "unknown",
-          "source": "P-CUP"
+          "source": ""
         },
         "disclosure_required": {
           "value": "unknown",
-          "source": "P-CUP"
+          "source": ""
         },
         "ai_as_author": {
           "value": "unknown",
-          "source": "P-CUP"
+          "source": ""
         },
         "ai_images": {
           "value": "unknown",
-          "source": "P-CUP"
+          "source": ""
         },
         "reviewer_use": {
           "value": "unknown",
-          "source": "P-CUP"
+          "source": ""
         },
         "reviewer_upload": {
           "value": "unknown",
-          "source": "P-CUP"
+          "source": ""
         },
         "editor_use": {
           "value": "unknown",
-          "source": "P-CUP"
+          "source": ""
         }
       },
       "note": "new: journal-level check pending",
-      "needs_review": true
+      "needs_review": false
     },
     {
       "journal": "Journal of Economic Literature",
@@ -11049,41 +11036,39 @@
       "publisher": "Cambridge University Press",
       "society": "University of Washington (Foster)",
       "field": "Finance",
-      "layers": [
-        "P-CUP"
-      ],
+      "layers": [],
       "effective": {
         "author_use": {
           "value": "unknown",
-          "source": "P-CUP"
+          "source": ""
         },
         "disclosure_required": {
           "value": "unknown",
-          "source": "P-CUP"
+          "source": ""
         },
         "ai_as_author": {
           "value": "unknown",
-          "source": "P-CUP"
+          "source": ""
         },
         "ai_images": {
           "value": "unknown",
-          "source": "P-CUP"
+          "source": ""
         },
         "reviewer_use": {
           "value": "unknown",
-          "source": "P-CUP"
+          "source": ""
         },
         "reviewer_upload": {
           "value": "unknown",
-          "source": "P-CUP"
+          "source": ""
         },
         "editor_use": {
           "value": "unknown",
-          "source": "P-CUP"
+          "source": ""
         }
       },
       "note": "",
-      "needs_review": true
+      "needs_review": false
     },
     {
       "journal": "Journal of Financial Econometrics",
@@ -11754,41 +11739,39 @@
       "publisher": "Cambridge University Press",
       "society": "",
       "field": "Economics, Econometrics & Statistics",
-      "layers": [
-        "P-CUP"
-      ],
+      "layers": [],
       "effective": {
         "author_use": {
           "value": "unknown",
-          "source": "P-CUP"
+          "source": ""
         },
         "disclosure_required": {
           "value": "unknown",
-          "source": "P-CUP"
+          "source": ""
         },
         "ai_as_author": {
           "value": "unknown",
-          "source": "P-CUP"
+          "source": ""
         },
         "ai_images": {
           "value": "unknown",
-          "source": "P-CUP"
+          "source": ""
         },
         "reviewer_use": {
           "value": "unknown",
-          "source": "P-CUP"
+          "source": ""
         },
         "reviewer_upload": {
           "value": "unknown",
-          "source": "P-CUP"
+          "source": ""
         },
         "editor_use": {
           "value": "unknown",
-          "source": "P-CUP"
+          "source": ""
         }
       },
       "note": "new: journal-level check pending",
-      "needs_review": true
+      "needs_review": false
     },
     {
       "journal": "Journal of Interactive Marketing",
@@ -12508,8 +12491,7 @@
       "society": "Society for the Advancement of Management Studies",
       "field": "General Management, Ethics & CSR",
       "layers": [
-        "P-WIL",
-        "J-JMS"
+        "P-WIL"
       ],
       "effective": {
         "author_use": {
@@ -12542,7 +12524,7 @@
         }
       },
       "note": "",
-      "needs_review": true
+      "needs_review": false
     },
     {
       "journal": "Journal of Managerial Psychology",
@@ -14056,41 +14038,39 @@
       "publisher": "Cambridge University Press",
       "society": "",
       "field": "Social Sciences",
-      "layers": [
-        "P-CUP"
-      ],
+      "layers": [],
       "effective": {
         "author_use": {
           "value": "unknown",
-          "source": "P-CUP"
+          "source": ""
         },
         "disclosure_required": {
           "value": "unknown",
-          "source": "P-CUP"
+          "source": ""
         },
         "ai_as_author": {
           "value": "unknown",
-          "source": "P-CUP"
+          "source": ""
         },
         "ai_images": {
           "value": "unknown",
-          "source": "P-CUP"
+          "source": ""
         },
         "reviewer_use": {
           "value": "unknown",
-          "source": "P-CUP"
+          "source": ""
         },
         "reviewer_upload": {
           "value": "unknown",
-          "source": "P-CUP"
+          "source": ""
         },
         "editor_use": {
           "value": "unknown",
-          "source": "P-CUP"
+          "source": ""
         }
       },
       "note": "new: journal-level check pending",
-      "needs_review": true
+      "needs_review": false
     },
     {
       "journal": "Journal of Strategic Information Systems",
@@ -14981,41 +14961,39 @@
       "publisher": "Cambridge University Press",
       "society": "",
       "field": "Psychology (General)",
-      "layers": [
-        "P-CUP"
-      ],
+      "layers": [],
       "effective": {
         "author_use": {
           "value": "unknown",
-          "source": "P-CUP"
+          "source": ""
         },
         "disclosure_required": {
           "value": "unknown",
-          "source": "P-CUP"
+          "source": ""
         },
         "ai_as_author": {
           "value": "unknown",
-          "source": "P-CUP"
+          "source": ""
         },
         "ai_images": {
           "value": "unknown",
-          "source": "P-CUP"
+          "source": ""
         },
         "reviewer_use": {
           "value": "unknown",
-          "source": "P-CUP"
+          "source": ""
         },
         "reviewer_upload": {
           "value": "unknown",
-          "source": "P-CUP"
+          "source": ""
         },
         "editor_use": {
           "value": "unknown",
-          "source": "P-CUP"
+          "source": ""
         }
       },
       "note": "new: journal-level check pending",
-      "needs_review": true
+      "needs_review": false
     },
     {
       "journal": "Labour Economics",
@@ -15245,41 +15223,39 @@
       "publisher": "Cambridge University Press",
       "society": "",
       "field": "International Business & Area Studies",
-      "layers": [
-        "P-CUP"
-      ],
+      "layers": [],
       "effective": {
         "author_use": {
           "value": "unknown",
-          "source": "P-CUP"
+          "source": ""
         },
         "disclosure_required": {
           "value": "unknown",
-          "source": "P-CUP"
+          "source": ""
         },
         "ai_as_author": {
           "value": "unknown",
-          "source": "P-CUP"
+          "source": ""
         },
         "ai_images": {
           "value": "unknown",
-          "source": "P-CUP"
+          "source": ""
         },
         "reviewer_use": {
           "value": "unknown",
-          "source": "P-CUP"
+          "source": ""
         },
         "reviewer_upload": {
           "value": "unknown",
-          "source": "P-CUP"
+          "source": ""
         },
         "editor_use": {
           "value": "unknown",
-          "source": "P-CUP"
+          "source": ""
         }
       },
       "note": "new: journal-level check pending",
-      "needs_review": true
+      "needs_review": false
     },
     {
       "journal": "Management International Review",
@@ -17433,41 +17409,39 @@
       "publisher": "Cambridge University Press",
       "society": "",
       "field": "Psychology (General)",
-      "layers": [
-        "P-CUP"
-      ],
+      "layers": [],
       "effective": {
         "author_use": {
           "value": "unknown",
-          "source": "P-CUP"
+          "source": ""
         },
         "disclosure_required": {
           "value": "unknown",
-          "source": "P-CUP"
+          "source": ""
         },
         "ai_as_author": {
           "value": "unknown",
-          "source": "P-CUP"
+          "source": ""
         },
         "ai_images": {
           "value": "unknown",
-          "source": "P-CUP"
+          "source": ""
         },
         "reviewer_use": {
           "value": "unknown",
-          "source": "P-CUP"
+          "source": ""
         },
         "reviewer_upload": {
           "value": "unknown",
-          "source": "P-CUP"
+          "source": ""
         },
         "editor_use": {
           "value": "unknown",
-          "source": "P-CUP"
+          "source": ""
         }
       },
       "note": "new: journal-level check pending",
-      "needs_review": true
+      "needs_review": false
     },
     {
       "journal": "Public Administration",
@@ -21161,7 +21135,7 @@
       "level": "publisher",
       "url": "https://www.cambridge.org/authorhub/application/files/7617/2743/0832/AI_Policy_for_Content_Creators.pdf",
       "verified": false,
-      "status": "found",
+      "status": "retired",
       "summary": "",
       "evidence": [],
       "fields": {
@@ -21684,7 +21658,7 @@
       "level": "journal",
       "url": "https://car.aom.org/discussion/jms-launches-new-policy-on-the-use-of-ai-in-research",
       "verified": false,
-      "status": "to_verify",
+      "status": "retired",
       "summary": "",
       "evidence": [],
       "fields": {

@@ -300,20 +300,6 @@
     "url": "https://epubs.siam.org/artificial-intelligence"
   },
   {
-    "key": "fetch:P-CUP",
-    "reason": "fetch failed 3 runs in a row",
-    "added": "2026-10-17",
-    "url": "https://www.cambridge.org/authorhub/application/files/7617/2743/0832/AI_Policy_for_Content_Creators.pdf",
-    "error": "firecrawl http 500"
-  },
-  {
-    "key": "fetch:J-JMS",
-    "reason": "fetch failed 3 runs in a row",
-    "added": "2026-10-17",
-    "url": "https://car.aom.org/discussion/jms-launches-new-policy-on-the-use-of-ai-in-research",
-    "error": "page does not mention AI"
-  },
-  {
     "key": "notpolicy:J-PPOGY",
     "reason": "page no longer looks like an AI policy",
     "added": "2026-10-17",

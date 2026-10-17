@@ -110,10 +110,3 @@ Reply to this issue with one command per line (or answer the notification email)
 - **Personnel Psychology** (journal, `J-PPOGY`) · [open page](https://onlinelibrary.wiley.com/page/journal/17446570/homepage/forauthors.html): page no longer looks like an AI policy
   `verify J-PPOGY` · `url J-PPOGY <correct link>` · `reject J-PPOGY`
 
-## Pages that keep failing to load (2)
-
-- **Cambridge University Press** (publisher, `P-CUP`) · [open page](https://www.cambridge.org/authorhub/application/files/7617/2743/0832/AI_Policy_for_Content_Creators.pdf): fetch failed 3 runs in a row (firecrawl http 500)
-  `url P-CUP <correct link>` · `reject P-CUP`
-- **Journal of Management Studies** (journal, `J-JMS`) · [open page](https://car.aom.org/discussion/jms-launches-new-policy-on-the-use-of-ai-in-research): fetch failed 3 runs in a row (page does not mention AI)
-  `url J-JMS <correct link>` · `reject J-JMS`
-
