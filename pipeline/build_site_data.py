@@ -43,7 +43,7 @@ def run():
                     val, by = v, sid
             effective[k] = {"value": val, "source": by}
         journals.append({
-            "journal": j["journal"], "abbrev": j["abbrev"], "lists": [x for x in j["source_list"].split("|") if x],
+            "journal": j["journal"], "abbrev": j["abbrev"], "lists": [x for x in j["source_list"].split("|") if x], "ajg": j.get("ajg", ""),
             "publisher": j["publisher"], "society": j["owner_society"], "field": j["field"],
             "layers": layers, "effective": effective, "note": j.get("coverage_note", ""),
             "needs_review": any(sid in review_keys for sid in layers),

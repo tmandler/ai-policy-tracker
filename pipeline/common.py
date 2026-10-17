@@ -29,7 +29,7 @@ FIRECRAWL_KEY = os.getenv("FIRECRAWL_API_KEY", "")
 CROSSREF_MAILTO = os.getenv("CROSSREF_MAILTO", "")
 USER_AGENT = "ai-policy-tracker/1.0 (+academic research; weekly check)"
 
-JOURNAL_FIELDS = ["journal", "abbrev", "source_list", "publisher", "owner_society", "field", "issn",
+JOURNAL_FIELDS = ["journal", "abbrev", "source_list", "ajg", "publisher", "owner_society", "field", "issn",
                   "publisher_policy", "extra_policy", "coverage_note", "active", "added_on"]
 SOURCE_FIELDS = ["source_id", "entity", "level", "url", "status", "notes"]
 
@@ -136,6 +136,19 @@ def _looks_ok(text, require_ai):
     return len(text) >= 1500 and (not require_ai or AI_TERMS.search(text))
 
 
+def _plain(url):
+    r = requests.get(url, headers={"User-Agent": USER_AGENT}, timeout=60)
+    if r.status_code >= 400:
+        raise FetchError(f"http {r.status_code}")
+    if "pdf" in r.headers.get("content-type", ""):
+        raise FetchError("PDF needs FIRECRAWL_API_KEY")
+    from bs4 import BeautifulSoup
+    soup = BeautifulSoup(r.text, "html.parser")
+    for tag in soup(["script", "style", "nav", "header", "footer", "noscript"]):
+        tag.decompose()
+    return re.sub(r"\n\s*\n+", "\n\n", soup.get_text("\n")).strip()
+
+
 def fetch_markdown(url, fixture_key=None, require_ai=False):
     if MOCK:
         p = FIXTURES / f"{fixture_key}.md"
@@ -144,21 +157,16 @@ def fetch_markdown(url, fixture_key=None, require_ai=False):
         if not p.exists():
             p = FIXTURES / "_default.md"
         return p.read_text(encoding="utf-8").replace("{key}", fixture_key or "")
-    if FIRECRAWL_KEY:
+    try:
+        md = _plain(url)
+        if FIRECRAWL_KEY and not _looks_ok(md, require_ai):
+            raise FetchError("plain fetch too thin")
+    except Exception:
+        if not FIRECRAWL_KEY:
+            raise
         md = _firecrawl(url, True)
         if not _looks_ok(md, require_ai):
             md = _firecrawl(url, False)
-    else:
-        r = requests.get(url, headers={"User-Agent": USER_AGENT}, timeout=60)
-        if r.status_code >= 400:
-            raise FetchError(f"http {r.status_code}")
-        if "pdf" in r.headers.get("content-type", ""):
-            raise FetchError("PDF needs FIRECRAWL_API_KEY")
-        from bs4 import BeautifulSoup
-        soup = BeautifulSoup(r.text, "html.parser")
-        for tag in soup(["script", "style", "nav", "header", "footer", "noscript"]):
-            tag.decompose()
-        md = re.sub(r"\n\s*\n+", "\n\n", soup.get_text("\n")).strip()
     if len(md) < 500:
         raise FetchError(f"page too short ({len(md)} chars)")
     if require_ai and not AI_TERMS.search(md):
