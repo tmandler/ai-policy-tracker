@@ -54,7 +54,7 @@ def run():
     sources = read_csv(SOURCES)
     state = load_json(STATE, {})
     by_id = {s["source_id"]: s for s in sources}
-    pub_sources = {s["entity"]: s["source_id"] for s in sources if s["level"] == "publisher"}
+    pub_sources = {s["entity"]: s["source_id"] for s in sources if s["level"] == "publisher" and s["status"] != "retired"}
 
     for s in sources:
         st = state.get(s["source_id"], {})

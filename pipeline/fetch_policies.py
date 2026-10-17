@@ -4,8 +4,8 @@ from common import (SNAP, SOURCES, STATE, FetchError, content_hash, fetch_markdo
 FAIL_LIMIT = 3
 
 
-def run():
-    sources = [s for s in read_csv(SOURCES) if s["status"] != "retired"]
+def run(only=None):
+    sources = [s for s in read_csv(SOURCES) if s["status"] != "retired" and (not only or s["source_id"] in only)]
     state = load_json(STATE, {})
     changed = []
     for s in sources:

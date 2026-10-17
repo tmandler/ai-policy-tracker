@@ -32,11 +32,23 @@ If something needs a human decision, the pipeline opens (or updates) a GitHub is
 
 ## Everyday maintenance
 
-You shouldn't need to touch it. When an issue appears:
+Everything happens in one GitHub issue labelled `tracker-review`. It opens when something needs a look, and you are @-mentioned (so GitHub emails you) whenever new items appear. It closes itself when the list is empty.
 
-- **To confirm an automatically found page:** In `data/policy_sources.csv`, set its `status` to `verified`.
-- **To fix a wrong URL or publisher:** Edit `data/policy_sources.csv` or `data/journals.csv` directly.
-- **To close the item:** Delete its entry from `data/review_queue.json`. The issue updates on the next run.
+Each item shows the page link and ready-to-copy commands. **Reply to the issue** (or answer the notification email) with one command per line:
+
+| Command | What it does |
+|---|---|
+| `verify P-XYZ` | The page is right; mark it verified. Several IDs per line are fine. |
+| `url P-XYZ https://...` | Use this link instead; it is read straight away. |
+| `reject P-XYZ` | No usable page; stop showing it. |
+| `publisher Journal Title = Publisher Name` | Fix a journal's publisher. |
+| `done <item key>` | Dismiss any other item without changes. |
+| `help` | Show the list of commands. |
+
+Within a minute or two, your reply gets a 👍 (or 😕 if something went wrong) and a short confirmation, and the website updates. Replies sent while the weekly check is running get 👀 and are applied when it finishes. Only replies from the repository owner are acted on.
+
+Editing `data/policy_sources.csv` or `data/journals.csv` directly still works for anything else.
+
 - **To add another filter list:** Add an entry to `data/lists.json` (URL, short description, expected size range).
 - **When a new AJG edition appears (next due 2027):** Update the `ajg` column in `data/journals.csv`. New journals need a row with `coverage_note` = `new: journal-level check pending`; the pipeline does the rest.
 

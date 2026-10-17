@@ -1,0 +1,56 @@
+name: Apply review replies
+
+on:
+  issue_comment:
+    types: [created]
+
+permissions:
+  contents: write
+  issues: write
+  actions: read
+
+concurrency:
+  group: review-commands
+  cancel-in-progress: false
+
+jobs:
+  apply:
+    if: >-
+      !github.event.issue.pull_request &&
+      contains(github.event.issue.labels.*.name, 'tracker-review') &&
+      github.event.comment.user.login == github.repository_owner
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install -r requirements.txt
+
+      - name: Apply replies
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          FIRECRAWL_API_KEY: ${{ secrets.FIRECRAWL_API_KEY }}
+          CLAUDE_MODEL: ${{ vars.CLAUDE_MODEL }}
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          git config user.name "policy-tracker-bot"
+          git config user.email "policy-tracker-bot@users.noreply.github.com"
+          busy=$(gh run list --workflow weekly.yml --status in_progress --json databaseId -q length)
+          if [ "$busy" != "0" ]; then
+            cd pipeline && python review_commands.py --defer
+            exit 0
+          fi
+          for attempt in 1 2 3; do
+            git fetch -q origin main && git reset -q --hard origin/main
+            (cd pipeline && python review_commands.py && python github_issue.py)
+            git add data site/src/data
+            git diff --cached --quiet && exit 0
+            git commit -q -m "Apply review replies $(date -u +%Y-%m-%d)"
+            git push -q && exit 0
+            sleep 10
+          done
+          exit 1

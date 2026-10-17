@@ -73,7 +73,7 @@ def run():
     aliases = {norm_title(k): norm_title(v) for k, v in cfg.get("_title_aliases", {}).items()}
     key = lambda t: aliases.get(norm_title(t), norm_title(t))
     by_key = {key(j["journal"]): j for j in journals}
-    pub_sources = {s["entity"]: s["source_id"] for s in read_csv(SOURCES) if s["level"] == "publisher"}
+    pub_sources = {s["entity"]: s["source_id"] for s in read_csv(SOURCES) if s["level"] == "publisher" and s["status"] != "retired"}
 
     for name, lc in cfg.items():
         if name.startswith("_"):

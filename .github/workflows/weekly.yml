@@ -26,6 +26,17 @@ jobs:
 
       - run: pip install -r requirements.txt
 
+      - name: Wait for review replies being applied
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          for i in $(seq 1 20); do
+            n=$(gh run list --workflow review-commands.yml --status in_progress --json databaseId -q length)
+            [ "$n" = "0" ] && break
+            sleep 15
+          done
+          git pull -q
+
       - name: Run pipeline
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
@@ -35,6 +46,17 @@ jobs:
           MAX_JOURNAL_SEARCHES: ${{ vars.MAX_JOURNAL_SEARCHES }}
         working-directory: pipeline
         run: python run.py
+
+      - name: Apply review replies sent during the run, update the review issue
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          FIRECRAWL_API_KEY: ${{ secrets.FIRECRAWL_API_KEY }}
+          CLAUDE_MODEL: ${{ vars.CLAUDE_MODEL }}
+          GH_TOKEN: ${{ github.token }}
+        working-directory: pipeline
+        run: |
+          python review_commands.py || echo "review replies could not be applied"
+          python github_issue.py --notify
 
       - name: Commit results
         run: |
@@ -46,22 +68,4 @@ jobs:
           else
             git commit -m "Weekly policy check $(date -u +%Y-%m-%d)"
             git push
-          fi
-
-      - name: Open issue when review is needed
-        env:
-          GH_TOKEN: ${{ github.token }}
-        run: |
-          n=$(python -c "import json;print(json.load(open('data/last_run.json'))['review_items'])")
-          failed=$(python -c "import json;print(','.join(k for k,v in json.load(open('data/last_run.json'))['steps'].items() if v!='ok'))")
-          if [ "$n" != "0" ] || [ -n "$failed" ]; then
-            title="Policy tracker: $n item(s) to review"
-            [ -n "$failed" ] && title="$title, failed steps: $failed"
-            existing=$(gh issue list --state open --label tracker-review --json number -q '.[0].number')
-            if [ -n "$existing" ]; then
-              gh issue edit "$existing" --title "$title" --body-file data/REVIEW.md
-            else
-              gh label create tracker-review --color FBCA04 2>/dev/null || true
-              gh issue create --title "$title" --body-file data/REVIEW.md --label tracker-review
-            fi
           fi
