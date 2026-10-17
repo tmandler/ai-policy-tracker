@@ -2,7 +2,7 @@
 
 Reply to this issue with one command per line (or answer the notification email). Copy a command from below, e.g. `verify P-XYZ`. Several IDs per line work: `verify P-XYZ J-ABC`. Changes are applied within a few minutes; reply `help` for all commands.
 
-## Confirm new or moved policy pages (48)
+## Confirm new or moved policy pages (49)
 
 - **Harvard Business Review** (journal, `J-HBR`) · [open page](https://hbr.org/guidelines-for-authors): auto-discovered journal policy; please confirm
   `verify J-HBR` · `url J-HBR <correct link>` · `reject J-HBR`
@@ -100,11 +100,11 @@ Reply to this issue with one command per line (or answer the notification email)
   `verify P-NORDICASSO` · `url P-NORDICASSO <correct link>` · `reject P-NORDICASSO`
 - **Society for Industrial and Applied Mathematics** (publisher, `P-SOCIETYFOR`) · [open page](https://epubs.siam.org/artificial-intelligence): auto-discovered publisher policy; please confirm
   `verify P-SOCIETYFOR` · `url P-SOCIETYFOR <correct link>` · `reject P-SOCIETYFOR`
+- **Association for Information Systems** (society, `S-AIS`) · [open page](https://aisnet.org/wp-content/uploads/2026/05/AISStatement2026v1b.pdf): AIS Statement on AI Use in Research, added by hand for MIS Quarterly and JAIS; please confirm
+  `verify S-AIS` · `url S-AIS <correct link>` · `reject S-AIS`
 
-## Check how a page was read (3)
+## Check how a page was read (2)
 
-- **MIS Quarterly** (journal, `J-MISQ`) · [open page](https://misq.umn.edu/misq/article/47/3/i/3416/Editor-s-CommentsEditing-Innovation-in-MIS): page no longer looks like an AI policy
-  `verify J-MISQ` · `url J-MISQ <correct link>` · `reject J-MISQ`
 - **MIT Sloan Management Review** (journal, `J-SMR`) · [open page](https://sloanreview.mit.edu/authors): page no longer looks like an AI policy
   `verify J-SMR` · `url J-SMR <correct link>` · `reject J-SMR`
 - **Personnel Psychology** (journal, `J-PPOGY`) · [open page](https://onlinelibrary.wiley.com/page/journal/17446570/homepage/forauthors.html): page no longer looks like an AI policy

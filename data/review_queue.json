@@ -12,12 +12,6 @@
     "url": "https://sloanreview.mit.edu/authors"
   },
   {
-    "key": "notpolicy:J-MISQ",
-    "reason": "page no longer looks like an AI policy",
-    "added": "2026-10-15",
-    "url": "https://misq.umn.edu/misq/article/47/3/i/3416/Editor-s-CommentsEditing-Innovation-in-MIS"
-  },
-  {
     "key": "notpolicy:J-SMR",
     "reason": "page no longer looks like an AI policy",
     "added": "2026-10-15",
@@ -304,5 +298,11 @@
     "reason": "page no longer looks like an AI policy",
     "added": "2026-10-17",
     "url": "https://onlinelibrary.wiley.com/page/journal/17446570/homepage/forauthors.html"
+  },
+  {
+    "key": "new:S-AIS",
+    "reason": "AIS Statement on AI Use in Research, added by hand for MIS Quarterly and JAIS; please confirm",
+    "added": "2026-10-17",
+    "url": "https://aisnet.org/wp-content/uploads/2026/05/AISStatement2026v1b.pdf"
   }
 ]

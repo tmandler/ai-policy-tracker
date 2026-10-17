@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-17T14:25:21+00:00",
+  "generated": "2026-10-17T14:41:50+00:00",
   "labels": {
     "author_use": "Authors may use generative AI in preparing manuscripts",
     "disclosure_required": "Authors must disclose AI use ('partial' = only some uses, e.g. not copy-editing)",
@@ -14432,20 +14432,20 @@
       "lists": [],
       "ajg": "4*",
       "publisher": "Taylor & Francis",
-      "society": "",
+      "society": "Association for Information Systems",
       "field": "Information Management",
       "layers": [
         "P-TF",
-        "J-JAIS"
+        "S-AIS"
       ],
       "effective": {
         "author_use": {
           "value": "allowed_with_conditions",
-          "source": "J-JAIS"
+          "source": "P-TF"
         },
         "disclosure_required": {
           "value": "yes",
-          "source": "J-JAIS"
+          "source": "P-TF"
         },
         "ai_as_author": {
           "value": "prohibited",
@@ -15762,39 +15762,39 @@
       ],
       "ajg": "4*",
       "publisher": "MIS Research Center (Univ. of Minnesota)",
-      "society": "MIS Research Center (Univ. of Minnesota)",
+      "society": "Association for Information Systems",
       "field": "Information Management",
       "layers": [
-        "J-MISQ"
+        "S-AIS"
       ],
       "effective": {
         "author_use": {
-          "value": "not_stated",
-          "source": "J-MISQ"
+          "value": "unknown",
+          "source": "S-AIS"
         },
         "disclosure_required": {
-          "value": "not_stated",
-          "source": "J-MISQ"
+          "value": "unknown",
+          "source": "S-AIS"
         },
         "ai_as_author": {
-          "value": "not_stated",
-          "source": "J-MISQ"
+          "value": "unknown",
+          "source": "S-AIS"
         },
         "ai_images": {
-          "value": "not_stated",
-          "source": "J-MISQ"
+          "value": "unknown",
+          "source": "S-AIS"
         },
         "reviewer_use": {
-          "value": "not_stated",
-          "source": "J-MISQ"
+          "value": "unknown",
+          "source": "S-AIS"
         },
         "reviewer_upload": {
-          "value": "not_stated",
-          "source": "J-MISQ"
+          "value": "unknown",
+          "source": "S-AIS"
         },
         "editor_use": {
-          "value": "not_stated",
-          "source": "J-MISQ"
+          "value": "unknown",
+          "source": "S-AIS"
         }
       },
       "note": "",
@@ -21683,7 +21683,7 @@
       "level": "journal",
       "url": "https://misq.umn.edu/misq/article/47/3/i/3416/Editor-s-CommentsEditing-Innovation-in-MIS",
       "verified": false,
-      "status": "to_verify",
+      "status": "retired",
       "summary": "This is a September 2023 editorial by the editor-in-chief on innovation at MIS Quarterly, not a formal AI policy. Guest sections by two board members discuss generative AI and AGI as future opportunities and say the journal may need policies later. No rules are set for authors, reviewers or editors.",
       "evidence": [],
       "fields": {
@@ -23925,9 +23925,41 @@
       "last_checked": "2026-10-17",
       "last_policy_change": "",
       "fetch_ok": true
+    },
+    "S-AIS": {
+      "id": "S-AIS",
+      "entity": "Association for Information Systems",
+      "level": "society",
+      "url": "https://aisnet.org/wp-content/uploads/2026/05/AISStatement2026v1b.pdf",
+      "verified": false,
+      "status": "found",
+      "summary": "",
+      "evidence": [],
+      "fields": {
+        "author_use": "unknown",
+        "disclosure_required": "unknown",
+        "ai_as_author": "unknown",
+        "ai_images": "unknown",
+        "reviewer_use": "unknown",
+        "reviewer_upload": "unknown",
+        "editor_use": "unknown"
+      },
+      "disclosure_location": [],
+      "confidence": "",
+      "page_last_updated": "",
+      "last_checked": "",
+      "last_policy_change": "",
+      "fetch_ok": false
     }
   },
   "changes": [
+    {
+      "date": "2026-10-17",
+      "type": "source_discovered",
+      "source_id": "S-AIS",
+      "entity": "Association for Information Systems",
+      "note": "replaces J-MISQ for MIS Quarterly; also applies to JAIS"
+    },
     {
       "date": "2026-10-17",
       "type": "policy_added",
@@ -24700,7 +24732,7 @@
   ],
   "stats": {
     "journals": 468,
-    "sources": 70,
+    "sources": 71,
     "verified": 8
   }
 }

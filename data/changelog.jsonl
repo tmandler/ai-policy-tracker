@@ -115,3 +115,4 @@
 {"date": "2026-10-17", "type": "policy_added", "source_id": "P-BMJ", "entity": "BMJ"}
 {"date": "2026-10-17", "type": "policy_added", "source_id": "P-BRISTOLUNI", "entity": "Bristol University Press"}
 {"date": "2026-10-17", "type": "policy_added", "source_id": "P-SOCIETYFOR", "entity": "Society for Industrial and Applied Mathematics"}
+{"date": "2026-10-17", "type": "source_discovered", "source_id": "S-AIS", "entity": "Association for Information Systems", "note": "replaces J-MISQ for MIS Quarterly; also applies to JAIS"}
