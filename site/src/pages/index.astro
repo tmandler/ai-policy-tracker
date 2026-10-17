@@ -20,8 +20,10 @@ const grades = ["4*", "4", "3"].filter((g) => journals.some((j) => j.ajg === g))
 
   <section class="filters" aria-label="Filters">
     <input id="q" type="search" placeholder="Search journal or publisher" aria-label="Search" />
-    <select id="f-grade" aria-label="AJG grade"><option value="">All AJG grades</option>{grades.map((g) => <option value={g}>AJG {g}</option>)}</select>
-    <select id="f-list" aria-label="List"><option value="">All lists</option>{lists.map((l) => <option>{l}</option>)}</select>
+    <select id="f-grade" aria-label="AJG grade"><option value="">AJG 3, 4 &amp; 4*</option>{grades.map((g) => <option value={g}>AJG {g}</option>)}</select>
+    <span class="checks" role="group" aria-label="Journal lists">{lists.map((l) => (
+      <label class="check"><input type="checkbox" class="f-list" value={l} /><span>{l}</span></label>
+    ))}</span>
     <select id="f-pub" aria-label="Publisher"><option value="">All publishers</option>{publishers.map((p) => <option>{p}</option>)}</select>
     <select id="f-field" aria-label="Field"><option value="">All fields</option>{fields.map((f) => <option>{f}</option>)}</select>
     <span id="count" class="count"></span>
@@ -87,7 +89,7 @@ const grades = ["4*", "4", "3"].filter((g) => journals.some((j) => j.ajg === g))
 
   <script>
     const q = document.getElementById("q");
-    const fl = document.getElementById("f-list");
+    const fl = [...document.querySelectorAll(".f-list")];
     const fp = document.getElementById("f-pub");
     const ff = document.getElementById("f-field");
     const fg = document.getElementById("f-grade");
@@ -95,20 +97,21 @@ const grades = ["4*", "4", "3"].filter((g) => journals.some((j) => j.ajg === g))
     const rows = [...document.querySelectorAll(".jrow")];
     function apply() {
       const term = q.value.trim().toLowerCase();
+      const picked = fl.filter((c) => c.checked).map((c) => c.value);
       let n = 0;
       for (const r of rows) {
         const ok = (!term || r.dataset.search.includes(term)) &&
-          (!fl.value || r.dataset.lists.split("|").includes(fl.value)) &&
+          (!picked.length || picked.some((l) => r.dataset.lists.split("|").includes(l))) &&
           (!fp.value || r.dataset.pub === fp.value) &&
           (!ff.value || r.dataset.field === ff.value) &&
           (!fg.value || r.dataset.grade === fg.value);
         r.hidden = !ok;
         if (ok) n++;
       }
-      for (const el of [q, fg, fl, fp, ff]) el.classList.toggle("has-value", Boolean(el.value.trim()));
+      for (const el of [q, fg, fp, ff]) el.classList.toggle("has-value", Boolean(el.value.trim()));
       count.textContent = `${n} journal${n === 1 ? "" : "s"}`;
     }
-    [q, fg, fl, fp, ff].forEach((el) => el.addEventListener("input", apply));
+    [q, fg, fp, ff, ...fl].forEach((el) => el.addEventListener("input", apply));
     for (const r of rows) {
       const head = r.querySelector(".summary-row");
       const toggle = () => {
