@@ -16,7 +16,7 @@ concurrency:
 jobs:
   run:
     runs-on: ubuntu-latest
-    timeout-minutes: 60
+    timeout-minutes: 180
     steps:
       - uses: actions/checkout@v4
 
@@ -32,6 +32,7 @@ jobs:
           FIRECRAWL_API_KEY: ${{ secrets.FIRECRAWL_API_KEY }}
           CROSSREF_MAILTO: ${{ vars.CROSSREF_MAILTO }}
           CLAUDE_MODEL: ${{ vars.CLAUDE_MODEL }}
+          MAX_JOURNAL_SEARCHES: ${{ vars.MAX_JOURNAL_SEARCHES }}
         working-directory: pipeline
         run: python run.py
 

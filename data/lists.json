@@ -5,15 +5,17 @@
     "min": 45,
     "max": 55
   },
-  "MktBig15": {
-    "url": "https://www.mktbig15.com/",
-    "description": "The 15 journals in the 'Marketing Big15' journal list of the MKTBig15 ranking site (the journal filter, not the other lists)",
-    "min": 12,
-    "max": 20
+  "UTD24": {
+    "url": "https://jsom.utdallas.edu/the-utd-top-100-business-school-research-rankings/list-of-journals",
+    "description": "The 24 journals used by the UT Dallas Naveen Jindal School of Management for its Top 100 Business School Research Rankings (UTD24)",
+    "min": 22,
+    "max": 26
   },
   "_title_aliases": {
     "Sloan Management Review": "MIT Sloan Management Review",
     "Manufacturing and Service Operations Management": "Manufacturing & Service Operations Management",
-    "Accounting Review": "The Accounting Review"
+    "Accounting Review": "The Accounting Review",
+    "Journal on Computing": "INFORMS Journal on Computing",
+    "The Review of Financial Studies": "Review of Financial Studies"
   }
 }

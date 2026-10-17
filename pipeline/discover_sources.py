@@ -1,9 +1,16 @@
+import os
 import re
 
 from common import (JOURNAL_FIELDS, JOURNALS, MOCK, SOURCE_FIELDS, SOURCES, STATE, FetchError, claude_search_json,
                     fetch_markdown, load_json, log_change, queue_review, read_csv, save_json, today, write_csv)
 
 RETRY_DAYS = 30
+MAX_JOURNAL_SEARCHES = int(os.getenv("MAX_JOURNAL_SEARCHES") or 50)
+GRADE_ORDER = {"4*": 0, "4": 1, "3": 2}
+
+
+def priority(j):
+    return (0 if j.get("source_list") else 1, GRADE_ORDER.get(j.get("ajg", ""), 3), j["journal"].lower())
 
 PROMPT = """Find the official, current web page that states {what}.
 Prefer the publisher's or journal's own site over third-party summaries. {extra}
@@ -60,7 +67,8 @@ def run():
                 st.update(failures=0, needs_rediscovery=False)
                 queue_review(f"moved:{s['source_id']}", "policy URL replaced automatically; please confirm", url=ans["url"])
 
-    for j in journals:
+    journal_searches = 0
+    for j in sorted(journals, key=priority):
         if j.get("active") != "yes":
             continue
         pub = j.get("publisher", "")
@@ -80,7 +88,9 @@ def run():
                     j["publisher_policy"] = sid
                     log_change("source_discovered", source_id=sid, entity=pub, url=ans["url"])
                     queue_review(f"new:{sid}", "auto-discovered publisher policy; please confirm", url=ans["url"])
-        if j.get("coverage_note", "").startswith("new") and not recently_tried(state, f"jrnl:{j['journal']}"):
+        if (j.get("coverage_note", "").startswith("new") and journal_searches < MAX_JOURNAL_SEARCHES
+                and not recently_tried(state, f"jrnl:{j['journal']}")):
+            journal_searches += 1
             pub_url = by_id.get(j.get("publisher_policy"), {}).get("url", "")
             ans = search(state, f"jrnl:{j['journal']}",
                          f"journal-specific rules on generative AI use (authors or reviewers) for the journal "
@@ -99,6 +109,8 @@ def run():
             if not MOCK:
                 j["coverage_note"] = ""
 
+    pending = sum(j.get("active") == "yes" and j.get("coverage_note", "").startswith("new") for j in journals)
+    print(f"discovery: {journal_searches} journal searches this run, {pending} journals still pending")
     write_csv(SOURCES, sources, SOURCE_FIELDS)
     write_csv(JOURNALS, journals, JOURNAL_FIELDS)
     save_json(STATE, state)

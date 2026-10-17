@@ -45,10 +45,11 @@ def crossref_lookup(title):
     r = requests.get("https://api.crossref.org/journals", params=params, timeout=60,
                      headers={"User-Agent": USER_AGENT})
     r.raise_for_status()
-    for item in r.json()["message"]["items"]:
-        if norm_title(item.get("title", "")) == norm_title(title):
-            return {"publisher": item.get("publisher", ""), "issn": (item.get("ISSN") or [""])[0]}
-    return None
+    hits = [i for i in r.json()["message"]["items"] if norm_title(i.get("title", "")) == norm_title(title)]
+    if not hits:
+        return None
+    item = max(hits, key=lambda i: (i.get("counts") or {}).get("current-dois", 0))
+    return {"publisher": item.get("publisher", ""), "issn": (item.get("ISSN") or [""])[0]}
 
 
 def extract_list(name, cfg):
@@ -92,7 +93,7 @@ def run():
                 ls = lists_of(j) - {name}
                 j["source_list"] = "|".join(sorted(ls))
                 log_change("journal_removed_from_list", journal=j["journal"], list=name)
-                if not ls:
+                if not ls and not j.get("ajg"):
                     j["active"] = "no"
         for k, item in found.items():
             j = by_key.get(k)

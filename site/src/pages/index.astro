@@ -7,18 +7,20 @@ const { journals, sources, stats, generated } = data;
 const publishers = [...new Set(journals.map((j) => j.publisher))].sort();
 const fields = [...new Set(journals.map((j) => j.field).filter(Boolean))].sort();
 const lists = [...new Set(journals.flatMap((j) => j.lists))].sort();
+const grades = ["4*", "4", "3"].filter((g) => journals.some((j) => j.ajg === g));
 ---
 <Base title="AI Policy Tracker · Business & marketing journals">
   <section class="intro">
     <h1>What journals say about generative AI</h1>
     <p class="lede">
-      AI rules for {stats.journals} FT50 and Marketing Big 15 journals, read from {stats.sources} publisher, society and
-      journal policy pages. Checked weekly; last update {fmtDate(generated.slice(0, 10))}.
+      AI rules for {stats.journals} business and management journals (all journals graded 3, 4 or 4* in the Chartered
+      ABS Academic Journal Guide 2024), read from {stats.sources} publisher, society and journal policy pages. Checked weekly; last update {fmtDate(generated.slice(0, 10))}.
     </p>
   </section>
 
   <section class="filters" aria-label="Filters">
     <input id="q" type="search" placeholder="Search journal or publisher" aria-label="Search" />
+    <select id="f-grade" aria-label="AJG grade"><option value="">All AJG grades</option>{grades.map((g) => <option value={g}>AJG {g}</option>)}</select>
     <select id="f-list" aria-label="List"><option value="">All lists</option>{lists.map((l) => <option>{l}</option>)}</select>
     <select id="f-pub" aria-label="Publisher"><option value="">All publishers</option>{publishers.map((p) => <option>{p}</option>)}</select>
     <select id="f-field" aria-label="Field"><option value="">All fields</option>{fields.map((f) => <option>{f}</option>)}</select>
@@ -37,11 +39,11 @@ const lists = [...new Set(journals.flatMap((j) => j.lists))].sort();
       </thead>
       {journals.map((j) => (
         <tbody class="jrow" data-search={`${j.journal} ${j.abbrev} ${j.publisher} ${j.society}`.toLowerCase()}
-          data-lists={j.lists.join("|")} data-pub={j.publisher} data-field={j.field}>
+          data-lists={j.lists.join("|")} data-pub={j.publisher} data-field={j.field} data-grade={j.ajg}>
           <tr class="summary-row" tabindex="0" aria-expanded="false">
             <th scope="row">
               <span class="jname">{j.journal}</span>
-              <span class="jmeta">{j.publisher}{j.needs_review && <span class="flag" title="Being reviewed">●</span>}</span>
+              <span class="jmeta">{j.publisher}{j.ajg && <> · AJG {j.ajg}</>}{j.needs_review && <span class="flag" title="Being reviewed">●</span>}</span>
             </th>
             {COLUMNS.map(([k]) => {
               const v = j.effective[k].value;
@@ -51,7 +53,7 @@ const lists = [...new Set(journals.flatMap((j) => j.lists))].sort();
           <tr class="detail-row" hidden>
             <td colspan={COLUMNS.length + 1}>
               <div class="detail">
-                <p class="tags">{j.lists.map((l) => <span class="tag">{l}</span>)}{j.field && <span class="tag">{j.field}</span>}</p>
+                <p class="tags">{j.ajg && <span class="tag">AJG {j.ajg}</span>}{j.lists.map((l) => <span class="tag">{l}</span>)}{j.field && <span class="tag">{j.field}</span>}</p>
                 {j.layers.length === 0 && <p class="muted">No public AI policy found for this journal or its publisher.</p>}
                 {j.layers.map((sid) => {
                   const s = sources[sid];
@@ -74,7 +76,7 @@ const lists = [...new Set(journals.flatMap((j) => j.lists))].sort();
                     </div>
                   );
                 })}
-                {j.note && <p class="muted small">{j.note}</p>}
+                {j.note && <p class="muted small">{j.note.startsWith("new") ? "A search for journal-specific rules is still pending; the publisher policy applies until then." : j.note}</p>}
               </div>
             </td>
           </tr>
@@ -88,6 +90,7 @@ const lists = [...new Set(journals.flatMap((j) => j.lists))].sort();
     const fl = document.getElementById("f-list");
     const fp = document.getElementById("f-pub");
     const ff = document.getElementById("f-field");
+    const fg = document.getElementById("f-grade");
     const count = document.getElementById("count");
     const rows = [...document.querySelectorAll(".jrow")];
     function apply() {
@@ -97,14 +100,15 @@ const lists = [...new Set(journals.flatMap((j) => j.lists))].sort();
         const ok = (!term || r.dataset.search.includes(term)) &&
           (!fl.value || r.dataset.lists.split("|").includes(fl.value)) &&
           (!fp.value || r.dataset.pub === fp.value) &&
-          (!ff.value || r.dataset.field === ff.value);
+          (!ff.value || r.dataset.field === ff.value) &&
+          (!fg.value || r.dataset.grade === fg.value);
         r.hidden = !ok;
         if (ok) n++;
       }
-      for (const el of [q, fl, fp, ff]) el.classList.toggle("has-value", Boolean(el.value.trim()));
+      for (const el of [q, fg, fl, fp, ff]) el.classList.toggle("has-value", Boolean(el.value.trim()));
       count.textContent = `${n} journal${n === 1 ? "" : "s"}`;
     }
-    [q, fl, fp, ff].forEach((el) => el.addEventListener("input", apply));
+    [q, fg, fl, fp, ff].forEach((el) => el.addEventListener("input", apply));
     for (const r of rows) {
       const head = r.querySelector(".summary-row");
       const toggle = () => {
