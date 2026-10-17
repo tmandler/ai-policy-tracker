@@ -11,11 +11,19 @@
     "methods",
     "other"
   ],
-  "summary": "Wiley welcomes responsible author use of AI as a companion to writing, provided authors stay fully accountable, check tool terms for rights, and disclose substantive uses (text generation, methodology, visuals) but not simple grammar or formatting help. AI cannot be an author, and AI-edited photographs and factual or evidential images are not permitted. Reviewers and editors may use AI only for things like polishing feedback, must never upload manuscripts (even in part), and reviewers must disclose AI used for drafting reviews.",
+  "summary": "Wiley welcomes responsible use of AI by authors as a companion to writing, provided authors keep full accountability, review the tools' terms, protect rights, and disclose use. Disclosure is required for substantial text generation, restructuring, translation, methodology use, and visuals, but not for simple grammar, formatting, or word-choice polishing. AI-edited photographs and factual or evidential images are not permitted, AI cannot be an author, and reviewers and editors must not upload manuscripts to AI tools but may use AI for organizing and polishing their reviews, with disclosure of drafting assistance.",
   "evidence": [
     {
       "field": "author_use",
       "quote": "Wiley welcomes the thoughtful use of AI Technology."
+    },
+    {
+      "field": "author_use",
+      "quote": "Authors may only use AI Technology as a companion to their writing process, not a replacement."
+    },
+    {
+      "field": "disclosure_required",
+      "quote": "Authors must disclose the use of AI Technologies when submitting their Material to a Wiley-published journal."
     },
     {
       "field": "disclosure_required",
@@ -30,12 +38,20 @@
       "quote": "AI-edited photographs are not permitted in Wiley journals."
     },
     {
-      "field": "reviewer_upload",
-      "quote": "Manuscripts under review are confidential and must not be uploaded to AI Technologies, whether in full or in part."
+      "field": "ai_images",
+      "quote": "Wiley requires disclosure when AI is used for visual creation or editing."
     },
     {
       "field": "reviewer_use",
       "quote": "Use AI to improve review clarity and tone or translate your review"
+    },
+    {
+      "field": "reviewer_use",
+      "quote": "We require disclosure of AI when it’s used for drafting assistance in your reviews."
+    },
+    {
+      "field": "reviewer_upload",
+      "quote": "Manuscripts under review are confidential and must not be uploaded to AI Technologies, whether in full or in part."
     },
     {
       "field": "editor_use",
@@ -46,7 +62,7 @@
   "confidence": "high",
   "is_ai_policy": true,
   "source_id": "P-WIL",
-  "content_hash": "33bddabae8bc6315",
-  "extracted_at": "2026-10-15T14:28:57+00:00",
+  "content_hash": "e45060a89144882b",
+  "extracted_at": "2026-10-17T12:50:18+00:00",
   "model": "claude-sonnet-5-5"
 }

@@ -10,11 +10,11 @@
     "methods",
     "acknowledgements"
   ],
-  "summary": "Sage separates assistive AI use (language, grammar, structure), which needs no disclosure, from generative AI use that affects content, methods, results or images, which must be disclosed and verified by authors. Reviewers may use AI for help writing and formatting reports but must not upload manuscripts or have AI generate their reviews. Editors must not use GenAI for editorial work such as decision letters or summaries of unpublished research.",
+  "summary": "Sage separates assistive AI use (language, grammar, structure), which needs no disclosure, from generative AI use that affects content, methods, results or images, which must be disclosed and verified by authors. Reviewers may use GenAI to help write and format reports but must not upload manuscripts to AI tools. Editors must not use GenAI for decision letters, summaries of unpublished research, or editorial work.",
   "evidence": [
     {
       "field": "author_use",
-      "quote": "are considered assistive AI tools and do not require disclosure by authors or reviewers."
+      "quote": "AI tools that make suggestions to improve or enhance your own work, such as tools to improve language, grammar, or structure"
     },
     {
       "field": "disclosure_required",
@@ -23,10 +23,6 @@
     {
       "field": "ai_images",
       "quote": "Generated images that are presented as unique or novel research images"
-    },
-    {
-      "field": "ai_images",
-      "quote": "Generation of representative illustrations or infographics"
     },
     {
       "field": "reviewer_use",
@@ -45,7 +41,7 @@
   "confidence": "medium",
   "is_ai_policy": true,
   "source_id": "P-SAG",
-  "content_hash": "886d55af4da20ead",
-  "extracted_at": "2026-10-15T14:29:08+00:00",
+  "content_hash": "e5daf3eddc10a0da",
+  "extracted_at": "2026-10-17T12:50:25+00:00",
   "model": "claude-sonnet-5-5"
 }

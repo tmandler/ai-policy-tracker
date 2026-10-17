@@ -10,7 +10,7 @@
     "dedicated_statement",
     "other"
   ],
-  "summary": "Taylor & Francis permits authors to use generative AI responsibly for tasks like idea generation, copyediting, translation, literature classification and coding help, provided they review outputs, disclose the tool, version, how and why it was used, and never list AI as an author. AI may help with data visualisations and conceptual illustrations but not create or manipulate research results or clinical/diagnostic images. Editors and peer reviewers must not upload unpublished manuscripts into AI tools; reviewers may only use AI to improve the language of their reports, and editors should check with T&F before using any tool.",
+  "summary": "Authors may use generative AI responsibly for tasks like idea generation, copyediting, translation, literature classification and coding help, but must verify outputs and disclose the tool, version, how and why it was used. AI cannot be an author, and AI may not be used to create or manipulate research results or diagnostic images. Editors and reviewers must never upload unpublished manuscripts into AI tools; reviewers may only use AI to improve review language, and editors should check with their T&F contact before using any tool.",
   "evidence": [
     {
       "field": "author_use",
@@ -26,7 +26,7 @@
     },
     {
       "field": "ai_images",
-      "quote": "does not permit the use of Generative AI in the creation or manipulation of outputs of research or clinical testing"
+      "quote": "does permit use of Generative AI tools to assist research data visualisations and conceptual illustrations of processes, flow diagrams or teaching illustrations."
     },
     {
       "field": "reviewer_use",
@@ -45,7 +45,7 @@
   "confidence": "high",
   "is_ai_policy": true,
   "source_id": "P-TF",
-  "content_hash": "36afe03c9e5aeb7a",
-  "extracted_at": "2026-10-15T14:29:29+00:00",
+  "content_hash": "65acecf200934a36",
+  "extracted_at": "2026-10-17T12:50:40+00:00",
   "model": "claude-sonnet-5-5"
 }

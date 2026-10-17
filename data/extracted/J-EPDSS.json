@@ -1,0 +1,28 @@
+{
+  "author_use": "not_stated",
+  "disclosure_required": "yes",
+  "ai_as_author": "prohibited",
+  "ai_images": "not_stated",
+  "reviewer_use": "not_stated",
+  "reviewer_upload": "not_stated",
+  "editor_use": "not_stated",
+  "disclosure_location": [],
+  "summary": "The page points authors to Sage's separate AI policy, which covers appropriate disclosure of AI use and a list of prohibited uses. It states that AI chatbots such as ChatGPT must not be listed as authors. The page does not give details on AI images, reviewer use or editor use.",
+  "evidence": [
+    {
+      "field": "disclosure_required",
+      "quote": "authors’ appropriate disclosure of AI use as well as a list of prohibited uses of AI"
+    },
+    {
+      "field": "ai_as_author",
+      "quote": "AI chatbots, for example ChatGPT, should not be listed as authors."
+    }
+  ],
+  "page_last_updated": "",
+  "confidence": "medium",
+  "is_ai_policy": true,
+  "source_id": "J-EPDSS",
+  "content_hash": "996110fe79a42999",
+  "extracted_at": "2026-10-17T12:52:15+00:00",
+  "model": "claude-sonnet-5-5"
+}

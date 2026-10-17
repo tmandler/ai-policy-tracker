@@ -1,0 +1,31 @@
+{
+  "author_use": "allowed_with_conditions",
+  "disclosure_required": "yes",
+  "ai_as_author": "not_stated",
+  "ai_images": "not_stated",
+  "reviewer_use": "not_stated",
+  "reviewer_upload": "not_stated",
+  "editor_use": "not_stated",
+  "disclosure_location": [
+    "submission_system",
+    "dedicated_statement"
+  ],
+  "summary": "Authors may use generative AI tools such as ChatGPT if used appropriately in a safe, ethical and secure manner, but any use in developing the manuscript must be described in detail in an AI Use Declaration Statement at submission. The statement should name tools and versions, dates, how they were applied, how outputs were validated, and how privacy and compliance were maintained. Incomplete statements may lead to the manuscript being returned and delay peer review. The page does not address AI authorship, AI images, or use by reviewers or editors.",
+  "evidence": [
+    {
+      "field": "author_use",
+      "quote": "can increase productivity and foster innovation if used appropriately in a safe, ethical and secure manner."
+    },
+    {
+      "field": "disclosure_required",
+      "quote": "its use must be described, transparently and in detail, in the AI Use Declaration Statement during Submission."
+    }
+  ],
+  "page_last_updated": "",
+  "confidence": "high",
+  "is_ai_policy": true,
+  "source_id": "J-G",
+  "content_hash": "c278cd59c35d944e",
+  "extracted_at": "2026-10-17T12:52:23+00:00",
+  "model": "claude-sonnet-5-5"
+}

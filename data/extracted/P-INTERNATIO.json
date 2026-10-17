@@ -1,0 +1,44 @@
+{
+  "author_use": "allowed_with_conditions",
+  "disclosure_required": "partial",
+  "ai_as_author": "prohibited",
+  "ai_images": "allowed_with_conditions",
+  "reviewer_use": "not_stated",
+  "reviewer_upload": "not_stated",
+  "editor_use": "not_stated",
+  "disclosure_location": [
+    "dedicated_statement",
+    "methods",
+    "submission_system"
+  ],
+  "summary": "Authors may use generative AI tools if they verify and revise outputs, stay accountable, and protect data confidentiality and rights. AI use must be disclosed in a dedicated statement at submission, naming the tool, its purpose and the level of human oversight, though routine grammar or spelling checks are exempt. AI tools cannot be listed or cited as authors, and AI-generated images must not imitate copyrighted works, real individuals or branded products.",
+  "evidence": [
+    {
+      "field": "author_use",
+      "quote": "their use must remain ethical and transparent. AI Tools cannot replace human expertise, judgement, or responsibility."
+    },
+    {
+      "field": "disclosure_required",
+      "quote": "Routine grammar or spelling checks do not require disclosure, but AI use during research must be described in the methods section."
+    },
+    {
+      "field": "disclosure_required",
+      "quote": "All AI involvement in manuscript preparation must be disclosed in a dedicated statement at submission, which will also appear in the published paper."
+    },
+    {
+      "field": "ai_as_author",
+      "quote": "AI Tools cannot be listed or cited as authors."
+    },
+    {
+      "field": "ai_images",
+      "quote": "AI-generated images must not imitate copyrighted works, real individuals, or branded products."
+    }
+  ],
+  "page_last_updated": "",
+  "confidence": "high",
+  "is_ai_policy": true,
+  "source_id": "P-INTERNATIO",
+  "content_hash": "6858d2126bcda928",
+  "extracted_at": "2026-10-17T12:53:27+00:00",
+  "model": "claude-sonnet-5-5"
+}

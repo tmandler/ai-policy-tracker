@@ -1,0 +1,34 @@
+{
+  "author_use": "allowed_with_conditions",
+  "disclosure_required": "yes",
+  "ai_as_author": "prohibited",
+  "ai_images": "not_stated",
+  "reviewer_use": "not_stated",
+  "reviewer_upload": "not_stated",
+  "editor_use": "not_stated",
+  "disclosure_location": [
+    "other"
+  ],
+  "summary": "AI cannot be credited as an author, and authors remain fully responsible for the originality and accuracy of their work. Any use of assistive or generative AI must be explicitly declared and detailed within the manuscript, and submissions that violate the policy may be rejected. Editors judge acceptable AI use case by case, and individual journals may set their own rules.",
+  "evidence": [
+    {
+      "field": "ai_as_author",
+      "quote": "We do not recognise AI as meeting the conditions of authorship"
+    },
+    {
+      "field": "disclosure_required",
+      "quote": "The use of both assistive and generative AI tools must be explicitly declared and detailed within submitted manuscripts"
+    },
+    {
+      "field": "author_use",
+      "quote": "Journal Editors will use their judgement regarding acceptable use of AI on a case by case basis"
+    }
+  ],
+  "page_last_updated": "",
+  "confidence": "medium",
+  "is_ai_policy": true,
+  "source_id": "P-BRISTOLUNI",
+  "content_hash": "f796615e28d1a4d6",
+  "extracted_at": "2026-10-17T12:53:42+00:00",
+  "model": "claude-sonnet-5-5"
+}

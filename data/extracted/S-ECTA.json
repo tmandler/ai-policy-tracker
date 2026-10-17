@@ -5,9 +5,9 @@
   "ai_images": "not_stated",
   "reviewer_use": "not_stated",
   "reviewer_upload": "not_stated",
-  "editor_use": "allowed_with_conditions",
+  "editor_use": "allowed",
   "disclosure_location": [],
-  "summary": "Authors may use AI tools when preparing Econometrica manuscripts but remain fully accountable for all content, including verifying AI output and protecting data privacy and IP. AI software cannot be listed as an author. The journals themselves use the AI tool Refine on conditionally accepted papers to flag technical and expository issues, without training AI models on manuscripts.",
+  "summary": "Authors may use AI tools when preparing Econometrica manuscripts but remain fully responsible for all content, including verifying AI output, the analysis and ideas, and protecting data privacy and IP. AI software cannot be listed as an author. The journal itself uses the AI tool Refine on conditionally accepted papers to flag technical and expository issues, without using manuscripts to train AI models.",
   "evidence": [
     {
       "field": "author_use",
@@ -26,7 +26,7 @@
   "confidence": "medium",
   "is_ai_policy": true,
   "source_id": "S-ECTA",
-  "content_hash": "07dea0980316d85b",
-  "extracted_at": "2026-10-15T14:29:56+00:00",
+  "content_hash": "ea03672075fe53dd",
+  "extracted_at": "2026-10-17T12:50:57+00:00",
   "model": "claude-sonnet-5-5"
 }

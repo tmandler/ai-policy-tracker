@@ -1,0 +1,42 @@
+{
+  "author_use": "allowed_with_conditions",
+  "disclosure_required": "yes",
+  "ai_as_author": "prohibited",
+  "ai_images": "not_stated",
+  "reviewer_use": "allowed_with_conditions",
+  "reviewer_upload": "allowed_with_conditions",
+  "editor_use": "not_stated",
+  "disclosure_location": [
+    "submission_system"
+  ],
+  "summary": "AI tools such as chatbots cannot be listed as authors. Authors who use AI in preparing a manuscript, including drafting or editing text, must briefly describe that use during submission and are fully responsible for fact-checking outputs. Reviewers must write their own evaluation and may use AI only if they disclose it in the cover letter and the tool guarantees the manuscript won't be used for training.",
+  "evidence": [
+    {
+      "field": "ai_as_author",
+      "quote": "may not be listed as an author"
+    },
+    {
+      "field": "author_use",
+      "quote": "Authors are solely accountable for, and must thoroughly fact-check, outputs created with the help of AI software."
+    },
+    {
+      "field": "disclosure_required",
+      "quote": "this must be briefly described during the submission process"
+    },
+    {
+      "field": "reviewer_use",
+      "quote": "Any use of AI during the review must be disclosed in the reviewer's cover letter"
+    },
+    {
+      "field": "reviewer_upload",
+      "quote": "must be limited to tools that guarantee that the manuscript will not be used for training AI models"
+    }
+  ],
+  "page_last_updated": "",
+  "confidence": "high",
+  "is_ai_policy": true,
+  "source_id": "J-AEJMICS",
+  "content_hash": "44590dbac4abe76b",
+  "extracted_at": "2026-10-17T12:51:36+00:00",
+  "model": "claude-sonnet-5-5"
+}

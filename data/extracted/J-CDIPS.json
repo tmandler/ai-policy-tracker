@@ -1,0 +1,43 @@
+{
+  "author_use": "allowed_with_conditions",
+  "disclosure_required": "yes",
+  "ai_as_author": "prohibited",
+  "ai_images": "not_stated",
+  "reviewer_use": "prohibited",
+  "reviewer_upload": "not_stated",
+  "editor_use": "allowed_with_conditions",
+  "disclosure_location": [
+    "methods",
+    "acknowledgements"
+  ],
+  "summary": "APS lets authors use LLMs and generative AI as productivity tools, provided they disclose the model and purpose, verify all content and citations, and acknowledge limitations. AI bots cannot be listed as authors. Reviewers may not use AI to generate review reports, and editors may not share manuscript or review information with generative AI tools.",
+  "evidence": [
+    {
+      "field": "author_use",
+      "quote": "APS recognizes the value of large language models (LLMs) (e.g. ChatGPT) and generative AI as productivity tools"
+    },
+    {
+      "field": "disclosure_required",
+      "quote": "Clearly indicate the use of language models in the manuscript, including which model was used and for what purpose."
+    },
+    {
+      "field": "ai_as_author",
+      "quote": "AI bots such as ChatGPT should not be listed as an author on your submission."
+    },
+    {
+      "field": "reviewer_use",
+      "quote": "Reviewers must not use artificial intelligence tools to generate review reports, including but not limited to ChatGPT."
+    },
+    {
+      "field": "editor_use",
+      "quote": "Editors must not share information about submitted manuscripts or peer review reports with generative AI or LLMs"
+    }
+  ],
+  "page_last_updated": "December 2023",
+  "confidence": "medium",
+  "is_ai_policy": true,
+  "source_id": "J-CDIPS",
+  "content_hash": "3e22e832dbe85929",
+  "extracted_at": "2026-10-17T12:52:06+00:00",
+  "model": "claude-sonnet-5-5"
+}

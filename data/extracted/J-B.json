@@ -1,0 +1,39 @@
+{
+  "author_use": "allowed_with_conditions",
+  "disclosure_required": "partial",
+  "ai_as_author": "prohibited",
+  "ai_images": "not_stated",
+  "reviewer_use": "not_stated",
+  "reviewer_upload": "not_stated",
+  "editor_use": "not_stated",
+  "disclosure_location": [
+    "cover_letter",
+    "dedicated_statement"
+  ],
+  "summary": "Authors may use generative AI and AI-assisted tools in writing, provided they oversee and edit the output and take full responsibility for the content. AI cannot be listed as an author, and use must be disclosed in the cover letter and in a dedicated manuscript statement placed before the Acknowledgements. Basic grammar and spelling tools are exempt from disclosure, and AI use will not prejudice review.",
+  "evidence": [
+    {
+      "field": "author_use",
+      "quote": "Authors are permitted to use generative AI and AI-assisted technologies in the writing process."
+    },
+    {
+      "field": "disclosure_required",
+      "quote": "Authors must disclose their use of AI and AI-assisted technologies, both within the cover letter to the editor and within the manuscript."
+    },
+    {
+      "field": "disclosure_required",
+      "quote": "This declaration does not apply to the use of basic tools for checking grammar, spelling etc."
+    },
+    {
+      "field": "ai_as_author",
+      "quote": "AI and AI-assisted technologies do not qualify as authors, and the Journal will screen for them in author lists."
+    }
+  ],
+  "page_last_updated": "",
+  "confidence": "high",
+  "is_ai_policy": true,
+  "source_id": "J-B",
+  "content_hash": "87e09c1895cb0b18",
+  "extracted_at": "2026-10-17T12:51:47+00:00",
+  "model": "claude-sonnet-5-5"
+}

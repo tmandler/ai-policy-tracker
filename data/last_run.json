@@ -1,5 +1,5 @@
 {
-  "finished": "2026-10-15T14:30:25+00:00",
+  "finished": "2026-10-17T12:53:47+00:00",
   "steps": {
     "refresh_lists": "ok",
     "discover_sources": "ok",
@@ -7,5 +7,5 @@
     "extract_policies": "ok",
     "build_site_data": "ok"
   },
-  "review_items": 4
+  "review_items": 53
 }

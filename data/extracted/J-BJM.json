@@ -1,0 +1,39 @@
+{
+  "author_use": "allowed_with_conditions",
+  "disclosure_required": "partial",
+  "ai_as_author": "prohibited",
+  "ai_images": "not_stated",
+  "reviewer_use": "not_stated",
+  "reviewer_upload": "not_stated",
+  "editor_use": "not_stated",
+  "disclosure_location": [
+    "methods",
+    "acknowledgements"
+  ],
+  "summary": "AI tools such as ChatGPT cannot be listed as authors. Authors who use such tools to develop any part of a manuscript must describe the use transparently and in detail in the Methods or Acknowledgements, and remain fully responsible for accuracy. Tools used only for spelling, grammar and general editing are outside the policy's scope, and the editor makes the final call on whether AI use is acceptable.",
+  "evidence": [
+    {
+      "field": "ai_as_author",
+      "quote": "these tools cannot fulfill the role of, nor be listed as, an author of an article."
+    },
+    {
+      "field": "disclosure_required",
+      "quote": "its use must be described, transparently and in detail, in the Methods or Acknowledgements section."
+    },
+    {
+      "field": "author_use",
+      "quote": "The author is fully responsible for the accuracy of any information provided by the tool"
+    },
+    {
+      "field": "disclosure_required",
+      "quote": "Tools that are used to improve spelling, grammar, and general editing are not included in the scope of these guidelines."
+    }
+  ],
+  "page_last_updated": "",
+  "confidence": "high",
+  "is_ai_policy": true,
+  "source_id": "J-BJM",
+  "content_hash": "df61e79bb5970185",
+  "extracted_at": "2026-10-17T12:51:52+00:00",
+  "model": "claude-sonnet-5-5"
+}

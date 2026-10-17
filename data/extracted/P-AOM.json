@@ -12,7 +12,7 @@
     "submission_system",
     "other"
   ],
-  "summary": "Authors may use AI tools but must disclose use at each research stage, confirm they verified all AI output, and note language model use in the cover letter and acknowledgements (or title page for Annual Meeting submissions). Reviewers must not upload any manuscript material to AI tools and may use AI only to polish their own reviews, though another passage says they must not use AI to generate review reports. Editors must not share manuscript or review information with generative AI.",
+  "summary": "Authors may use AI in research but must disclose use at each research stage, confirm they verified all AI output, and mention language model use in the cover letter and acknowledgements (or title page for Annual Meeting submissions). Reviewers may not upload any part of a manuscript to AI tools and may use AI only to polish their own written reviews, though other guidance says they must not use AI to generate review reports. Editors must not share manuscript or review information with generative AI.",
   "evidence": [
     {
       "field": "author_use",
@@ -33,17 +33,13 @@
     {
       "field": "editor_use",
       "quote": "Editors must not share information about submitted manuscripts or peer review reports with generative AI or LLMs such as ChatGPT."
-    },
-    {
-      "field": "ai_images",
-      "quote": "Presentation of Results — Creating tables, figures, or other visual representations."
     }
   ],
   "page_last_updated": "",
   "confidence": "medium",
   "is_ai_policy": true,
   "source_id": "P-AOM",
-  "content_hash": "5e9b26cbc65d8262",
-  "extracted_at": "2026-10-15T14:29:37+00:00",
+  "content_hash": "8273c07323e9c372",
+  "extracted_at": "2026-10-17T12:50:44+00:00",
   "model": "claude-sonnet-5-5"
 }

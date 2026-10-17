@@ -1,0 +1,42 @@
+{
+  "author_use": "allowed_with_conditions",
+  "disclosure_required": "partial",
+  "ai_as_author": "prohibited",
+  "ai_images": "allowed_with_conditions",
+  "reviewer_use": "not_stated",
+  "reviewer_upload": "not_stated",
+  "editor_use": "not_stated",
+  "disclosure_location": [
+    "dedicated_statement"
+  ],
+  "summary": "Authors may use AI tools if they take full responsibility, verify outputs, and follow journal and ethics policies. Routine copyediting, spelling and grammar help need not be disclosed, but generative uses (text, images, code, data analysis) and substantive rewriting or translation must be declared in a dedicated 'Declaration of AI Use' section. AI cannot be listed as an author, and the journal editor makes the final decision on whether AI use is acceptable; reviewer and editor use are not addressed.",
+  "evidence": [
+    {
+      "field": "author_use",
+      "quote": "Authors remain fully responsible for the originality, accuracy, integrity, and ethical conduct of their work"
+    },
+    {
+      "field": "disclosure_required",
+      "quote": "does not require mandatory disclosure."
+    },
+    {
+      "field": "disclosure_required",
+      "quote": "Authors who use AI tools to generate or substantially modify text, images or graphical elements, or software code, or to collect or analyze data must explicitly declare this use."
+    },
+    {
+      "field": "ai_as_author",
+      "quote": "AI tools cannot be listed as authors or co-authors of a work."
+    },
+    {
+      "field": "ai_images",
+      "quote": "Disclosure of AI use does not, by itself, imply that such use is permissible."
+    }
+  ],
+  "page_last_updated": "",
+  "confidence": "high",
+  "is_ai_policy": true,
+  "source_id": "P-WORLDSCIEN",
+  "content_hash": "0649ba4afa8b59b2",
+  "extracted_at": "2026-10-17T12:53:23+00:00",
+  "model": "claude-sonnet-5-5"
+}

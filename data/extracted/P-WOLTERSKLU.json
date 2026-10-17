@@ -1,0 +1,50 @@
+{
+  "author_use": "allowed_with_conditions",
+  "disclosure_required": "yes",
+  "ai_as_author": "prohibited",
+  "ai_images": "allowed_with_conditions",
+  "reviewer_use": "allowed_with_conditions",
+  "reviewer_upload": "prohibited",
+  "editor_use": "allowed_with_conditions",
+  "disclosure_location": [
+    "methods"
+  ],
+  "summary": "Authors may use generative AI for writing, images, or data collection and analysis, but must disclose which tool was used and how in the Materials and Methods, and remain fully responsible for the content. AI cannot be an author. Editors and reviewers must not upload manuscripts or review letters into generative AI tools and must not rely on AI as the sole basis for decisions, though AI-powered process automation is allowed if it does not decide acceptance or rejection.",
+  "evidence": [
+    {
+      "field": "author_use",
+      "quote": "permits authors to use generative AI and AI-assisted technologies in the writing of a manuscript"
+    },
+    {
+      "field": "disclosure_required",
+      "quote": "must be transparent in disclosing in the Materials and Methods (or similar section) of the paper how the AI tool was used"
+    },
+    {
+      "field": "ai_as_author",
+      "quote": "an AI authoring tool does not meet the standards required for authorship"
+    },
+    {
+      "field": "ai_images",
+      "quote": "production of images or graphical elements of the paper"
+    },
+    {
+      "field": "reviewer_upload",
+      "quote": "Editors, editorial office staff, or reviewers must not upload a submitted manuscript or any part of it into a generative AI tool"
+    },
+    {
+      "field": "reviewer_use",
+      "quote": "AI technologies should not be used by editors or reviewers as the sole mechanism in evaluating or making decisions about a manuscript."
+    },
+    {
+      "field": "editor_use",
+      "quote": "AI-powered automation to increase processing speed, validation, quality assessment, and progression of the peer review process may be used"
+    }
+  ],
+  "page_last_updated": "",
+  "confidence": "medium",
+  "is_ai_policy": true,
+  "source_id": "P-WOLTERSKLU",
+  "content_hash": "db04877c4afc2ff3",
+  "extracted_at": "2026-10-17T12:53:31+00:00",
+  "model": "claude-sonnet-5-5"
+}

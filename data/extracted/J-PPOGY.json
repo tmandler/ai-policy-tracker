@@ -1,0 +1,19 @@
+{
+  "author_use": "not_stated",
+  "disclosure_required": "not_stated",
+  "ai_as_author": "not_stated",
+  "ai_images": "not_stated",
+  "reviewer_use": "not_stated",
+  "reviewer_upload": "not_stated",
+  "editor_use": "not_stated",
+  "disclosure_location": [],
+  "summary": "The Personnel Psychology author guidelines page covers submission, formatting, ethics, licensing and publication processes, but contains no policy on generative AI use by authors, reviewers or editors. The only AI-related text is a footer copyright notice reserving text and data mining and AI training rights, which is not a policy on AI use in manuscripts.",
+  "evidence": [],
+  "page_last_updated": "",
+  "confidence": "high",
+  "is_ai_policy": false,
+  "source_id": "J-PPOGY",
+  "content_hash": "d8ea1e69933bcc57",
+  "extracted_at": "2026-10-17T12:51:22+00:00",
+  "model": "claude-sonnet-5-5"
+}

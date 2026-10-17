@@ -1,0 +1,36 @@
+{
+  "author_use": "allowed_with_conditions",
+  "disclosure_required": "not_stated",
+  "ai_as_author": "not_stated",
+  "ai_images": "not_stated",
+  "reviewer_use": "allowed_with_conditions",
+  "reviewer_upload": "prohibited",
+  "editor_use": "not_stated",
+  "disclosure_location": [],
+  "summary": "Using generative AI to write a submission is strictly forbidden, though AI may be used in the research process (data collection, coding, analysis) and for limited tasks like formatting references, spelling/grammar checks, and clarity edits of the author's own text. Reviewers must not upload any part of a submission into AI tools and may only use AI for reference formatting, grammar, and clarity of their own appraisal. Breaches can lead to rejection and sanctions under the Society's Code of Conduct.",
+  "evidence": [
+    {
+      "field": "author_use",
+      "quote": "The use of Generative AI programmes in the research process, for example, data collection, coding, data cleaning, or statistical analysis is permitted"
+    },
+    {
+      "field": "author_use",
+      "quote": "to write your submission is strictly forbidden."
+    },
+    {
+      "field": "reviewer_upload",
+      "quote": "you must not upload, paste, or otherwise enter any part of a submission"
+    },
+    {
+      "field": "reviewer_use",
+      "quote": "such programmes may be used only to:"
+    }
+  ],
+  "page_last_updated": "",
+  "confidence": "high",
+  "is_ai_policy": true,
+  "source_id": "J-EHR",
+  "content_hash": "1fa93d88fd7b1eef",
+  "extracted_at": "2026-10-17T12:52:13+00:00",
+  "model": "claude-sonnet-5-5"
+}

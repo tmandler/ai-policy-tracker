@@ -22,5 +22,301 @@
     "reason": "page no longer looks like an AI policy",
     "added": "2026-10-15",
     "url": "https://sloanreview.mit.edu/authors"
+  },
+  {
+    "key": "new:J-IJOC",
+    "reason": "auto-discovered journal policy; please confirm",
+    "added": "2026-10-17",
+    "url": "https://pubsonline.informs.org/page/ijoc/aipolicy"
+  },
+  {
+    "key": "new:J-AMLE",
+    "reason": "auto-discovered journal policy; please confirm",
+    "added": "2026-10-17",
+    "url": "https://www.aom.org/publications/journals/publishing-with-aom/author-and-reviewer-resources/author-resources/submitting-to-learning-and-education/"
+  },
+  {
+    "key": "new:J-AJPS",
+    "reason": "auto-discovered journal policy; please confirm",
+    "added": "2026-10-17",
+    "url": "https://ajps.org/ajps-ai-policy/"
+  },
+  {
+    "key": "new:J-APSR",
+    "reason": "auto-discovered journal policy; please confirm",
+    "added": "2026-10-17",
+    "url": "https://www.cambridge.org/core/journals/american-political-science-review/information/author-instructions/preparing-your-materials"
+  },
+  {
+    "key": "new:P-ANNUALREVI",
+    "reason": "auto-discovered publisher policy; please confirm",
+    "added": "2026-10-17",
+    "url": "https://www.annualreviews.org/page/authors/editorial-policies"
+  },
+  {
+    "key": "new:J-JAIS",
+    "reason": "auto-discovered journal policy; please confirm",
+    "added": "2026-10-17",
+    "url": "https://aisel.aisnet.org/jais/authorinfo.html"
+  },
+  {
+    "key": "new:J-PPOGY",
+    "reason": "auto-discovered journal policy; please confirm",
+    "added": "2026-10-17",
+    "url": "https://onlinelibrary.wiley.com/page/journal/17446570/homepage/forauthors.html"
+  },
+  {
+    "key": "new:J-PAR",
+    "reason": "auto-discovered journal policy; please confirm",
+    "added": "2026-10-17",
+    "url": "https://onlinelibrary.wiley.com/page/journal/15406210/homepage/forauthors.html"
+  },
+  {
+    "key": "new:J-AMP",
+    "reason": "auto-discovered journal policy; please confirm",
+    "added": "2026-10-17",
+    "url": "https://www.aom.org/publications/journals/publishing-with-aom/author-and-reviewer-resources/author-resources/submitting-to-perspectives/"
+  },
+  {
+    "key": "new:J-AEJAE",
+    "reason": "auto-discovered journal policy; please confirm",
+    "added": "2026-10-17",
+    "url": "https://www.aeaweb.org/journals/app/editorial-policy"
+  },
+  {
+    "key": "new:J-AEJMICS",
+    "reason": "auto-discovered journal policy; please confirm",
+    "added": "2026-10-17",
+    "url": "https://www.aeaweb.org/journals/mac/editorial-policy"
+  },
+  {
+    "key": "new:J-ATR",
+    "reason": "auto-discovered journal policy; please confirm",
+    "added": "2026-10-17",
+    "url": "https://www.sciencedirect.com/journal/annals-of-tourism-research/publish/guide-for-authors"
+  },
+  {
+    "key": "new:J-BBS",
+    "reason": "auto-discovered journal policy; please confirm",
+    "added": "2026-10-17",
+    "url": "https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/information/author-instructions/preparing-your-materials"
+  },
+  {
+    "key": "new:J-B",
+    "reason": "auto-discovered journal policy; please confirm",
+    "added": "2026-10-17",
+    "url": "https://academic.oup.com/biomet/pages/General_Instructions"
+  },
+  {
+    "key": "new:J-BJM",
+    "reason": "auto-discovered journal policy; please confirm",
+    "added": "2026-10-17",
+    "url": "https://onlinelibrary.wiley.com/page/journal/14678551/homepage/forauthors.html"
+  },
+  {
+    "key": "new:J-BHR",
+    "reason": "auto-discovered journal policy; please confirm",
+    "added": "2026-10-17",
+    "url": "https://www.cambridge.org/core/journals/business-history-review/information/author-instructions/preparing-your-materials"
+  },
+  {
+    "key": "new:J-C",
+    "reason": "auto-discovered journal policy; please confirm",
+    "added": "2026-10-17",
+    "url": "https://www.sciencedirect.com/journal/cognition/publish/guide-for-authors"
+  },
+  {
+    "key": "new:J-CDIPS",
+    "reason": "auto-discovered journal policy; please confirm",
+    "added": "2026-10-17",
+    "url": "https://www.psychologicalscience.org/publications/aps-editorial-policies"
+  },
+  {
+    "key": "new:J-ETORY",
+    "reason": "auto-discovered journal policy; please confirm",
+    "added": "2026-10-17",
+    "url": "https://www.cambridge.org/core/journals/econometric-theory/information/author-instructions/submitting-your-materials"
+  },
+  {
+    "key": "new:J-EHR",
+    "reason": "auto-discovered journal policy; please confirm",
+    "added": "2026-10-17",
+    "url": "https://files.ehs.org.uk/wp-content/uploads/2026/09/07150042/EHR-AI-Policy.pdf"
+  },
+  {
+    "key": "new:J-EPDSS",
+    "reason": "auto-discovered journal policy; please confirm",
+    "added": "2026-10-17",
+    "url": "https://journals.sagepub.com/author-instructions/epd"
+  },
+  {
+    "key": "new:J-EJOR",
+    "reason": "auto-discovered journal policy; please confirm",
+    "added": "2026-10-17",
+    "url": "https://www.sciencedirect.com/journal/european-journal-of-operational-research/publish/guide-for-authors"
+  },
+  {
+    "key": "new:J-G",
+    "reason": "auto-discovered journal policy; please confirm",
+    "added": "2026-10-17",
+    "url": "https://onlinelibrary.wiley.com/page/journal/14680491/homepage/forauthors.html"
+  },
+  {
+    "key": "new:J-HR",
+    "reason": "auto-discovered journal policy; please confirm",
+    "added": "2026-10-17",
+    "url": "https://www.humanrelationsjournal.org/journal/our-policies/"
+  },
+  {
+    "key": "new:P-IEEE",
+    "reason": "auto-discovered publisher policy; please confirm",
+    "added": "2026-10-17",
+    "url": "https://journals.ieeeauthorcenter.ieee.org/become-an-ieee-journal-author/publishing-ethics/guidelines-and-policies/submission-and-peer-review-policies/"
+  },
+  {
+    "key": "new:J-ISJ",
+    "reason": "auto-discovered journal policy; please confirm",
+    "added": "2026-10-17",
+    "url": "https://onlinelibrary.wiley.com/page/journal/13652575/homepage/forauthors.html"
+  },
+  {
+    "key": "new:J-IJOPM",
+    "reason": "auto-discovered journal policy; please confirm",
+    "added": "2026-10-17",
+    "url": "https://www.emeraldgrouppublishing.com/journal/ijopm?id=ijopm"
+  },
+  {
+    "key": "new:J-IOION",
+    "reason": "auto-discovered journal policy; please confirm",
+    "added": "2026-10-17",
+    "url": "https://www.cambridge.org/core/journals/international-organization/information/author-instructions/preparing-your-materials"
+  },
+  {
+    "key": "new:J-ISQ",
+    "reason": "auto-discovered journal policy; please confirm",
+    "added": "2026-10-17",
+    "url": "https://www.isanet.org/News/ID/6336/ISA-Publishing-Guidance-on-AI-Tools"
+  },
+  {
+    "key": "new:J-JCF",
+    "reason": "auto-discovered journal policy; please confirm",
+    "added": "2026-10-17",
+    "url": "https://www.sciencedirect.com/journal/journal-of-corporate-finance/publish/guide-for-authors"
+  },
+  {
+    "key": "new:J-JE",
+    "reason": "auto-discovered journal policy; please confirm",
+    "added": "2026-10-17",
+    "url": "https://www.sciencedirect.com/journal/journal-of-econometrics/publish/guide-for-authors"
+  },
+  {
+    "key": "new:J-JEPVES",
+    "reason": "auto-discovered journal policy; please confirm",
+    "added": "2026-10-17",
+    "url": "https://www.aeaweb.org/journals/jep/editorial-policy"
+  },
+  {
+    "key": "new:J-JET",
+    "reason": "auto-discovered journal policy; please confirm",
+    "added": "2026-10-17",
+    "url": "https://www.sciencedirect.com/journal/journal-of-economic-theory/publish/guide-for-authors"
+  },
+  {
+    "key": "new:P-MITPRESS",
+    "reason": "auto-discovered publisher policy; please confirm",
+    "added": "2026-10-17",
+    "url": "https://direct.mit.edu/journals/pages/ai_guidelines"
+  },
+  {
+    "key": "new:P-ASSOCIATIO",
+    "reason": "auto-discovered publisher policy; please confirm",
+    "added": "2026-10-17",
+    "url": "https://www.acm.org/publications/policies/new-acm-policy-on-authorship"
+  },
+  {
+    "key": "new:P-SWEETMAXWE",
+    "reason": "auto-discovered publisher policy; please confirm",
+    "added": "2026-10-17",
+    "url": "https://www.sweetandmaxwell.co.uk/en-gb/products/public-law"
+  },
+  {
+    "key": "new:P-BROOKINGSI",
+    "reason": "auto-discovered publisher policy; please confirm",
+    "added": "2026-10-17",
+    "url": "https://www.brookings.edu/bpea-for-authors/"
+  },
+  {
+    "key": "new:P-AMERICANCH",
+    "reason": "auto-discovered publisher policy; please confirm",
+    "added": "2026-10-17",
+    "url": "https://researcher-resources.acs.org/publish/aipolicy"
+  },
+  {
+    "key": "new:P-WORLDSCIEN",
+    "reason": "auto-discovered publisher policy; please confirm",
+    "added": "2026-10-17",
+    "url": "https://www.worldscientific.com/authors/position-statements/ai-tools"
+  },
+  {
+    "key": "new:P-INTERNATIO",
+    "reason": "auto-discovered publisher policy; please confirm",
+    "added": "2026-10-17",
+    "url": "https://www.ijcb.org/submissions"
+  },
+  {
+    "key": "new:P-WOLTERSKLU",
+    "reason": "auto-discovered publisher policy; please confirm",
+    "added": "2026-10-17",
+    "url": "https://www.wolterskluwer.com/en/solutions/lippincott-journals/lippincott-journals-ethical-best-practices-in-scholarly-publishing"
+  },
+  {
+    "key": "new:P-UNIVERSITY",
+    "reason": "auto-discovered publisher policy; please confirm",
+    "added": "2026-10-17",
+    "url": "https://uwpress.wisc.edu/About/Policies"
+  },
+  {
+    "key": "new:P-BMJ",
+    "reason": "auto-discovered publisher policy; please confirm",
+    "added": "2026-10-17",
+    "url": "https://authors.bmj.com/policies/ai-use/"
+  },
+  {
+    "key": "new:P-BRISTOLUNI",
+    "reason": "auto-discovered publisher policy; please confirm",
+    "added": "2026-10-17",
+    "url": "https://bristoluniversitypress.co.uk/journals/author-toolkit/publication-ethics-policy/authors"
+  },
+  {
+    "key": "new:P-NORDICASSO",
+    "reason": "auto-discovered publisher policy; please confirm",
+    "added": "2026-10-17",
+    "url": "https://www.sjweh.fi/instructions.php"
+  },
+  {
+    "key": "new:P-SOCIETYFOR",
+    "reason": "auto-discovered publisher policy; please confirm",
+    "added": "2026-10-17",
+    "url": "https://epubs.siam.org/artificial-intelligence"
+  },
+  {
+    "key": "fetch:P-CUP",
+    "reason": "fetch failed 3 runs in a row",
+    "added": "2026-10-17",
+    "url": "https://www.cambridge.org/authorhub/application/files/7617/2743/0832/AI_Policy_for_Content_Creators.pdf",
+    "error": "firecrawl http 500"
+  },
+  {
+    "key": "fetch:J-JMS",
+    "reason": "fetch failed 3 runs in a row",
+    "added": "2026-10-17",
+    "url": "https://car.aom.org/discussion/jms-launches-new-policy-on-the-use-of-ai-in-research",
+    "error": "page does not mention AI"
+  },
+  {
+    "key": "notpolicy:J-PPOGY",
+    "reason": "page no longer looks like an AI policy",
+    "added": "2026-10-17",
+    "url": "https://onlinelibrary.wiley.com/page/journal/17446570/homepage/forauthors.html"
   }
 ]

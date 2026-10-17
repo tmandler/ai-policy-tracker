@@ -1,0 +1,44 @@
+{
+  "author_use": "allowed_with_conditions",
+  "disclosure_required": "partial",
+  "ai_as_author": "prohibited",
+  "ai_images": "allowed_with_conditions",
+  "reviewer_use": "not_stated",
+  "reviewer_upload": "not_stated",
+  "editor_use": "not_stated",
+  "disclosure_location": [
+    "methods",
+    "acknowledgements",
+    "other"
+  ],
+  "summary": "Authors may use AI tools but must declare and describe any use to generate text or images, translate, or analyse data. Minimal non-generative uses such as basic spelling or language checks need no declaration. AI tools cannot be listed as authors, and authors remain accountable for any AI use. The page does not address reviewer or editor use of AI.",
+  "evidence": [
+    {
+      "field": "ai_as_author",
+      "quote": "generative AI tools such as ChatGPT should not be listed as authors on any submitted content."
+    },
+    {
+      "field": "disclosure_required",
+      "quote": "You should always declare and describe your use of an AI tool if you have used it to generate text or images"
+    },
+    {
+      "field": "disclosure_required",
+      "quote": "Minimal and non-generative uses of AI tools in manuscript preparation do not require declaration."
+    },
+    {
+      "field": "ai_images",
+      "quote": "this should be declared in the captions of any figures that you have generated or modified using AI tools."
+    },
+    {
+      "field": "author_use",
+      "quote": "accountability for the use of AI tools, including minimal and non-generative ones, rests with the author."
+    }
+  ],
+  "page_last_updated": "",
+  "confidence": "high",
+  "is_ai_policy": true,
+  "source_id": "J-BBS",
+  "content_hash": "45f21f1cf516183a",
+  "extracted_at": "2026-10-17T12:51:44+00:00",
+  "model": "claude-sonnet-5-5"
+}

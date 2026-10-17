@@ -1,0 +1,39 @@
+{
+  "author_use": "allowed_with_conditions",
+  "disclosure_required": "yes",
+  "ai_as_author": "prohibited",
+  "ai_images": "not_stated",
+  "reviewer_use": "not_stated",
+  "reviewer_upload": "not_stated",
+  "editor_use": "not_stated",
+  "disclosure_location": [
+    "methods",
+    "other"
+  ],
+  "summary": "BPEA authors and discussants may use generative AI only responsibly, following Brookings and Johns Hopkins University Press guidelines. Work substantially written by AI is not accepted and AI cannot be listed as an author. AI use in research design, methods or process must be documented in the work with model, version and prompts, and all AI use must be disclosed on a form when signing the publishing agreement.",
+  "evidence": [
+    {
+      "field": "author_use",
+      "quote": "BPEA authors/discussants must use generative AI tools responsibly, following the guidelines of"
+    },
+    {
+      "field": "author_use",
+      "quote": "BPEA does not accept work substantially written by AI tools"
+    },
+    {
+      "field": "ai_as_author",
+      "quote": "permit listing them as (co-)authors including in citations and references"
+    },
+    {
+      "field": "disclosure_required",
+      "quote": "BPEA authors/discussants will be asked to disclose all use via a disclosure form when signing the publishing agreements."
+    }
+  ],
+  "page_last_updated": "",
+  "confidence": "high",
+  "is_ai_policy": true,
+  "source_id": "P-BROOKINGSI",
+  "content_hash": "2c2b61e474d158c4",
+  "extracted_at": "2026-10-17T12:53:15+00:00",
+  "model": "claude-sonnet-5-5"
+}

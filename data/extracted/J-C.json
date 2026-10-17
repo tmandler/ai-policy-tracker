@@ -1,0 +1,58 @@
+{
+  "author_use": "allowed_with_conditions",
+  "disclosure_required": "partial",
+  "ai_as_author": "prohibited",
+  "ai_images": "allowed_with_conditions",
+  "reviewer_use": "allowed_with_conditions",
+  "reviewer_upload": "prohibited",
+  "editor_use": "allowed_with_conditions",
+  "disclosure_location": [
+    "dedicated_statement"
+  ],
+  "summary": "Authors may use generative AI tools to support manuscript preparation, but only with human oversight, and they must verify and take responsibility for all output. Use must be declared in a dedicated statement before the reference list, except for basic grammar, spelling and reference checking and accessibility-related assistive tools. AI cannot be an author, AI may not create or alter primary research images, and editors and reviewers may not upload unpublished manuscripts into AI tools, though they may use AI to improve the language of their reports or to search the literature.",
+  "evidence": [
+    {
+      "field": "author_use",
+      "quote": "AI tools may only be applied with human oversight and control."
+    },
+    {
+      "field": "disclosure_required",
+      "quote": "Authors must declare the use of generative AI tools in the manuscript preparation process upon submission of the paper."
+    },
+    {
+      "field": "disclosure_required",
+      "quote": "The declaration does not apply to the use of basic tools, such as tools used to check grammar, spelling, and references."
+    },
+    {
+      "field": "ai_as_author",
+      "quote": "authors must not list or cite AI tools as an author or co-author on the manuscript"
+    },
+    {
+      "field": "ai_images",
+      "quote": "AI tools may be used to support the creation of explanatory images (such as flow charts, conceptual diagrams, or schematic illustrations)."
+    },
+    {
+      "field": "ai_images",
+      "quote": "Use of AI tools to create or manipulate primary research images is not permitted."
+    },
+    {
+      "field": "reviewer_upload",
+      "quote": "this journal does not currently allow academic editors and reviewers to upload an unpublished manuscript into a generative AI tool"
+    },
+    {
+      "field": "reviewer_use",
+      "quote": "AI tools may be used in a supportive capacity by editors and reviewers to improve structure and language of the review report"
+    },
+    {
+      "field": "editor_use",
+      "quote": "to improve structure and language of the review report or editorial decision letter or to conduct a background literature search"
+    }
+  ],
+  "page_last_updated": "",
+  "confidence": "high",
+  "is_ai_policy": true,
+  "source_id": "J-C",
+  "content_hash": "87393b95ed246d4f",
+  "extracted_at": "2026-10-17T12:52:01+00:00",
+  "model": "claude-sonnet-5-5"
+}

@@ -1,0 +1,49 @@
+{
+  "author_use": "allowed_with_conditions",
+  "disclosure_required": "partial",
+  "ai_as_author": "prohibited",
+  "ai_images": "allowed_with_conditions",
+  "reviewer_use": "allowed_with_conditions",
+  "reviewer_upload": "allowed_with_conditions",
+  "editor_use": "not_stated",
+  "disclosure_location": [
+    "methods",
+    "dedicated_statement",
+    "submission_system",
+    "other"
+  ],
+  "summary": "MIT Press permits authors to use generative AI if material uses are disclosed (tool name and version, purpose, extent), while routine spell-check or grammar help need not be declared. AI cannot be an author, and AI may not be used to alter research images or data, though it may help with non-primary illustrations and visualizations if disclosed. Reviewers may not upload manuscripts to public AI systems, but may make limited, declared use of AI in a closed environment that preserves confidentiality.",
+  "evidence": [
+    {
+      "field": "author_use",
+      "quote": "The use of such tools is permitted, subject to the requirements below."
+    },
+    {
+      "field": "disclosure_required",
+      "quote": "You need not declare minimal, non-generative uses such as basic spelling and grammar correction or minor formatting."
+    },
+    {
+      "field": "ai_as_author",
+      "quote": "Generative AI tools and systems cannot be listed as authors or co-authors of any MIT Press publication."
+    },
+    {
+      "field": "ai_images",
+      "quote": "Generative AI may be used to assist in the creation of research data visualizations, conceptual illustrations, process diagrams"
+    },
+    {
+      "field": "reviewer_use",
+      "quote": "Within a closed AI environment, reviewers may make limited use of AI-assisted tools for grammar, translation, accessibility"
+    },
+    {
+      "field": "reviewer_upload",
+      "quote": "Reviewers must not upload manuscripts, figures, data, reviewer reports, or editorial correspondence to public generative AI systems."
+    }
+  ],
+  "page_last_updated": "",
+  "confidence": "high",
+  "is_ai_policy": true,
+  "source_id": "P-MITPRESS",
+  "content_hash": "ae1452587744b058",
+  "extracted_at": "2026-10-17T12:53:02+00:00",
+  "model": "claude-sonnet-5-5"
+}

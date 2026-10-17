@@ -1,0 +1,46 @@
+{
+  "author_use": "allowed_with_conditions",
+  "disclosure_required": "partial",
+  "ai_as_author": "not_stated",
+  "ai_images": "allowed_with_conditions",
+  "reviewer_use": "allowed_with_conditions",
+  "reviewer_upload": "prohibited",
+  "editor_use": "not_stated",
+  "disclosure_location": [
+    "acknowledgements"
+  ],
+  "summary": "Authors may include AI-generated content (text, figures, images, code) if they disclose it in the acknowledgments, naming the AI system and the affected sections and explaining how much it was used. Disclosure is not required for editing and grammar enhancement, though it is recommended. Reviewers must not process manuscript content through public AI platforms, as this breaches confidentiality.",
+  "evidence": [
+    {
+      "field": "disclosure_required",
+      "quote": "shall be disclosed in the acknowledgments section of any article submitted to an IEEE publication"
+    },
+    {
+      "field": "author_use",
+      "quote": "The AI system used shall be identified, and specific sections of the article that use AI-generated content shall be identified"
+    },
+    {
+      "field": "disclosure_required",
+      "quote": "disclosure as noted above is not required, but recommended."
+    },
+    {
+      "field": "ai_images",
+      "quote": "(including but not limited to text, figures, images, and code)"
+    },
+    {
+      "field": "reviewer_upload",
+      "quote": "shall not be processed through a public platform (directly or indirectly) for AI generation of content for a review"
+    },
+    {
+      "field": "reviewer_use",
+      "quote": "Doing so is considered a breach of confidentiality because AI systems generally learn from any input."
+    }
+  ],
+  "page_last_updated": "",
+  "confidence": "medium",
+  "is_ai_policy": true,
+  "source_id": "P-IEEE",
+  "content_hash": "5f1f136f59d257e0",
+  "extracted_at": "2026-10-17T12:52:30+00:00",
+  "model": "claude-sonnet-5-5"
+}

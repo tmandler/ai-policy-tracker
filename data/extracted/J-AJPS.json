@@ -1,0 +1,52 @@
+{
+  "author_use": "allowed_with_conditions",
+  "disclosure_required": "partial",
+  "ai_as_author": "prohibited",
+  "ai_images": "allowed_with_conditions",
+  "reviewer_use": "allowed_with_conditions",
+  "reviewer_upload": "prohibited",
+  "editor_use": "not_stated",
+  "disclosure_location": [
+    "dedicated_statement",
+    "submission_system",
+    "other"
+  ],
+  "summary": "Authors may use AI only as a companion to their own work and remain fully responsible for accuracy, citations, and originality. Any AI use that shaped the research or manuscript must be declared in a consolidated manuscript footnote that mirrors the Author Questionnaire statement, though minimal non-generative uses like spelling correction are exempt. Reviewers may use AI for limited tasks and must disclose drafting assistance, but must never upload manuscripts, in whole or in part, to AI tools.",
+  "evidence": [
+    {
+      "field": "author_use",
+      "quote": "Authors may use AI Technology only as a companion to all their work, including the writing process"
+    },
+    {
+      "field": "disclosure_required",
+      "quote": "Minimal, non-generative uses do not require declaration."
+    },
+    {
+      "field": "disclosure_required",
+      "quote": "Failure to disclose AI use as required by this policy is itself grounds for decline."
+    },
+    {
+      "field": "ai_as_author",
+      "quote": "Generative AI tools such as large language models must not be listed as authors on any submitted manuscript."
+    },
+    {
+      "field": "ai_images",
+      "quote": "This includes, but is not limited to: generating or editing text, generating images or figures"
+    },
+    {
+      "field": "reviewer_use",
+      "quote": "Reviewers must disclose when AI is used for drafting assistance with review."
+    },
+    {
+      "field": "reviewer_upload",
+      "quote": "manuscripts under review are confidential and must not be uploaded to AI Technologies, whether in full or in part."
+    }
+  ],
+  "page_last_updated": "August 11, 2026",
+  "confidence": "high",
+  "is_ai_policy": true,
+  "source_id": "J-AJPS",
+  "content_hash": "b2f1227d74b6c7fb",
+  "extracted_at": "2026-10-17T12:51:10+00:00",
+  "model": "claude-sonnet-5-5"
+}

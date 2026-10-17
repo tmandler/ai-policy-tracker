@@ -13,12 +13,12 @@ Accounting Horizons,AH,,3,American Accounting Association,,Accounting,0888-7993,
 Auditing,A-ING,,3,American Accounting Association,,Accounting,,P-AAA,,new: journal-level check pending,yes,2026-10-17
 Behavioral Research in Accounting,BRIA,,3,American Accounting Association,,Accounting,1050-4753,P-AAA,,new: journal-level check pending,yes,2026-10-17
 British Accounting Review,BAR,,3,Elsevier,,Accounting,0890-8389,P-ELS,,new: journal-level check pending,yes,2026-10-17
-British Tax Review,BTR,,3,Sweet & Maxwell (Thomson Reuters),,Accounting,,,,new: journal-level check pending,yes,2026-10-17
+British Tax Review,BTR,,3,Sweet & Maxwell (Thomson Reuters),,Accounting,,P-SWEETMAXWE,,new: journal-level check pending,yes,2026-10-17
 Critical Perspectives on Accounting,CPOA,,3,Elsevier,,Accounting,1045-2354,P-ELS,,new: journal-level check pending,yes,2026-10-17
 European Accounting Review,EAR,,3,Taylor & Francis,,Accounting,0963-8180,P-TF,,new: journal-level check pending,yes,2026-10-17
 Financial Accountability and Management,FAM,,3,Wiley,,Accounting,0267-4424,P-WIL,,new: journal-level check pending,yes,2026-10-17
 Foundations and Trends in Accounting,FTIA,,3,Emerald,,Accounting,1554-0642,P-EME,,new: journal-level check pending,yes,2026-10-17
-International Journal of Accounting,IJA,,3,World Scientific,,Accounting,0020-7063,,,new: journal-level check pending,yes,2026-10-17
+International Journal of Accounting,IJA,,3,World Scientific,,Accounting,0020-7063,P-WORLDSCIEN,,new: journal-level check pending,yes,2026-10-17
 Journal of Accounting and Public Policy,JAPP,,3,Elsevier,,Accounting,0278-4254,P-ELS,,new: journal-level check pending,yes,2026-10-17
 Journal of Accounting Literature,JAL,,3,Emerald,,Accounting,0737-4607,P-EME,,new: journal-level check pending,yes,2026-10-17
 "Journal of Accounting, Auditing and Finance",JAAF,,3,SAGE,,Accounting,,P-SAG,,new: journal-level check pending,yes,2026-10-17
@@ -27,30 +27,30 @@ Journal of Financial Reporting,JFR-ING,,3,American Accounting Association,,Accou
 "Journal of International Accounting, Auditing and Taxation",JIAAT,,3,Elsevier,,Accounting,1061-9518,P-ELS,,new: journal-level check pending,yes,2026-10-17
 Journal of the American Taxation Association,JATA,,3,American Accounting Association,,Accounting,0198-9073,P-AAA,,new: journal-level check pending,yes,2026-10-17
 Management Accounting Research,MAR,,3,Elsevier,,Accounting,1044-5005,P-ELS,,new: journal-level check pending,yes,2026-10-17
-Business History,BH,,4,Taylor & Francis,,Business & Economic History,0007-6791,P-TF,,new: journal-level check pending,yes,2026-10-17
-Business History Review,BHR,,4,Cambridge University Press,,Business & Economic History,0007-6805,P-CUP,,new: journal-level check pending,yes,2026-10-17
-Economic History Review,EHR,,4,Wiley,,Business & Economic History,0013-0117,P-WIL,,new: journal-level check pending,yes,2026-10-17
+Business History,BH,,4,Taylor & Francis,,Business & Economic History,0007-6791,P-TF,,,yes,2026-10-17
+Business History Review,BHR,,4,Cambridge University Press,,Business & Economic History,0007-6805,P-CUP,J-BHR,,yes,2026-10-17
+Economic History Review,EHR,,4,Wiley,,Business & Economic History,0013-0117,P-WIL,J-EHR,,yes,2026-10-17
 Enterprise and Society,ES-ETY,,3,Cambridge University Press,,Business & Economic History,,P-CUP,,new: journal-level check pending,yes,2026-10-17
 European Review of Economic History,EREH,,3,Oxford University Press,,Business & Economic History,1361-4916,P-OUP,,new: journal-level check pending,yes,2026-10-17
 Explorations in Economic History,EIEH,,3,Elsevier,,Business & Economic History,0014-4983,P-ELS,,new: journal-level check pending,yes,2026-10-17
 Journal of Economic History,JEH,,3,Cambridge University Press,,Business & Economic History,0022-0507,P-CUP,,new: journal-level check pending,yes,2026-10-17
 American Economic Review,AER,FT50,4*,American Economic Association,American Economic Association,"Economics, Econometrics & Statistics",0002-8282,P-AEA,,,yes,2026-10-14
-Annals of Statistics,AS,,4*,Institute of Mathematical Statistics,,"Economics, Econometrics & Statistics",0090-5364,,,new: journal-level check pending,yes,2026-10-17
+Annals of Statistics,AS,,4*,Institute of Mathematical Statistics,,"Economics, Econometrics & Statistics",0090-5364,,,,yes,2026-10-17
 Econometrica,ECTA,FT50,4*,Wiley,Econometric Society,"Economics, Econometrics & Statistics",0012-9682,P-WIL,S-ECTA,,yes,2026-10-14
 Journal of Political Economy,JPE,FT50,4*,University of Chicago Press,University of Chicago,"Economics, Econometrics & Statistics",0022-3808,-,,,yes,2026-10-14
 Quarterly Journal of Economics,QJE,FT50,4*,Oxford University Press,Harvard University,"Economics, Econometrics & Statistics",0033-5533,P-OUP,,,yes,2026-10-14
 Review of Economic Studies,REStud,FT50,4*,Oxford University Press,Review of Economic Studies Ltd,"Economics, Econometrics & Statistics",0034-6527,P-OUP,,,yes,2026-10-14
-American Economic Journal: Applied Economics,AEJAE,,4,American Economic Association,,"Economics, Econometrics & Statistics",1945-7782,P-AEA,,new: journal-level check pending,yes,2026-10-17
-American Economic Journal: Macroeconomics,AEJM-ICS,,4,American Economic Association,,"Economics, Econometrics & Statistics",1945-7707,P-AEA,,new: journal-level check pending,yes,2026-10-17
-Biometrika,B,,4,Oxford University Press,,"Economics, Econometrics & Statistics",0006-3444,P-OUP,,new: journal-level check pending,yes,2026-10-17
-Econometric Theory,ET-ORY,,4,Cambridge University Press,,"Economics, Econometrics & Statistics",0266-4666,P-CUP,,new: journal-level check pending,yes,2026-10-17
-Economic Journal,EJ-NAL,,4,Oxford University Press,,"Economics, Econometrics & Statistics",,P-OUP,,new: journal-level check pending,yes,2026-10-17
-International Economic Review,IER-IEW,,4,Wiley,,"Economics, Econometrics & Statistics",0020-6598,P-WIL,,new: journal-level check pending,yes,2026-10-17
-Journal of Business and Economic Statistics,JBES,,4,Taylor & Francis,,"Economics, Econometrics & Statistics",0735-0015,P-TF,,new: journal-level check pending,yes,2026-10-17
-Journal of Econometrics,JE,,4,Elsevier,,"Economics, Econometrics & Statistics",0304-4076,P-ELS,,new: journal-level check pending,yes,2026-10-17
-Journal of Economic Literature,JEL,,4,American Economic Association,,"Economics, Econometrics & Statistics",0022-0515,P-AEA,,new: journal-level check pending,yes,2026-10-17
-Journal of Economic Perspectives,JEP-VES,,4,American Economic Association,,"Economics, Econometrics & Statistics",0895-3309,P-AEA,,new: journal-level check pending,yes,2026-10-17
-Journal of Economic Theory,JET,,4,Elsevier,,"Economics, Econometrics & Statistics",0022-0531,P-ELS,,new: journal-level check pending,yes,2026-10-17
+American Economic Journal: Applied Economics,AEJAE,,4,American Economic Association,,"Economics, Econometrics & Statistics",1945-7782,P-AEA,J-AEJAE,,yes,2026-10-17
+American Economic Journal: Macroeconomics,AEJM-ICS,,4,American Economic Association,,"Economics, Econometrics & Statistics",1945-7707,P-AEA,J-AEJMICS,,yes,2026-10-17
+Biometrika,B,,4,Oxford University Press,,"Economics, Econometrics & Statistics",0006-3444,P-OUP,J-B,,yes,2026-10-17
+Econometric Theory,ET-ORY,,4,Cambridge University Press,,"Economics, Econometrics & Statistics",0266-4666,P-CUP,J-ETORY,,yes,2026-10-17
+Economic Journal,EJ-NAL,,4,Oxford University Press,,"Economics, Econometrics & Statistics",,P-OUP,,,yes,2026-10-17
+International Economic Review,IER-IEW,,4,Wiley,,"Economics, Econometrics & Statistics",0020-6598,P-WIL,,,yes,2026-10-17
+Journal of Business and Economic Statistics,JBES,,4,Taylor & Francis,,"Economics, Econometrics & Statistics",0735-0015,P-TF,,,yes,2026-10-17
+Journal of Econometrics,JE,,4,Elsevier,,"Economics, Econometrics & Statistics",0304-4076,P-ELS,J-JE,,yes,2026-10-17
+Journal of Economic Literature,JEL,,4,American Economic Association,,"Economics, Econometrics & Statistics",0022-0515,P-AEA,,,yes,2026-10-17
+Journal of Economic Perspectives,JEP-VES,,4,American Economic Association,,"Economics, Econometrics & Statistics",0895-3309,P-AEA,J-JEPVES,,yes,2026-10-17
+Journal of Economic Theory,JET,,4,Elsevier,,"Economics, Econometrics & Statistics",0022-0531,P-ELS,J-JET,,yes,2026-10-17
 Journal of International Economics,JIE-ICS,,4,Elsevier,,"Economics, Econometrics & Statistics",0022-1996,P-ELS,,new: journal-level check pending,yes,2026-10-17
 Journal of Labor Economics,JLE-ICS,,4,University of Chicago Press,,"Economics, Econometrics & Statistics",0734-306X,-,,new: journal-level check pending,yes,2026-10-17
 Journal of Monetary Economics,JME-ICS,,4,Elsevier,,"Economics, Econometrics & Statistics",0304-3932,P-ELS,,new: journal-level check pending,yes,2026-10-17
@@ -59,14 +59,14 @@ Journal of the European Economic Association,JEEA,,4,Oxford University Press,,"E
 Journal of the Royal Statistical Society. Series B: Statistical Methodology,JRSSSBSM,,4,Oxford University Press,,"Economics, Econometrics & Statistics",1369-7412,P-OUP,,new: journal-level check pending,yes,2026-10-17
 Quantitative Economics,QE,,4,Wiley,Econometric Society,"Economics, Econometrics & Statistics",1759-7323,P-WIL,S-ECTA,new: journal-level check pending,yes,2026-10-17
 RAND Journal of Economics,RJE,,4,Wiley,,"Economics, Econometrics & Statistics",0741-6261,P-WIL,,new: journal-level check pending,yes,2026-10-17
-Review of Economics and Statistics,RES,,4,MIT Press,,"Economics, Econometrics & Statistics",0034-6535,,,new: journal-level check pending,yes,2026-10-17
+Review of Economics and Statistics,RES,,4,MIT Press,,"Economics, Econometrics & Statistics",0034-6535,P-MITPRESS,,new: journal-level check pending,yes,2026-10-17
 Theoretical Economics,TE,,4,Wiley,Econometric Society,"Economics, Econometrics & Statistics",1933-6837,P-WIL,S-ECTA,new: journal-level check pending,yes,2026-10-17
 American Economic Journal: Economic Policy,AEJEP,,3,American Economic Association,,"Economics, Econometrics & Statistics",1945-774X,P-AEA,,new: journal-level check pending,yes,2026-10-17
 American Economic Journal: Microeconomics,AEJM-ICS,,3,American Economic Association,,"Economics, Econometrics & Statistics",1945-7669,P-AEA,,new: journal-level check pending,yes,2026-10-17
 American Economic Review: Insights,AERI,,3,American Economic Association,,"Economics, Econometrics & Statistics",2640-205X,P-AEA,,new: journal-level check pending,yes,2026-10-17
 American Journal of Agricultural Economics,AJAE,,3,Wiley,,"Economics, Econometrics & Statistics",0002-9092,P-WIL,,new: journal-level check pending,yes,2026-10-17
-Annual Review of Economics,ARE,,3,Annual Reviews,,"Economics, Econometrics & Statistics",1941-1383,,,new: journal-level check pending,yes,2026-10-17
-Brookings Papers on Economic Activity,BPOEA,,3,Brookings Institution,,"Economics, Econometrics & Statistics",0007-2303,,,new: journal-level check pending,yes,2026-10-17
+Annual Review of Economics,ARE,,3,Annual Reviews,,"Economics, Econometrics & Statistics",1941-1383,P-ANNUALREVI,,new: journal-level check pending,yes,2026-10-17
+Brookings Papers on Economic Activity,BPOEA,,3,Brookings Institution,,"Economics, Econometrics & Statistics",0007-2303,P-BROOKINGSI,,new: journal-level check pending,yes,2026-10-17
 Cambridge Journal of Economics,CJE-ICS,,3,Oxford University Press,,"Economics, Econometrics & Statistics",0309-166X,P-OUP,,new: journal-level check pending,yes,2026-10-17
 Canadian Journal of Economics,CJE-ICS,,3,Wiley,,"Economics, Econometrics & Statistics",,P-WIL,,new: journal-level check pending,yes,2026-10-17
 Computational Statistics and Data Analysis,CSDA,,3,Elsevier,,"Economics, Econometrics & Statistics",,P-ELS,,new: journal-level check pending,yes,2026-10-17
@@ -100,7 +100,7 @@ Journal of Economic Growth,JEG-WTH,,3,Springer Nature,,"Economics, Econometrics 
 Journal of Environmental Economics and Management,JEEM,,3,Elsevier,,"Economics, Econometrics & Statistics",0095-0696,P-ELS,,new: journal-level check pending,yes,2026-10-17
 Journal of Health Economics,JHE,,3,Elsevier,,"Economics, Econometrics & Statistics",0167-6296,P-ELS,,new: journal-level check pending,yes,2026-10-17
 Journal of Human Capital,JHC,,3,University of Chicago Press,,"Economics, Econometrics & Statistics",1932-8575,-,,new: journal-level check pending,yes,2026-10-17
-Journal of Human Resources,JHR,,3,University of Wisconsin Press,,"Economics, Econometrics & Statistics",0022-166X,,,new: journal-level check pending,yes,2026-10-17
+Journal of Human Resources,JHR,,3,University of Wisconsin Press,,"Economics, Econometrics & Statistics",0022-166X,P-UNIVERSITY,,new: journal-level check pending,yes,2026-10-17
 Journal of Industrial Economics,JIE-ICS,,3,Wiley,,"Economics, Econometrics & Statistics",0022-1821,P-WIL,,new: journal-level check pending,yes,2026-10-17
 Journal of Institutional Economics,JIE-ICS,,3,Cambridge University Press,,"Economics, Econometrics & Statistics",1744-1374,P-CUP,,new: journal-level check pending,yes,2026-10-17
 Journal of Law and Economics,JLE-ICS,,3,University of Chicago Press,,"Economics, Econometrics & Statistics",0022-2186,-,,new: journal-level check pending,yes,2026-10-17
@@ -117,7 +117,7 @@ Journal of the Royal Statistical Society. Series C: Applied Statistics,JRSSSCAS,
 Journal of Time Series Analysis,JTSA,,3,Wiley,,"Economics, Econometrics & Statistics",0143-9782,P-WIL,,new: journal-level check pending,yes,2026-10-17
 Journal of Urban Economics,JUE,,3,Elsevier,,"Economics, Econometrics & Statistics",0094-1190,P-ELS,,new: journal-level check pending,yes,2026-10-17
 Labour Economics,LE-ICS,,3,Elsevier,,"Economics, Econometrics & Statistics",0927-5371,P-ELS,,new: journal-level check pending,yes,2026-10-17
-Land Economics,LE-ICS,,3,University of Wisconsin Press,,"Economics, Econometrics & Statistics",0023-7639,,,new: journal-level check pending,yes,2026-10-17
+Land Economics,LE-ICS,,3,University of Wisconsin Press,,"Economics, Econometrics & Statistics",0023-7639,P-UNIVERSITY,,new: journal-level check pending,yes,2026-10-17
 Oxford Bulletin of Economics and Statistics,OBES,,3,Wiley,,"Economics, Econometrics & Statistics",0305-9049,P-WIL,,new: journal-level check pending,yes,2026-10-17
 Oxford Economic Papers,OEP,,3,Oxford University Press,,"Economics, Econometrics & Statistics",0030-7653,P-OUP,,new: journal-level check pending,yes,2026-10-17
 Public Choice,PC,,3,Springer Nature,,"Economics, Econometrics & Statistics",0048-5829,P-SPR,,new: journal-level check pending,yes,2026-10-17
@@ -142,8 +142,8 @@ Academy of Management Journal,AMJ,FT50|UTD24,4*,Academy of Management,Academy of
 Academy of Management Review,AMR,FT50|UTD24,4*,Academy of Management,Academy of Management,"General Management, Ethics & CSR",0363-7425,P-AOM,,,yes,2026-10-14
 Administrative Science Quarterly,ASQ,FT50|UTD24,4*,SAGE,Cornell University (Johnson),"General Management, Ethics & CSR",0001-8392,P-SAG,,,yes,2026-10-14
 Journal of Management,JOM,FT50,4*,SAGE,Southern Management Association,"General Management, Ethics & CSR",0149-2063,P-SAG,,,yes,2026-10-14
-Academy of Management Perspectives,AMP,,4,Academy of Management,,"General Management, Ethics & CSR",1558-9080,P-AOM,,new: journal-level check pending,yes,2026-10-17
-British Journal of Management,BJM,,4,Wiley,,"General Management, Ethics & CSR",1045-3172,P-WIL,,new: journal-level check pending,yes,2026-10-17
+Academy of Management Perspectives,AMP,,4,Academy of Management,,"General Management, Ethics & CSR",1558-9080,P-AOM,J-AMP,,yes,2026-10-17
+British Journal of Management,BJM,,4,Wiley,,"General Management, Ethics & CSR",1045-3172,P-WIL,J-BJM,,yes,2026-10-17
 Journal of Management Studies,JMS,FT50,4,Wiley,Society for the Advancement of Management Studies,"General Management, Ethics & CSR",0022-2380,P-WIL,J-JMS,,yes,2026-10-14
 Academy of Management Discoveries,AMD,,3,Academy of Management,,"General Management, Ethics & CSR",2168-1007,P-AOM,,new: journal-level check pending,yes,2026-10-17
 Business and Society,BS,,3,SAGE,,"General Management, Ethics & CSR",,P-SAG,,new: journal-level check pending,yes,2026-10-17
@@ -161,12 +161,12 @@ MIT Sloan Management Review,SMR,FT50,3,MIT Sloan School of Management,MIT Sloan 
 Journal of Finance,JF,FT50|UTD24,4*,Wiley,American Finance Association,Finance,1027-8257,P-WIL,,,yes,2026-10-14
 Journal of Financial Economics,JFE,FT50|UTD24,4*,Elsevier,,Finance,0304-405X,P-ELS,,,yes,2026-10-14
 Review of Financial Studies,RFS,FT50|UTD24,4*,Oxford University Press,Society for Financial Studies,Finance,0893-9454,P-OUP,,,yes,2026-10-14
-Journal of Corporate Finance,JCF,,4,Elsevier,,Finance,0929-1199,P-ELS,,new: journal-level check pending,yes,2026-10-17
+Journal of Corporate Finance,JCF,,4,Elsevier,,Finance,0929-1199,P-ELS,J-JCF,,yes,2026-10-17
 Journal of Financial and Quantitative Analysis,JFQA,FT50,4,Cambridge University Press,University of Washington (Foster),Finance,0022-1090,P-CUP,,,yes,2026-10-14
 Journal of Financial Intermediation,JFI,,4,Elsevier,,Finance,1042-9573,P-ELS,,new: journal-level check pending,yes,2026-10-17
 "Journal of Money, Credit and Banking",JMCB,,4,Wiley,,Finance,0022-2879,P-WIL,,new: journal-level check pending,yes,2026-10-17
 Review of Finance,RoF,FT50,4,Oxford University Press,European Finance Association,Finance,1572-3097,P-OUP,,,yes,2026-10-14
-Annual Review of Financial Economics,ARFE,,3,Annual Reviews,,Finance,1941-1367,,,new: journal-level check pending,yes,2026-10-17
+Annual Review of Financial Economics,ARFE,,3,Annual Reviews,,Finance,1941-1367,P-ANNUALREVI,,new: journal-level check pending,yes,2026-10-17
 Corporate Governance: An International Review,CGAIR,,3,Wiley,,Finance,0964-8410,P-WIL,,new: journal-level check pending,yes,2026-10-17
 European Financial Management,EFM,,3,Wiley,,Finance,1354-7798,P-WIL,,new: journal-level check pending,yes,2026-10-17
 European Journal of Finance,EJF,,3,Taylor & Francis,,Finance,1351-847X,P-TF,,new: journal-level check pending,yes,2026-10-17
@@ -176,7 +176,7 @@ Financial Management,FM,,3,Wiley,,Finance,0046-3892,P-WIL,,new: journal-level ch
 "Financial Markets, Institutions and Instruments",FMII,,3,Wiley,,Finance,0963-8008,P-WIL,,new: journal-level check pending,yes,2026-10-17
 Financial Review,FR,,3,Wiley,,Finance,0732-8516,P-WIL,,new: journal-level check pending,yes,2026-10-17
 Insurance: Mathematics and Economics,IME,,3,Elsevier,,Finance,0167-6687,P-ELS,,new: journal-level check pending,yes,2026-10-17
-International Journal of Central Banking,IJCB,,3,International Journal of Central Banking,,Finance,,,,new: journal-level check pending,yes,2026-10-17
+International Journal of Central Banking,IJCB,,3,International Journal of Central Banking,,Finance,,P-INTERNATIO,,new: journal-level check pending,yes,2026-10-17
 International Journal of Finance and Economics,IJFE,,3,Wiley,,Finance,,P-WIL,,new: journal-level check pending,yes,2026-10-17
 International Review of Financial Analysis,IRFA,,3,Elsevier,,Finance,1057-5219,P-ELS,,new: journal-level check pending,yes,2026-10-17
 Journal of Banking and Finance,JBF,,3,Elsevier,,Finance,,P-ELS,,new: journal-level check pending,yes,2026-10-17
@@ -198,10 +198,10 @@ Quantitative Finance,QF,,3,Taylor & Francis,,Finance,1469-7688,P-TF,,new: journa
 Review of Asset Pricing Studies,RAPS,,3,Oxford University Press,,Finance,2045-9920,P-OUP,,new: journal-level check pending,yes,2026-10-17
 Review of Corporate Finance Studies,RCFS,,3,Oxford University Press,,Finance,2046-9128,P-OUP,,new: journal-level check pending,yes,2026-10-17
 Review of Quantitative Finance and Accounting,RQFA,,3,Springer Nature,,Finance,0924-865X,P-SPR,,new: journal-level check pending,yes,2026-10-17
-Human Resource Management Journal (UK),HRMJU,,4*,Wiley,,HRM & Employment Studies,,P-WIL,,new: journal-level check pending,yes,2026-10-17
-British Journal of Industrial Relations,BJIR,,4,Wiley,,HRM & Employment Studies,0007-1080,P-WIL,,new: journal-level check pending,yes,2026-10-17
+Human Resource Management Journal (UK),HRMJU,,4*,Wiley,,HRM & Employment Studies,,P-WIL,,,yes,2026-10-17
+British Journal of Industrial Relations,BJIR,,4,Wiley,,HRM & Employment Studies,0007-1080,P-WIL,,,yes,2026-10-17
 Human Resource Management,HRM,FT50,4,Wiley,,HRM & Employment Studies,0090-4848,P-WIL,,,yes,2026-10-14
-Industrial Relations,IR-ONS,,4,Wiley,,HRM & Employment Studies,,P-WIL,,new: journal-level check pending,yes,2026-10-17
+Industrial Relations,IR-ONS,,4,Wiley,,HRM & Employment Studies,,P-WIL,,,yes,2026-10-17
 "Work, Employment and Society",WES,,4,SAGE,,HRM & Employment Studies,0950-0170,P-SAG,,new: journal-level check pending,yes,2026-10-17
 Economic and Industrial Democracy,EID,,3,SAGE,,HRM & Employment Studies,0143-831X,P-SAG,,new: journal-level check pending,yes,2026-10-17
 European Journal of Industrial Relations,EJIR,,3,SAGE,,HRM & Employment Studies,0959-6801,P-SAG,,new: journal-level check pending,yes,2026-10-17
@@ -224,10 +224,10 @@ Management and Organization Review,MOR-IEW,,3,Cambridge University Press,,Intern
 Management International Review,MIR,,3,Springer Nature,,International Business & Area Studies,0938-8249,P-SPR,,new: journal-level check pending,yes,2026-10-17
 Multinational Business Review,MBR,,3,Emerald,,International Business & Area Studies,1525-383X,P-EME,,new: journal-level check pending,yes,2026-10-17
 Information Systems Research,ISR,FT50|UTD24,4*,INFORMS,INFORMS,Information Management,1047-7047,P-INF,,no journal page found; INFORMS author rules only,yes,2026-10-14
-Journal of the Association for Information Systems,JAIS,,4*,Taylor & Francis,,Information Management,1536-9323,P-TF,,new: journal-level check pending,yes,2026-10-17
+Journal of the Association for Information Systems,JAIS,,4*,Taylor & Francis,,Information Management,1536-9323,P-TF,J-JAIS,,yes,2026-10-17
 MIS Quarterly,MISQ,FT50|UTD24,4*,MIS Research Center (Univ. of Minnesota),MIS Research Center (Univ. of Minnesota),Information Management,0276-7783,,J-MISQ,,yes,2026-10-14
-European Journal of Information Systems,EJIS,,4,Taylor & Francis,,Information Management,0960-085X,P-TF,,new: journal-level check pending,yes,2026-10-17
-Information Systems Journal,ISJ,,4,Wiley,,Information Management,1350-1917,P-WIL,,new: journal-level check pending,yes,2026-10-17
+European Journal of Information Systems,EJIS,,4,Taylor & Francis,,Information Management,0960-085X,P-TF,,,yes,2026-10-17
+Information Systems Journal,ISJ,,4,Wiley,,Information Management,1350-1917,P-WIL,J-ISJ,,yes,2026-10-17
 Journal of Information Technology,JIT,,4,SAGE,,Information Management,0268-3962,P-SAG,,new: journal-level check pending,yes,2026-10-17
 Journal of Management Information Systems,JMIS,FT50,4,Taylor & Francis,,Information Management,0742-1222,P-TF,,,yes,2026-10-14
 Journal of Strategic Information Systems,JSIS,,4,Elsevier,,Information Management,0963-8687,P-ELS,,new: journal-level check pending,yes,2026-10-17
@@ -249,7 +249,7 @@ Journal of Technology Transfer,JTT,,3,Springer Nature,,Innovation,0892-9912,P-SP
 R and D Management,RDM,,3,Wiley,,Innovation,0033-6807,P-WIL,,new: journal-level check pending,yes,2026-10-17
 Technological Forecasting and Social Change,TFSC,,3,Elsevier,,Innovation,0040-1625,P-ELS,,new: journal-level check pending,yes,2026-10-17
 Technovation,T,,3,Elsevier,,Innovation,0166-4972,P-ELS,,new: journal-level check pending,yes,2026-10-17
-Academy of Management Learning and Education,AMLE,,4*,Academy of Management,,Management Development & Education,1537-260X,P-AOM,,new: journal-level check pending,yes,2026-10-17
+Academy of Management Learning and Education,AMLE,,4*,Academy of Management,,Management Development & Education,1537-260X,P-AOM,J-AMLE,,yes,2026-10-17
 Management Learning,ML-ING,,3,SAGE,,Management Development & Education,1350-5076,P-SAG,,new: journal-level check pending,yes,2026-10-17
 Studies in Higher Education,SIHE,,3,Taylor & Francis,,Management Development & Education,0307-5079,P-TF,,new: journal-level check pending,yes,2026-10-17
 Journal of Consumer Psychology,JCP,FT50,4*,Wiley,Society for Consumer Psychology,Marketing,1057-7408,P-WIL,,,yes,2026-10-14
@@ -273,11 +273,11 @@ Marketing Theory,MT,,3,SAGE,,Marketing,1470-5931,P-SAG,,new: journal-level check
 Psychology & Marketing,P&M,,3,Wiley,,Marketing,,P-WIL,,,yes,2026-10-14
 Quantitative Marketing and Economics,QME,,3,Springer Nature,,Marketing,1570-7156,P-SPR,,new: journal-level check pending,yes,2026-10-17
 Journal of Operations Management,JOpM,FT50|UTD24,4*,Wiley,,Operations & Technology Management,0272-6963,P-WIL,,,yes,2026-10-14
-International Journal of Operations and Production Management,IJOPM,,4,Emerald,,Operations & Technology Management,,P-EME,,new: journal-level check pending,yes,2026-10-17
+International Journal of Operations and Production Management,IJOPM,,4,Emerald,,Operations & Technology Management,,P-EME,J-IJOPM,,yes,2026-10-17
 Journal of Supply Chain Management,JSCM,,4,Wiley,,Operations & Technology Management,1523-2409,P-WIL,,new: journal-level check pending,yes,2026-10-17
 Production and Operations Management,POM,FT50|UTD24,4,SAGE,Production and Operations Management Society,Operations & Technology Management,1059-1478,P-SAG,,,yes,2026-10-14
 Computers in Industry,CII,,3,Elsevier,,Operations & Technology Management,0166-3615,P-ELS,,new: journal-level check pending,yes,2026-10-17
-IEEE Transactions on Engineering Management,ITOEM,,3,IEEE,,Operations & Technology Management,0018-9391,,,new: journal-level check pending,yes,2026-10-17
+IEEE Transactions on Engineering Management,ITOEM,,3,IEEE,,Operations & Technology Management,0018-9391,P-IEEE,,new: journal-level check pending,yes,2026-10-17
 International Journal of Production Economics,IJPE,,3,Elsevier,,Operations & Technology Management,0925-5273,P-ELS,,new: journal-level check pending,yes,2026-10-17
 International Journal of Production Research,IJPR,,3,Taylor & Francis,,Operations & Technology Management,0020-7543,P-TF,,new: journal-level check pending,yes,2026-10-17
 Journal of Business Logistics,JBL,,3,Wiley,,Operations & Technology Management,0735-3766,P-WIL,,new: journal-level check pending,yes,2026-10-17
@@ -287,20 +287,20 @@ Production Planning and Control,PPC,,3,Taylor & Francis,,Operations & Technology
 Supply Chain Management,SCM,,3,Emerald,,Operations & Technology Management,,P-EME,,new: journal-level check pending,yes,2026-10-17
 Management Science,MS,FT50|UTD24,4*,INFORMS,INFORMS,Operations Research & Management Science,0025-1909,P-INF,J-MNSC,,yes,2026-10-14
 Operations Research,OR,FT50|UTD24,4*,INFORMS,INFORMS,Operations Research & Management Science,0030-364X,P-INF,J-OPRE,,yes,2026-10-14
-European Journal of Operational Research,EJOR,,4,Elsevier,,Operations Research & Management Science,0377-2217,P-ELS,,new: journal-level check pending,yes,2026-10-17
-IEEE Transactions on Evolutionary Computation,ITOEC,,4,IEEE,,Operations Research & Management Science,1089-778X,,,new: journal-level check pending,yes,2026-10-17
+European Journal of Operational Research,EJOR,,4,Elsevier,,Operations Research & Management Science,0377-2217,P-ELS,J-EJOR,,yes,2026-10-17
+IEEE Transactions on Evolutionary Computation,ITOEC,,4,IEEE,,Operations Research & Management Science,1089-778X,P-IEEE,,,yes,2026-10-17
 Mathematical Programming,MP,,4,Springer Nature,,Operations Research & Management Science,0025-5610,P-SPR,,new: journal-level check pending,yes,2026-10-17
-ACM Transactions on Modeling and Computer Simulation,ATOMCS,,3,Association for Computing Machinery,,Operations Research & Management Science,1049-3301,,,new: journal-level check pending,yes,2026-10-17
+ACM Transactions on Modeling and Computer Simulation,ATOMCS,,3,Association for Computing Machinery,,Operations Research & Management Science,1049-3301,P-ASSOCIATIO,,new: journal-level check pending,yes,2026-10-17
 Annals of Operations Research,AOR,,3,Springer Nature,,Operations Research & Management Science,0254-5330,P-SPR,,new: journal-level check pending,yes,2026-10-17
 Computational Optimization and Applications,COA,,3,Springer Nature,,Operations Research & Management Science,0926-6003,P-SPR,,new: journal-level check pending,yes,2026-10-17
 Computers and Operations Research,COR,,3,Elsevier,,Operations Research & Management Science,,P-ELS,,new: journal-level check pending,yes,2026-10-17
 Decision Sciences,DS,,3,Wiley,,Operations Research & Management Science,0011-7315,P-WIL,,new: journal-level check pending,yes,2026-10-17
-Evolutionary Computation,EC,,3,MIT Press,,Operations Research & Management Science,1063-6560,,,new: journal-level check pending,yes,2026-10-17
+Evolutionary Computation,EC,,3,MIT Press,,Operations Research & Management Science,1063-6560,P-MITPRESS,,new: journal-level check pending,yes,2026-10-17
 Fuzzy Optimization and Decision Making,FODM,,3,Springer Nature,,Operations Research & Management Science,1568-4539,P-SPR,,new: journal-level check pending,yes,2026-10-17
-IEEE Transactions on Cybernetics,ITOC,,3,IEEE,,Operations Research & Management Science,2168-2267,,,new: journal-level check pending,yes,2026-10-17
-"IEEE Transactions on Systems, Man, and Cybernetics: Systems",ITOSMCS,,3,IEEE,,Operations Research & Management Science,2168-2216,,,new: journal-level check pending,yes,2026-10-17
+IEEE Transactions on Cybernetics,ITOC,,3,IEEE,,Operations Research & Management Science,2168-2267,P-IEEE,,new: journal-level check pending,yes,2026-10-17
+"IEEE Transactions on Systems, Man, and Cybernetics: Systems",ITOSMCS,,3,IEEE,,Operations Research & Management Science,2168-2216,P-IEEE,,new: journal-level check pending,yes,2026-10-17
 IISE Transactions,IT,,3,Taylor & Francis,,Operations Research & Management Science,2472-5854,P-TF,,new: journal-level check pending,yes,2026-10-17
-INFORMS Journal on Computing,IJOC,UTD24,3,INFORMS,,Operations Research & Management Science,0899-1499,P-INF,,new: journal-level check pending,yes,2026-10-17
+INFORMS Journal on Computing,IJOC,UTD24,3,INFORMS,,Operations Research & Management Science,0899-1499,P-INF,J-IJOC,,yes,2026-10-17
 International Journal of Forecasting,IJF,,3,Elsevier,,Operations Research & Management Science,0169-2070,P-ELS,,new: journal-level check pending,yes,2026-10-17
 Journal of Heuristics,JH,,3,Springer Nature,,Operations Research & Management Science,1381-1231,P-SPR,,new: journal-level check pending,yes,2026-10-17
 Journal of Optimization Theory and Applications,JOTA,,3,Springer Nature,,Operations Research & Management Science,0022-3239,P-SPR,,new: journal-level check pending,yes,2026-10-17
@@ -310,10 +310,10 @@ Naval Research Logistics,NRL,,3,Wiley,,Operations Research & Management Science,
 Omega,O-EGA,,3,Elsevier,,Operations Research & Management Science,0305-0483,P-ELS,,new: journal-level check pending,yes,2026-10-17
 OR Spectrum,OS-RUM,,3,Springer Nature,,Operations Research & Management Science,0171-6468,P-SPR,,new: journal-level check pending,yes,2026-10-17
 Reliability Engineering and System Safety,RESS,,3,Elsevier,,Operations Research & Management Science,,P-ELS,,new: journal-level check pending,yes,2026-10-17
-SIAM Journal on Optimization,SJOO,,3,Society for Industrial and Applied Mathematics,,Operations Research & Management Science,1052-6234,,,new: journal-level check pending,yes,2026-10-17
+SIAM Journal on Optimization,SJOO,,3,Society for Industrial and Applied Mathematics,,Operations Research & Management Science,1052-6234,P-SOCIETYFOR,,new: journal-level check pending,yes,2026-10-17
 Transportation Science,TS,,3,INFORMS,,Operations Research & Management Science,0041-1655,P-INF,,new: journal-level check pending,yes,2026-10-17
 Organization Science,OrgSci,FT50|UTD24,4*,INFORMS,INFORMS,Organisation Studies,1047-7039,P-INF,,no journal page found; INFORMS author rules only,yes,2026-10-14
-Human Relations,HR,,4,SAGE,,Organisation Studies,0018-7267,P-SAG,,new: journal-level check pending,yes,2026-10-17
+Human Relations,HR,,4,SAGE,,Organisation Studies,0018-7267,P-SAG,J-HR,,yes,2026-10-17
 Leadership Quarterly,LQ,,4,Elsevier,,Organisation Studies,1048-9843,P-ELS,,new: journal-level check pending,yes,2026-10-17
 Organization Studies,OS-IES,,4,SAGE,,Organisation Studies,0170-8406,P-SAG,,new: journal-level check pending,yes,2026-10-17
 Organizational Research Methods,ORM,,4,SAGE,,Organisation Studies,1094-4281,P-SAG,,new: journal-level check pending,yes,2026-10-17
@@ -324,12 +324,12 @@ Organizational Dynamics,OD,,3,Elsevier,,Organisation Studies,0090-2616,P-ELS,,ne
 Research in Organizational Behavior,RIOB,,3,Elsevier,,Organisation Studies,0191-3085,P-ELS,,new: journal-level check pending,yes,2026-10-17
 Research in the Sociology of Organizations,RISO,,3,Emerald,,Organisation Studies,,P-EME,,new: journal-level check pending,yes,2026-10-17
 Psychological Science,PSCI,FT50,4*,SAGE,Association for Psychological Science,Psychology (General),0956-7976,P-SAG,,,yes,2026-10-14
-Annual Review of Psychology,ARP,,4,Annual Reviews,,Psychology (General),0066-4308,,,new: journal-level check pending,yes,2026-10-17
-Behavioral and Brain Sciences,BBS,,4,Cambridge University Press,,Psychology (General),0140-525X,P-CUP,,new: journal-level check pending,yes,2026-10-17
-Cognition,C,,4,Elsevier,,Psychology (General),0010-0277,P-ELS,,new: journal-level check pending,yes,2026-10-17
-Current Directions in Psychological Science,CDIPS,,4,SAGE,,Psychology (General),0963-7214,P-SAG,,new: journal-level check pending,yes,2026-10-17
-Journal of Experimental Psychology: Applied,JEPA,,4,American Psychological Association,,Psychology (General),1076-898X,P-APA,,new: journal-level check pending,yes,2026-10-17
-Journal of Experimental Psychology: General,JEPG,,4,American Psychological Association,,Psychology (General),0096-3445,P-APA,,new: journal-level check pending,yes,2026-10-17
+Annual Review of Psychology,ARP,,4,Annual Reviews,,Psychology (General),0066-4308,P-ANNUALREVI,,,yes,2026-10-17
+Behavioral and Brain Sciences,BBS,,4,Cambridge University Press,,Psychology (General),0140-525X,P-CUP,J-BBS,,yes,2026-10-17
+Cognition,C,,4,Elsevier,,Psychology (General),0010-0277,P-ELS,J-C,,yes,2026-10-17
+Current Directions in Psychological Science,CDIPS,,4,SAGE,,Psychology (General),0963-7214,P-SAG,J-CDIPS,,yes,2026-10-17
+Journal of Experimental Psychology: Applied,JEPA,,4,American Psychological Association,,Psychology (General),1076-898X,P-APA,,,yes,2026-10-17
+Journal of Experimental Psychology: General,JEPG,,4,American Psychological Association,,Psychology (General),0096-3445,P-APA,,,yes,2026-10-17
 Journal of Experimental Social Psychology,JESP-OGY,,4,Elsevier,,Psychology (General),0022-1031,P-ELS,,new: journal-level check pending,yes,2026-10-17
 Journal of Personality and Social Psychology,JPSP,,4,American Psychological Association,,Psychology (General),0022-3514,P-APA,,new: journal-level check pending,yes,2026-10-17
 Nature Human Behaviour,NHB,,4,Springer Nature,,Psychology (General),2397-3374,P-SPR,,new: journal-level check pending,yes,2026-10-17
@@ -356,7 +356,7 @@ Quarterly Journal of Experimental Psychology,QJEP,,3,SAGE,,Psychology (General),
 Social Psychological and Personality Science,SPPS,,3,SAGE,,Psychology (General),1948-5506,P-SAG,,new: journal-level check pending,yes,2026-10-17
 Stress and Health,SH,,3,Wiley,,Psychology (General),1532-3005,P-WIL,,new: journal-level check pending,yes,2026-10-17
 Journal of Applied Psychology,JAP,FT50,4*,American Psychological Association,American Psychological Association,Psychology (Work & Organisational),0021-9010,P-APA,,,yes,2026-10-14
-Personnel Psychology,PP-OGY,,4*,Wiley,,Psychology (Work & Organisational),0031-5826,P-WIL,,new: journal-level check pending,yes,2026-10-17
+Personnel Psychology,PP-OGY,,4*,Wiley,,Psychology (Work & Organisational),0031-5826,P-WIL,J-PPOGY,,yes,2026-10-17
 Journal of Occupational and Organizational Psychology,JOOP,,4,Wiley,,Psychology (Work & Organisational),0963-1798,P-WIL,,new: journal-level check pending,yes,2026-10-17
 Journal of Occupational Health Psychology,JOHP,,4,American Psychological Association,,Psychology (Work & Organisational),1076-8998,P-APA,,new: journal-level check pending,yes,2026-10-17
 Journal of Organizational Behavior,JOB,,4,Wiley,,Psychology (Work & Organisational),0894-3796,P-WIL,,new: journal-level check pending,yes,2026-10-17
@@ -370,14 +370,14 @@ Ergonomics,E-ICS,,3,Taylor & Francis,,Psychology (Work & Organisational),0014-01
 European Journal of Work and Organizational Psychology,EJWOP,,3,Taylor & Francis,,Psychology (Work & Organisational),1359-432X,P-TF,,new: journal-level check pending,yes,2026-10-17
 Human Factors,HF,,3,SAGE,,Psychology (Work & Organisational),,P-SAG,,new: journal-level check pending,yes,2026-10-17
 Human Performance,HP,,3,Taylor & Francis,,Psychology (Work & Organisational),0895-9285,P-TF,,new: journal-level check pending,yes,2026-10-17
-International Journal of Rehabilitation Research,IJRR,,3,Wolters Kluwer,,Psychology (Work & Organisational),0342-5282,,,new: journal-level check pending,yes,2026-10-17
+International Journal of Rehabilitation Research,IJRR,,3,Wolters Kluwer,,Psychology (Work & Organisational),0342-5282,P-WOLTERSKLU,,new: journal-level check pending,yes,2026-10-17
 Journal of Business and Psychology,JBP,,3,Springer Nature,,Psychology (Work & Organisational),0889-3268,P-SPR,,new: journal-level check pending,yes,2026-10-17
 Journal of Managerial Psychology,JMP-OGY,,3,Emerald,,Psychology (Work & Organisational),0268-3946,P-EME,,new: journal-level check pending,yes,2026-10-17
 Journal of School Psychology,JSP-OGY,,3,Elsevier,,Psychology (Work & Organisational),0022-4405,P-ELS,,new: journal-level check pending,yes,2026-10-17
-Occupational and Environmental Medicine,OEM,,3,BMJ,,Psychology (Work & Organisational),1351-0711,,,new: journal-level check pending,yes,2026-10-17
-"Scandinavian Journal of Work, Environment and Health",SJWEH,,3,Nordic Association of Occupational Safety and Health,,Psychology (Work & Organisational),,,,new: journal-level check pending,yes,2026-10-17
-Public Administration Review,PAR,,4*,Wiley,,Public Sector & Health Care,0033-3352,P-WIL,,new: journal-level check pending,yes,2026-10-17
-Governance,G,,4,Wiley,,Public Sector & Health Care,0952-1895,P-WIL,,new: journal-level check pending,yes,2026-10-17
+Occupational and Environmental Medicine,OEM,,3,BMJ,,Psychology (Work & Organisational),1351-0711,P-BMJ,,new: journal-level check pending,yes,2026-10-17
+"Scandinavian Journal of Work, Environment and Health",SJWEH,,3,Nordic Association of Occupational Safety and Health,,Psychology (Work & Organisational),,P-NORDICASSO,,new: journal-level check pending,yes,2026-10-17
+Public Administration Review,PAR,,4*,Wiley,,Public Sector & Health Care,0033-3352,P-WIL,J-PAR,,yes,2026-10-17
+Governance,G,,4,Wiley,,Public Sector & Health Care,0952-1895,P-WIL,J-G,,yes,2026-10-17
 Journal of Public Administration Research and Theory,JPART,,4,Oxford University Press,,Public Sector & Health Care,1053-1858,P-OUP,,new: journal-level check pending,yes,2026-10-17
 Public Administration,PA,,4,Wiley,,Public Sector & Health Care,0033-3298,P-WIL,,new: journal-level check pending,yes,2026-10-17
 Public Management Review,PMR,,4,Taylor & Francis,,Public Sector & Health Care,1471-9037,P-TF,,new: journal-level check pending,yes,2026-10-17
@@ -389,11 +389,11 @@ International Review of Administrative Sciences,IRAS,,3,SAGE,,Public Sector & He
 Journal of European Public Policy,JEPP,,3,Taylor & Francis,,Public Sector & Health Care,1350-1763,P-TF,,new: journal-level check pending,yes,2026-10-17
 Journal of Policy Analysis and Management,JPAM,,3,Wiley,,Public Sector & Health Care,0276-8739,P-WIL,,new: journal-level check pending,yes,2026-10-17
 Milbank Quarterly,MQ,,3,Wiley,,Public Sector & Health Care,0887-378X,P-WIL,,new: journal-level check pending,yes,2026-10-17
-Policy and Politics,PP-ICS,,3,Bristol University Press,,Public Sector & Health Care,,,,new: journal-level check pending,yes,2026-10-17
+Policy and Politics,PP-ICS,,3,Bristol University Press,,Public Sector & Health Care,,P-BRISTOLUNI,,new: journal-level check pending,yes,2026-10-17
 Policy Studies Journal,PSJ,,3,Wiley,,Public Sector & Health Care,0190-292X,P-WIL,,new: journal-level check pending,yes,2026-10-17
 Regulation and Governance,RG,,3,Wiley,,Public Sector & Health Care,,P-WIL,,new: journal-level check pending,yes,2026-10-17
-Economic Geography,EG,,4,Taylor & Francis,,"Regional Studies, Planning & Environment",0013-0095,P-TF,,new: journal-level check pending,yes,2026-10-17
-Journal of Economic Geography,JEG-PHY,,4,Oxford University Press,,"Regional Studies, Planning & Environment",1468-2702,P-OUP,,new: journal-level check pending,yes,2026-10-17
+Economic Geography,EG,,4,Taylor & Francis,,"Regional Studies, Planning & Environment",0013-0095,P-TF,,,yes,2026-10-17
+Journal of Economic Geography,JEG-PHY,,4,Oxford University Press,,"Regional Studies, Planning & Environment",1468-2702,P-OUP,,,yes,2026-10-17
 Regional Studies,RS,,4,Taylor & Francis,,"Regional Studies, Planning & Environment",0034-3404,P-TF,,new: journal-level check pending,yes,2026-10-17
 "Cambridge Journal of Regions, Economy and Society",CJRES,,3,Oxford University Press,,"Regional Studies, Planning & Environment",1752-1378,P-OUP,,new: journal-level check pending,yes,2026-10-17
 Environment and Planning A,EPA,,3,SAGE,,"Regional Studies, Planning & Environment",,P-SAG,,new: journal-level check pending,yes,2026-10-17
@@ -404,7 +404,7 @@ Journal of Rural Studies,JRS-IES,,3,Elsevier,,"Regional Studies, Planning & Envi
 Papers in Regional Science,PIRS,,3,Elsevier,,"Regional Studies, Planning & Environment",,P-ELS,,new: journal-level check pending,yes,2026-10-17
 Regional Science and Urban Economics,RSUE,,3,Elsevier,,"Regional Studies, Planning & Environment",0166-0462,P-ELS,,new: journal-level check pending,yes,2026-10-17
 Urban Studies,US,,3,SAGE,,"Regional Studies, Planning & Environment",0042-0980,P-SAG,,new: journal-level check pending,yes,2026-10-17
-Annals of Tourism Research,ATR,,4,Elsevier,,Sector Studies,0160-7383,P-ELS,,new: journal-level check pending,yes,2026-10-17
+Annals of Tourism Research,ATR,,4,Elsevier,,Sector Studies,0160-7383,P-ELS,J-ATR,,yes,2026-10-17
 Journal of Service Research,JSR,,4,SAGE,,Sector Studies,1094-6705,P-SAG,,,yes,2026-10-14
 Journal of Travel Research,JTR,,4,SAGE,,Sector Studies,0047-2875,P-SAG,,new: journal-level check pending,yes,2026-10-17
 Tourism Management,TM,,4,Elsevier,,Sector Studies,0261-5177,P-ELS,,new: journal-level check pending,yes,2026-10-17
@@ -419,14 +419,14 @@ Nonprofit and Voluntary Sector Quarterly,NVSQ,,3,SAGE,,Sector Studies,0899-7640,
 "Transportation Research, Part A: Policy and Practice",TRPAPP,,3,Elsevier,,Sector Studies,0965-8564,P-ELS,,new: journal-level check pending,yes,2026-10-17
 "Transportation Research, Part D: Transport and Environment",TRPDTE,,3,Elsevier,,Sector Studies,1361-9209,P-ELS,,new: journal-level check pending,yes,2026-10-17
 "Transportation Research, Part E: Logistics and Transportation Review",TRPELTR,,3,Elsevier,,Sector Studies,1366-5545,P-ELS,,new: journal-level check pending,yes,2026-10-17
-American Journal of Political Science,AJPS,,4*,Wiley,,Social Sciences,0092-5853,P-WIL,,new: journal-level check pending,yes,2026-10-17
-American Journal of Sociology,AJS,,4*,University of Chicago Press,,Social Sciences,0002-9602,-,,new: journal-level check pending,yes,2026-10-17
-American Political Science Review,APSR,,4*,Cambridge University Press,,Social Sciences,0003-0554,P-CUP,,new: journal-level check pending,yes,2026-10-17
+American Journal of Political Science,AJPS,,4*,Wiley,,Social Sciences,0092-5853,P-WIL,J-AJPS,,yes,2026-10-17
+American Journal of Sociology,AJS,,4*,University of Chicago Press,,Social Sciences,0002-9602,-,,,yes,2026-10-17
+American Political Science Review,APSR,,4*,Cambridge University Press,,Social Sciences,0003-0554,P-CUP,J-APSR,,yes,2026-10-17
 American Sociological Review,ASR,FT50,4*,SAGE,American Sociological Association,Social Sciences,0003-1224,P-SAG,,,yes,2026-10-14
-Annual Review of Sociology,ARS,,4*,Annual Reviews,,Social Sciences,0360-0572,,,new: journal-level check pending,yes,2026-10-17
-Environment and Planning D: Society and Space,EPDSS,,4,SAGE,,Social Sciences,0263-7758,P-SAG,,new: journal-level check pending,yes,2026-10-17
-International Organization,IO-ION,,4,Cambridge University Press,,Social Sciences,0020-8183,P-CUP,,new: journal-level check pending,yes,2026-10-17
-International Studies Quarterly,ISQ,,4,Oxford University Press,,Social Sciences,0020-8833,P-OUP,,new: journal-level check pending,yes,2026-10-17
+Annual Review of Sociology,ARS,,4*,Annual Reviews,,Social Sciences,0360-0572,P-ANNUALREVI,,,yes,2026-10-17
+Environment and Planning D: Society and Space,EPDSS,,4,SAGE,,Social Sciences,0263-7758,P-SAG,J-EPDSS,,yes,2026-10-17
+International Organization,IO-ION,,4,Cambridge University Press,,Social Sciences,0020-8183,P-CUP,J-IOION,,yes,2026-10-17
+International Studies Quarterly,ISQ,,4,Oxford University Press,,Social Sciences,0020-8833,P-OUP,J-ISQ,,yes,2026-10-17
 Journal of Politics,JP-ICS,,4,University of Chicago Press,,Social Sciences,0022-3816,-,,new: journal-level check pending,yes,2026-10-17
 Risk Analysis,RA,,4,Wiley,,Social Sciences,0272-4332,P-WIL,,new: journal-level check pending,yes,2026-10-17
 Social Science and Medicine,SSM,,4,Elsevier,,Social Sciences,,P-ELS,,new: journal-level check pending,yes,2026-10-17
@@ -438,7 +438,7 @@ Business Strategy and the Environment,BSE,,3,Wiley,,Social Sciences,0964-4733,P-
 Development and Change,DC,,3,Wiley,,Social Sciences,0012-155X,P-WIL,,new: journal-level check pending,yes,2026-10-17
 Economy and Society,ES-ETY,,3,Taylor & Francis,,Social Sciences,0308-5147,P-TF,,new: journal-level check pending,yes,2026-10-17
 Electoral Studies,ES-IES,,3,Elsevier,,Social Sciences,0261-3794,P-ELS,,new: journal-level check pending,yes,2026-10-17
-Environmental Science & Technology,EST,,3,American Chemical Society,,Social Sciences,,,,new: journal-level check pending,yes,2026-10-17
+Environmental Science & Technology,EST,,3,American Chemical Society,,Social Sciences,,P-AMERICANCH,,new: journal-level check pending,yes,2026-10-17
 Environmental Science and Policy,ESP,,3,Elsevier,,Social Sciences,,P-ELS,,new: journal-level check pending,yes,2026-10-17
 European Sociological Review,ESR,,3,Oxford University Press,,Social Sciences,0266-7215,P-OUP,,new: journal-level check pending,yes,2026-10-17
 Global Networks,GN,,3,Wiley,,Social Sciences,1470-2266,P-WIL,,new: journal-level check pending,yes,2026-10-17
@@ -463,7 +463,7 @@ Sociology of Health and Illness,SHI,,3,Wiley,,Social Sciences,,P-WIL,,new: journ
 West European Politics,WEP,,3,Taylor & Francis,,Social Sciences,0140-2382,P-TF,,new: journal-level check pending,yes,2026-10-17
 World Development,WD,,3,Elsevier,,Social Sciences,0305-750X,P-ELS,,new: journal-level check pending,yes,2026-10-17
 Strategic Management Journal,SMJ,FT50|UTD24,4*,Wiley,Strategic Management Society,Strategy,0143-2095,P-WIL,,,yes,2026-10-14
-Global Strategy Journal,GSJ,,4,Wiley,,Strategy,2042-5791,P-WIL,,new: journal-level check pending,yes,2026-10-17
+Global Strategy Journal,GSJ,,4,Wiley,,Strategy,2042-5791,P-WIL,,,yes,2026-10-17
 Long Range Planning,LRP,,4,Elsevier,,Strategy,0024-6301,P-ELS,,new: journal-level check pending,yes,2026-10-17
 Strategic Organization,SO,,3,SAGE,,Strategy,1476-1270,P-SAG,,new: journal-level check pending,yes,2026-10-17
 Strategy Science,SS,,3,INFORMS,,Strategy,2333-2050,P-INF,,new: journal-level check pending,yes,2026-10-17

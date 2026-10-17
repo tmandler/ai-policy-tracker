@@ -1,0 +1,34 @@
+{
+  "author_use": "allowed_with_conditions",
+  "disclosure_required": "yes",
+  "ai_as_author": "prohibited",
+  "ai_images": "not_stated",
+  "reviewer_use": "not_stated",
+  "reviewer_upload": "not_stated",
+  "editor_use": "not_stated",
+  "disclosure_location": [
+    "submission_system"
+  ],
+  "summary": "AI software such as chatbots or large language models cannot be listed as an author. Authors who use AI in preparing a manuscript, including drafting or editing text, must briefly describe that use during submission, and they remain fully accountable for fact-checking AI outputs. The page says nothing about AI images or AI use by reviewers and editors.",
+  "evidence": [
+    {
+      "field": "ai_as_author",
+      "quote": "may not be listed as an author"
+    },
+    {
+      "field": "disclosure_required",
+      "quote": "If AI software was used in the preparation of the manuscript, including drafting or editing text, this must be briefly described during the submission process"
+    },
+    {
+      "field": "author_use",
+      "quote": "Authors are solely accountable for, and must thoroughly fact-check, outputs created with the help of AI software."
+    }
+  ],
+  "page_last_updated": "",
+  "confidence": "high",
+  "is_ai_policy": true,
+  "source_id": "J-JEPVES",
+  "content_hash": "dba1e243f70b2b19",
+  "extracted_at": "2026-10-17T12:52:54+00:00",
+  "model": "claude-sonnet-5-5"
+}

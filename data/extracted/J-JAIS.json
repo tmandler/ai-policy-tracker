@@ -1,0 +1,26 @@
+{
+  "author_use": "allowed_with_conditions",
+  "disclosure_required": "yes",
+  "ai_as_author": "not_stated",
+  "ai_images": "not_stated",
+  "reviewer_use": "not_stated",
+  "reviewer_upload": "not_stated",
+  "editor_use": "not_stated",
+  "disclosure_location": [
+    "cover_letter"
+  ],
+  "summary": "JAIS requires authors to complete a Generative AI transparency document for every new and revised submission and append it on a separate page to the uploaded cover letter. The page does not explain what AI uses are acceptable, and it says nothing about AI authorship, AI-generated images, or use of AI by reviewers or editors.",
+  "evidence": [
+    {
+      "field": "disclosure_required",
+      "quote": "authors must fill out a Generative AI transparency document and append it to the uploaded cover letter on a separate page."
+    }
+  ],
+  "page_last_updated": "",
+  "confidence": "medium",
+  "is_ai_policy": true,
+  "source_id": "J-JAIS",
+  "content_hash": "fb8d43e642c38c1e",
+  "extracted_at": "2026-10-17T12:51:20+00:00",
+  "model": "claude-sonnet-5-5"
+}

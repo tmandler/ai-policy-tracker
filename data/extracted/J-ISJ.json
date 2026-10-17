@@ -1,0 +1,44 @@
+{
+  "author_use": "allowed_with_conditions",
+  "disclosure_required": "yes",
+  "ai_as_author": "prohibited",
+  "ai_images": "not_stated",
+  "reviewer_use": "not_stated",
+  "reviewer_upload": "not_stated",
+  "editor_use": "not_stated",
+  "disclosure_location": [
+    "methods",
+    "acknowledgements",
+    "cover_letter"
+  ],
+  "summary": "Authors may use generative AI tools but must describe the use transparently and in detail in the Methods or Acknowledgements, and also explain it in the cover letter. AI tools cannot be listed as authors, and authors remain fully responsible for accuracy. Tools used only for spelling, grammar and general editing fall outside the scope of the AI guidelines, though the cover letter asks about tools such as Grammarly.",
+  "evidence": [
+    {
+      "field": "ai_as_author",
+      "quote": "these tools cannot fulfill the role of, nor be listed as, an author of an article."
+    },
+    {
+      "field": "disclosure_required",
+      "quote": "its use must be described, transparently and in detail, in the Methods or Acknowledgements section."
+    },
+    {
+      "field": "author_use",
+      "quote": "The author is fully responsible for the accuracy of any information provided by the tool"
+    },
+    {
+      "field": "disclosure_required",
+      "quote": "Tools that are used to improve spelling, grammar, and general editing are not included in the scope of these guidelines."
+    },
+    {
+      "field": "disclosure_required",
+      "quote": "Explain how, if at all, they have used Generative AI tools"
+    }
+  ],
+  "page_last_updated": "",
+  "confidence": "high",
+  "is_ai_policy": true,
+  "source_id": "J-ISJ",
+  "content_hash": "4b5153bf7fa23281",
+  "extracted_at": "2026-10-17T12:52:34+00:00",
+  "model": "claude-sonnet-5-5"
+}

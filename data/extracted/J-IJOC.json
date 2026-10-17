@@ -1,0 +1,32 @@
+{
+  "author_use": "not_stated",
+  "disclosure_required": "not_stated",
+  "ai_as_author": "not_stated",
+  "ai_images": "not_stated",
+  "reviewer_use": "prohibited",
+  "reviewer_upload": "prohibited",
+  "editor_use": "prohibited",
+  "disclosure_location": [],
+  "summary": "This IJOC policy covers only reviewers and editors, who must not use generative AI to assist in reviewing, evaluating, or making decisions on a manuscript. They may not upload manuscripts, review reports, or decision letters into AI tools, even just to improve language, because of confidentiality. Suspected improper AI use in a submitted paper should be reported to the handling (area) editor. The page says nothing about authors' use of AI.",
+  "evidence": [
+    {
+      "field": "reviewer_use",
+      "quote": "Generative AI should not be used to assist in the review, evaluation, or decision-making process of a manuscript."
+    },
+    {
+      "field": "reviewer_upload",
+      "quote": "Reviewers or editors should not upload the manuscript or any part of it into a Generative AI tool"
+    },
+    {
+      "field": "editor_use",
+      "quote": "Generative AI should not be used to assist in the review, evaluation, or decision-making process of a manuscript."
+    }
+  ],
+  "page_last_updated": "August 2023",
+  "confidence": "high",
+  "is_ai_policy": true,
+  "source_id": "J-IJOC",
+  "content_hash": "23f5f2eb77232436",
+  "extracted_at": "2026-10-17T12:51:03+00:00",
+  "model": "claude-sonnet-5-5"
+}

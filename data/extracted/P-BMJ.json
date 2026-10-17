@@ -1,0 +1,48 @@
+{
+  "author_use": "allowed_with_conditions",
+  "disclosure_required": "yes",
+  "ai_as_author": "prohibited",
+  "ai_images": "allowed_with_conditions",
+  "reviewer_use": "allowed_with_conditions",
+  "reviewer_upload": "allowed_with_conditions",
+  "editor_use": "not_stated",
+  "disclosure_location": [
+    "acknowledgements",
+    "methods",
+    "other"
+  ],
+  "summary": "BMJ accepts content where AI was used, provided authors transparently disclose the tool, why, and how it was used. AI cannot be an author and humans remain responsible for accuracy and attribution. Reviewers may use AI for language improvement if they declare it, but must not put unpublished manuscripts into publicly available AI tools where confidentiality can't be guaranteed.",
+  "evidence": [
+    {
+      "field": "author_use",
+      "quote": "BMJ will consider content where AI technologies are used. Our approach is one of transparency."
+    },
+    {
+      "field": "disclosure_required",
+      "quote": "We expect authors or others who are creating content to disclose and describe use of AI technologies"
+    },
+    {
+      "field": "ai_as_author",
+      "quote": "AI technologies will not be accepted as an author(s) of any content submitted to BMJ for publication."
+    },
+    {
+      "field": "ai_images",
+      "quote": "photographs and other images or illustrative materials"
+    },
+    {
+      "field": "reviewer_use",
+      "quote": "If reviewers use AI technology to improve word processing and language, they should declare this when submitting their reports."
+    },
+    {
+      "field": "reviewer_upload",
+      "quote": "not putting unpublished manuscripts that they are reviewing for BMJ Journals (or information about them) into publicly available AI tools"
+    }
+  ],
+  "page_last_updated": "",
+  "confidence": "medium",
+  "is_ai_policy": true,
+  "source_id": "P-BMJ",
+  "content_hash": "f0bdbb69093c0d35",
+  "extracted_at": "2026-10-17T12:53:39+00:00",
+  "model": "claude-sonnet-5-5"
+}

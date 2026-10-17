@@ -1,13 +1,13 @@
 {
   "author_use": "allowed_with_conditions",
-  "disclosure_required": "yes",
+  "disclosure_required": "partial",
   "ai_as_author": "prohibited",
-  "ai_images": "allowed_with_conditions",
+  "ai_images": "not_stated",
   "reviewer_use": "allowed_with_conditions",
   "reviewer_upload": "allowed_with_conditions",
   "editor_use": "allowed_with_conditions",
   "disclosure_location": [],
-  "summary": "Springer Nature uses a green/amber/red risk framework for AI across authors, reviewers and editors. Low-risk assistive use (e.g. language polishing) is permitted, higher-risk evaluative use needs human oversight and disclosure, and opaque use, fabrication, AI authorship, delegating peer review to AI, and photorealistic deepfake images are not permitted. Reviewers may use AI to support review but must not upload manuscript content to unsecured or public AI tools.",
+  "summary": "Springer Nature uses a green/amber/red risk framework for AI across authors, reviewers and editors. Low-risk assistive uses such as language polishing are permitted, with disclosure encouraged. Interpretive uses are permitted only with human oversight, verification and disclosure. Uses that replace human judgement, are undisclosed, fabricate content, list AI as an author or delegate peer review to AI are not permitted. Reviewers must not upload manuscript content to unsecured or public AI tools.",
   "evidence": [
     {
       "field": "author_use",
@@ -22,27 +22,23 @@
       "quote": "Assigning authorship or accountability to AI systems or tools"
     },
     {
-      "field": "ai_images",
-      "quote": "Creating photorealistic images (deepfakes)"
-    },
-    {
       "field": "reviewer_use",
       "quote": "May use AI to support peer review but must not upload manuscript content to unsecured or public AI tools"
     },
     {
       "field": "reviewer_upload",
-      "quote": "Manuscripts, peer review reports, and sensitive data must not be shared with unsecured or public AI systems."
+      "quote": "May use AI to support peer review but must not upload manuscript content to unsecured or public AI tools"
     },
     {
       "field": "editor_use",
-      "quote": "Apply proportional, risk‑based judgement when assessing AI use"
+      "quote": "The same framework applies across all roles: authors, reviewers and editors."
     }
   ],
   "page_last_updated": "",
   "confidence": "medium",
   "is_ai_policy": true,
   "source_id": "P-SPR",
-  "content_hash": "ac522a0e808e808d",
-  "extracted_at": "2026-10-15T14:29:19+00:00",
+  "content_hash": "4fd4a34e07d7b784",
+  "extracted_at": "2026-10-17T12:50:35+00:00",
   "model": "claude-sonnet-5-5"
 }

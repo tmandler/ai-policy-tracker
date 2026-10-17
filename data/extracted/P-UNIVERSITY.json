@@ -1,0 +1,40 @@
+{
+  "author_use": "allowed_with_conditions",
+  "disclosure_required": "yes",
+  "ai_as_author": "not_stated",
+  "ai_images": "allowed_with_conditions",
+  "reviewer_use": "allowed_with_conditions",
+  "reviewer_upload": "not_stated",
+  "editor_use": "prohibited",
+  "disclosure_location": [],
+  "summary": "UW Press requires authors to disclose any AI use in content published in its books or journals, including text editing, translation, and generation of images, graphics, or charts. The press does not allow generative AI for its in-house work and discourages partners such as peer reviewers from using it, requiring disclosure and justification for exceptions. The policy is under revision and the press has not licensed authors' work for AI training.",
+  "evidence": [
+    {
+      "field": "disclosure_required",
+      "quote": "We require authors to disclose any use of AI tools in the creation of any content published in our books or journals."
+    },
+    {
+      "field": "ai_images",
+      "quote": "This includes, but is not limited to, text editing and translation, as well as the generation of images, graphics, or charts."
+    },
+    {
+      "field": "editor_use",
+      "quote": "We do not allow the use of generative AI to support our in-house activities"
+    },
+    {
+      "field": "reviewer_use",
+      "quote": "we discourage its use by our partners, including peer reviewers and freelance copyeditors, typesetters, and graphic designers"
+    },
+    {
+      "field": "reviewer_use",
+      "quote": "We require disclosure of and justification for any exceptions."
+    }
+  ],
+  "page_last_updated": "",
+  "confidence": "medium",
+  "is_ai_policy": true,
+  "source_id": "P-UNIVERSITY",
+  "content_hash": "5f86eb24aae8835c",
+  "extracted_at": "2026-10-17T12:53:35+00:00",
+  "model": "claude-sonnet-5-5"
+}

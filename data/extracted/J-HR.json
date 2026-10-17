@@ -1,0 +1,36 @@
+{
+  "author_use": "allowed_with_conditions",
+  "disclosure_required": "yes",
+  "ai_as_author": "not_stated",
+  "ai_images": "not_stated",
+  "reviewer_use": "not_stated",
+  "reviewer_upload": "not_stated",
+  "editor_use": "not_stated",
+  "disclosure_location": [
+    "cover_letter",
+    "submission_system",
+    "dedicated_statement"
+  ],
+  "summary": "Authors may use AI only for copy editing or proofing. All AI use must be declared during submission and explained in detail in the cover letter, not in the manuscript itself. If accepted, authors provide an AI usage statement for the published article, and undisclosed AI use can lead to rejection or retraction.",
+  "evidence": [
+    {
+      "field": "author_use",
+      "quote": "Human Relations allows AI usage only for copy editing or proofing purposes."
+    },
+    {
+      "field": "disclosure_required",
+      "quote": "AI usage must be declared during the manuscript submission process."
+    },
+    {
+      "field": "disclosure_required",
+      "quote": "The manuscript should not contain AI usage declaration."
+    }
+  ],
+  "page_last_updated": "",
+  "confidence": "high",
+  "is_ai_policy": true,
+  "source_id": "J-HR",
+  "content_hash": "57c7a603b5ba7f7e",
+  "extracted_at": "2026-10-17T12:52:26+00:00",
+  "model": "claude-sonnet-5-5"
+}

@@ -7,22 +7,21 @@
   "reviewer_upload": "allowed_with_conditions",
   "editor_use": "not_stated",
   "disclosure_location": [
-    "submission_system",
-    "cover_letter"
+    "submission_system"
   ],
-  "summary": "AI tools such as chatbots cannot be listed as authors. Authors who use AI in preparing a manuscript, including drafting or editing text, must briefly describe that use during submission and are fully accountable for fact-checking AI outputs. Reviewers must base their reports on their own reading, may use only AI tools that guarantee manuscripts are not used for training, and must disclose any use in their cover letter.",
+  "summary": "AI tools such as chatbots cannot be listed as authors. Authors who use AI in preparing a manuscript, including drafting or editing text, must briefly describe that use during submission and are fully accountable for fact-checking the output. Reviewers must write their own reports; any AI use must be disclosed in the cover letter and limited to tools that guarantee the manuscript won't be used for AI training.",
   "evidence": [
     {
       "field": "ai_as_author",
       "quote": "may not be listed as an author"
     },
     {
-      "field": "disclosure_required",
-      "quote": "this must be briefly described during the submission process"
-    },
-    {
       "field": "author_use",
       "quote": "Authors are solely accountable for, and must thoroughly fact-check, outputs created with the help of AI software."
+    },
+    {
+      "field": "disclosure_required",
+      "quote": "this must be briefly described during the submission process"
     },
     {
       "field": "reviewer_use",
@@ -37,7 +36,7 @@
   "confidence": "high",
   "is_ai_policy": true,
   "source_id": "P-AEA",
-  "content_hash": "569e584a06689e75",
-  "extracted_at": "2026-10-15T14:29:41+00:00",
+  "content_hash": "71a2358cb8df683b",
+  "extracted_at": "2026-10-17T12:50:47+00:00",
   "model": "claude-sonnet-5-5"
 }

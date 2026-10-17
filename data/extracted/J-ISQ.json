@@ -1,0 +1,40 @@
+{
+  "author_use": "allowed_with_conditions",
+  "disclosure_required": "yes",
+  "ai_as_author": "prohibited",
+  "ai_images": "not_stated",
+  "reviewer_use": "prohibited",
+  "reviewer_upload": "not_stated",
+  "editor_use": "not_stated",
+  "disclosure_location": [
+    "cover_letter",
+    "methods",
+    "acknowledgements"
+  ],
+  "summary": "Authors may use AI tools but must give detailed disclosure at submission, naming the tool, where it was used, and roughly how much of the writing relied on it. The statement goes in the cover letter and also in the manuscript, likely in Methods or Acknowledgements. AI cannot be listed as an author, manuscripts compiled exclusively by AI are not reviewed or accepted, and reviewers should not use AI tools.",
+  "evidence": [
+    {
+      "field": "disclosure_required",
+      "quote": "Detailed statements of the exact use of AI tools must be disclosed by human authors at the point of submission"
+    },
+    {
+      "field": "ai_as_author",
+      "quote": "AI tools do not qualify as authors, because they cannot be accountable for the published work."
+    },
+    {
+      "field": "reviewer_use",
+      "quote": "Reviewers should not use AI tools in the review process."
+    },
+    {
+      "field": "author_use",
+      "quote": "ISA editors are not reviewing or accepting manuscripts compiled exclusively by an AI tool at this time."
+    }
+  ],
+  "page_last_updated": "June 11, 2023",
+  "confidence": "high",
+  "is_ai_policy": true,
+  "source_id": "J-ISQ",
+  "content_hash": "267d4e38e6cbb76c",
+  "extracted_at": "2026-10-17T12:52:41+00:00",
+  "model": "claude-sonnet-5-5"
+}

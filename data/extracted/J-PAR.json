@@ -1,0 +1,52 @@
+{
+  "author_use": "allowed_with_conditions",
+  "disclosure_required": "partial",
+  "ai_as_author": "prohibited",
+  "ai_images": "not_stated",
+  "reviewer_use": "allowed_with_conditions",
+  "reviewer_upload": "prohibited",
+  "editor_use": "allowed_with_conditions",
+  "disclosure_location": [
+    "methods",
+    "acknowledgements",
+    "dedicated_statement"
+  ],
+  "summary": "Authors may use generative AI tools but must describe any use in detail in the Methods section (or a disclosure/Acknowledgements), take full responsibility for accuracy, and never use AI to create or alter research data. Spelling, grammar and general editing tools are excluded. AI cannot be an author. Editors and reviewers may use AI only to improve the wording of review reports, with declaration to the handling editor, and must not upload manuscripts into AI tools.",
+  "evidence": [
+    {
+      "field": "author_use",
+      "quote": "The author is fully responsible for the accuracy of any information provided by the tool"
+    },
+    {
+      "field": "disclosure_required",
+      "quote": "its use must be described, transparently and in detail, in the Methods section"
+    },
+    {
+      "field": "disclosure_required",
+      "quote": "Tools that are used to improve spelling, grammar, and general editing are not included in the scope of these guidelines."
+    },
+    {
+      "field": "ai_as_author",
+      "quote": "these tools cannot fulfil the role of, nor be listed as, an author of an article."
+    },
+    {
+      "field": "reviewer_use",
+      "quote": "A GenAI tool can be used by an editor or peer reviewer to improve the quality of the written feedback"
+    },
+    {
+      "field": "reviewer_upload",
+      "quote": "editors or peer reviewers should not upload manuscripts (or any parts of manuscripts including figures and tables) into GenAI tools or services."
+    },
+    {
+      "field": "editor_use",
+      "quote": "GenAI tools should be used only on a limited basis in connection with peer review."
+    }
+  ],
+  "page_last_updated": "",
+  "confidence": "high",
+  "is_ai_policy": true,
+  "source_id": "J-PAR",
+  "content_hash": "90421bc27904d554",
+  "extracted_at": "2026-10-17T12:51:26+00:00",
+  "model": "claude-sonnet-5-5"
+}

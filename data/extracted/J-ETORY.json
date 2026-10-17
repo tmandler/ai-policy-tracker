@@ -1,0 +1,24 @@
+{
+  "author_use": "not_stated",
+  "disclosure_required": "not_stated",
+  "ai_as_author": "not_stated",
+  "ai_images": "not_stated",
+  "reviewer_use": "not_stated",
+  "reviewer_upload": "not_stated",
+  "editor_use": "allowed_with_conditions",
+  "disclosure_location": [],
+  "summary": "The page only addresses AI on the publisher side: Cambridge may use in-house or third-party tools, including AI, to process manuscripts, and such tools will not train on submission data. Where AI is used in the editorial process, a human makes the editorial decisions. The page says nothing about authors' or reviewers' use of generative AI.",
+  "evidence": [
+    {
+      "field": "editor_use",
+      "quote": "Where AI and other tools are used in the editorial process between submission and acceptance, editorial decisions will be made by a human"
+    }
+  ],
+  "page_last_updated": "",
+  "confidence": "medium",
+  "is_ai_policy": true,
+  "source_id": "J-ETORY",
+  "content_hash": "46fe987f565e1a71",
+  "extracted_at": "2026-10-17T12:52:09+00:00",
+  "model": "claude-sonnet-5-5"
+}

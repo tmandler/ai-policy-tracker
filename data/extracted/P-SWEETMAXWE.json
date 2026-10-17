@@ -1,0 +1,30 @@
+{
+  "author_use": "not_stated",
+  "disclosure_required": "yes",
+  "ai_as_author": "not_stated",
+  "ai_images": "not_stated",
+  "reviewer_use": "not_stated",
+  "reviewer_upload": "not_stated",
+  "editor_use": "not_stated",
+  "disclosure_location": [
+    "dedicated_statement"
+  ],
+  "summary": "Public Law requires every submission, in all sections, to include an AI Disclosure Statement, even when no AI was used. The journal has a separate Statement on Research Integrity and the Use of Artificial Intelligence, but its text is not on this page, so rules on permitted uses, images, authorship, reviewers and editors cannot be determined here.",
+  "evidence": [
+    {
+      "field": "disclosure_required",
+      "quote": "must now be accompanied by an AI Disclosure Statement, even if AI has not been used"
+    },
+    {
+      "field": "disclosure_required",
+      "quote": "All contributions must contain original, unpublished work which are not being submitted for publication elsewhere, and must be accompanied by an AI Disclosure Statement."
+    }
+  ],
+  "page_last_updated": "",
+  "confidence": "medium",
+  "is_ai_policy": true,
+  "source_id": "P-SWEETMAXWE",
+  "content_hash": "2d966fd2af9bb21f",
+  "extracted_at": "2026-10-17T12:53:12+00:00",
+  "model": "claude-sonnet-5-5"
+}

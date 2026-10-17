@@ -7,7 +7,7 @@
   "reviewer_upload": "prohibited",
   "editor_use": "not_stated",
   "disclosure_location": [],
-  "summary": "The AMA page defers its generative AI policy to Sage Publications' AI policy and gives no author-facing AI rules itself. The only explicit AI rule on the page is that review team members may not enter any part of a manuscript into generative AI.",
+  "summary": "The AMA page defers its generative AI policy to Sage Publications' AI policy and gives no author-facing rules of its own. The only explicit AI rule on the page is that review team members may not enter any part of a manuscript into generative AI.",
   "evidence": [
     {
       "field": "reviewer_upload",
@@ -22,7 +22,7 @@
   "confidence": "medium",
   "is_ai_policy": true,
   "source_id": "S-AMA",
-  "content_hash": "c2888e532c313bff",
-  "extracted_at": "2026-10-15T14:29:53+00:00",
+  "content_hash": "32b37f59a6861fef",
+  "extracted_at": "2026-10-17T12:50:54+00:00",
   "model": "claude-sonnet-5-5"
 }

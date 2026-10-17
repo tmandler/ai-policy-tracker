@@ -1,0 +1,31 @@
+{
+  "author_use": "allowed_with_conditions",
+  "disclosure_required": "yes",
+  "ai_as_author": "not_stated",
+  "ai_images": "not_stated",
+  "reviewer_use": "not_stated",
+  "reviewer_upload": "not_stated",
+  "editor_use": "not_stated",
+  "disclosure_location": [
+    "cover_letter",
+    "acknowledgements"
+  ],
+  "summary": "Work submitted to AOM must be created by the authors rather than by AI tools, unless AI use is appropriate to the research question and properly cited. Authors must openly disclose any AI use in the cover letter and the article acknowledgements, and confirm they have read and understood AOM's AI policy. The page does not address AI authorship, images, or AI use by reviewers or editors.",
+  "evidence": [
+    {
+      "field": "author_use",
+      "quote": "must be created by the authors and not the product of artificial intelligence tools unless appropriate to the research question and is properly cited"
+    },
+    {
+      "field": "disclosure_required",
+      "quote": "Authors must be transparent in disclosing any AI use in the manuscript cover letter and in the article acknowledgements."
+    }
+  ],
+  "page_last_updated": "",
+  "confidence": "high",
+  "is_ai_policy": true,
+  "source_id": "J-AMP",
+  "content_hash": "24770d4f784c57e5",
+  "extracted_at": "2026-10-17T12:51:29+00:00",
+  "model": "claude-sonnet-5-5"
+}

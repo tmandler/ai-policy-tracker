@@ -7,11 +7,11 @@
   "reviewer_upload": "prohibited",
   "editor_use": "allowed_with_conditions",
   "disclosure_location": [
-    "dedicated_statement",
     "methods",
+    "dedicated_statement",
     "other"
   ],
-  "summary": "Authors may use AI tools to support manuscript preparation with human oversight and must include a separate AI declaration in the manuscript, except for basic grammar/spelling checks and disability-related assistive uses. AI cannot be an author, and AI images are allowed only for explanatory figures, data-derived visualizations, and approved cover art; primary research images and graphical abstracts from general-purpose generative AI are not allowed. Reviewers and editors may use AI only in a supportive capacity with private tools and must never upload manuscript content; reviewers must disclose their AI use.",
+  "summary": "Authors may use AI tools in a supportive way with human oversight and must include a separate AI declaration statement in the manuscript, though basic grammar/spelling checks and accessibility tools are exempt. AI cannot be an author, and AI images are allowed only for explanatory figures and data-derived visualizations, not primary research images. Reviewers and editors may use AI only in a supportive capacity and must not upload manuscripts into AI tools.",
   "evidence": [
     {
       "field": "author_use",
@@ -46,7 +46,7 @@
   "confidence": "high",
   "is_ai_policy": true,
   "source_id": "P-ELS",
-  "content_hash": "2e2b6a17a5c04b80",
-  "extracted_at": "2026-10-15T14:28:50+00:00",
+  "content_hash": "e52563297a296d07",
+  "extracted_at": "2026-10-17T12:50:12+00:00",
   "model": "claude-sonnet-5-5"
 }

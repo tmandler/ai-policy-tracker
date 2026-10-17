@@ -1,0 +1,43 @@
+{
+  "author_use": "allowed_with_conditions",
+  "disclosure_required": "yes",
+  "ai_as_author": "prohibited",
+  "ai_images": "allowed_with_conditions",
+  "reviewer_use": "not_stated",
+  "reviewer_upload": "not_stated",
+  "editor_use": "not_stated",
+  "disclosure_location": [
+    "acknowledgements",
+    "other"
+  ],
+  "summary": "Authors may use generative AI to check content completeness and improve readability, but it must not replace experts in producing the outline or first draft (text and figures). Authors must fact-check AI output, take full responsibility, and disclose any AI use in the Acknowledgments and where relevant (e.g., figure captions). AI cannot be an author, and Annual Reviews screens submissions with an AI-text detection tool. The page does not address AI use by reviewers or editors.",
+  "evidence": [
+    {
+      "field": "author_use",
+      "quote": "should not replace expert authors in initial generation of the article outline/précis and first draft (including text and figures)"
+    },
+    {
+      "field": "author_use",
+      "quote": "Authors must fact-check outputs created with the assistance of AI tools and take full responsibility"
+    },
+    {
+      "field": "disclosure_required",
+      "quote": "this usage must be noted in an Acknowledgments section as well as where pertinent in the article"
+    },
+    {
+      "field": "ai_images",
+      "quote": "in the figure caption if AI is used to create a figure"
+    },
+    {
+      "field": "ai_as_author",
+      "quote": "AI tools cannot be listed as authors of articles"
+    }
+  ],
+  "page_last_updated": "",
+  "confidence": "high",
+  "is_ai_policy": true,
+  "source_id": "P-ANNUALREVI",
+  "content_hash": "2309810585b331ed",
+  "extracted_at": "2026-10-17T12:51:17+00:00",
+  "model": "claude-sonnet-5-5"
+}

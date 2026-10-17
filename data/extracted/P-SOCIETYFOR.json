@@ -1,0 +1,56 @@
+{
+  "author_use": "allowed_with_conditions",
+  "disclosure_required": "partial",
+  "ai_as_author": "prohibited",
+  "ai_images": "allowed_with_conditions",
+  "reviewer_use": "allowed_with_conditions",
+  "reviewer_upload": "prohibited",
+  "editor_use": "allowed_with_conditions",
+  "disclosure_location": [
+    "acknowledgements",
+    "other",
+    "submission_system"
+  ],
+  "summary": "SIAM lets authors use AI tools responsibly, provided use is reported in the Acknowledgements or Declarations section with a statement that the authors assume responsibility for all content. Grammar checking generally need not be disclosed. Authors must be human. Referees may not share manuscripts with generative AI tools and must do the core review work themselves. Editors face the same ban unless the VP of Publications and the corresponding author both give explicit permission.",
+  "evidence": [
+    {
+      "field": "author_use",
+      "quote": "Authors who use AI tools must do so responsibly."
+    },
+    {
+      "field": "disclosure_required",
+      "quote": "Usage of AI tools must be reported in either the “Acknowledgements” or “Declarations” section"
+    },
+    {
+      "field": "disclosure_required",
+      "quote": "Generally, grammar checking need not be disclosed."
+    },
+    {
+      "field": "ai_as_author",
+      "quote": "Authors must be human and able to directly defend all aspects of the submission."
+    },
+    {
+      "field": "ai_images",
+      "quote": "Authors should ensure all figures are produced by verifiable, reproducible processes."
+    },
+    {
+      "field": "reviewer_upload",
+      "quote": "SIAM referees are not permitted to share papers under review with generative AI tools in any form"
+    },
+    {
+      "field": "reviewer_use",
+      "quote": "Referees must personally carry out the core refereeing tasks and must not present AI-generated material as their own expert opinion."
+    },
+    {
+      "field": "editor_use",
+      "quote": "The same prohibition against sharing papers under review with generative AI tools applies to editors, with exceptions only if"
+    }
+  ],
+  "page_last_updated": "Version 2.0 — Effective May 2026",
+  "confidence": "medium",
+  "is_ai_policy": true,
+  "source_id": "P-SOCIETYFOR",
+  "content_hash": "4198662ac8cc0b6c",
+  "extracted_at": "2026-10-17T12:53:47+00:00",
+  "model": "claude-sonnet-5-5"
+}

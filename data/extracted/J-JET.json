@@ -1,0 +1,50 @@
+{
+  "author_use": "allowed_with_conditions",
+  "disclosure_required": "partial",
+  "ai_as_author": "prohibited",
+  "ai_images": "allowed_with_conditions",
+  "reviewer_use": "allowed_with_conditions",
+  "reviewer_upload": "prohibited",
+  "editor_use": "allowed_with_conditions",
+  "disclosure_location": [
+    "dedicated_statement"
+  ],
+  "summary": "Authors may use generative AI tools with human oversight and must declare their use in a dedicated statement placed before the reference list at first submission. Basic grammar, spelling and reference checkers and accessibility-only assistive tools need no disclosure. AI cannot be listed as an author, and AI may not create or alter primary research images. Editors and reviewers may not upload unpublished manuscripts into generative AI tools, but may use AI in a supportive capacity to improve the language of reports or to do background literature searches.",
+  "evidence": [
+    {
+      "field": "author_use",
+      "quote": "AI tools may only be applied with human oversight and control."
+    },
+    {
+      "field": "disclosure_required",
+      "quote": "The declaration does not apply to the use of basic tools, such as tools used to check grammar, spelling, and references."
+    },
+    {
+      "field": "ai_as_author",
+      "quote": "authors must not list or cite AI tools as an author or co-author on the manuscript"
+    },
+    {
+      "field": "ai_images",
+      "quote": "AI tools must not be used to create or alter images that represent primary observed or experimental data"
+    },
+    {
+      "field": "reviewer_upload",
+      "quote": "this journal does not currently allow academic editors and reviewers to upload an unpublished manuscript into a generative AI tool"
+    },
+    {
+      "field": "reviewer_use",
+      "quote": "AI tools may be used in a supportive capacity by editors and reviewers to improve structure and language of the review report"
+    },
+    {
+      "field": "editor_use",
+      "quote": "AI tools may be used in a supportive capacity by editors and reviewers to improve structure and language of the review report or editorial decision letter"
+    }
+  ],
+  "page_last_updated": "",
+  "confidence": "high",
+  "is_ai_policy": true,
+  "source_id": "J-JET",
+  "content_hash": "72e84eed11acc2e8",
+  "extracted_at": "2026-10-17T12:52:58+00:00",
+  "model": "claude-sonnet-5-5"
+}

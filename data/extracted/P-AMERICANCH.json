@@ -1,0 +1,48 @@
+{
+  "author_use": "allowed_with_conditions",
+  "disclosure_required": "yes",
+  "ai_as_author": "prohibited",
+  "ai_images": "allowed_with_conditions",
+  "reviewer_use": "not_stated",
+  "reviewer_upload": "prohibited",
+  "editor_use": "not_stated",
+  "disclosure_location": [
+    "acknowledgements",
+    "methods",
+    "other"
+  ],
+  "summary": "Authors may use AI tools if they do so transparently and take responsibility for the accuracy of the content. All AI use must be disclosed in the Acknowledgments (with fuller detail in Methods for substantial use), and AI cannot be listed as an author. AI images need a caption description, are allowed on journal covers, but not in ToC graphics. Reviewers may not share any part of a submission or review report with AI tools, and editors may reject manuscripts with excessive AI use.",
+  "evidence": [
+    {
+      "field": "disclosure_required",
+      "quote": "All use of AI tools should be disclosed within the submission."
+    },
+    {
+      "field": "author_use",
+      "quote": "Authors are responsible for all submitted content including the accuracy of AI-generated content"
+    },
+    {
+      "field": "ai_as_author",
+      "quote": "AI tools should not be included in the authorship list."
+    },
+    {
+      "field": "ai_images",
+      "quote": "AI-generated images should not be used within Table of Contents (ToC) graphics"
+    },
+    {
+      "field": "ai_images",
+      "quote": "The use of AI tools for image generation in cover artwork is permitted but should be disclosed"
+    },
+    {
+      "field": "reviewer_upload",
+      "quote": "Disclosing any part of the submission or the peer review report itself to a text generation service"
+    }
+  ],
+  "page_last_updated": "December 13, 2024",
+  "confidence": "high",
+  "is_ai_policy": true,
+  "source_id": "P-AMERICANCH",
+  "content_hash": "8a002db4626a792e",
+  "extracted_at": "2026-10-17T12:53:19+00:00",
+  "model": "claude-sonnet-5-5"
+}

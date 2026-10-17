@@ -1,0 +1,42 @@
+{
+  "author_use": "allowed_with_conditions",
+  "disclosure_required": "partial",
+  "ai_as_author": "prohibited",
+  "ai_images": "allowed_with_conditions",
+  "reviewer_use": "not_stated",
+  "reviewer_upload": "not_stated",
+  "editor_use": "not_stated",
+  "disclosure_location": [
+    "methods"
+  ],
+  "summary": "ACM permits authors to use AI and embraces the technology, but holds all named authors accountable for any problematic content. Use of AI in conducting research, including creating code, datasets, charts or figures, must be described in detail in the methods section. Disclosure of AI used only to help with writing is no longer required. The page does not address reviewer or editor use of AI.",
+  "evidence": [
+    {
+      "field": "author_use",
+      "quote": "ACM embraces any new technologies that have the potential to improve the efficiency and productivity of the research enterprise"
+    },
+    {
+      "field": "disclosure_required",
+      "quote": "ACM no longer requires the disclosure of information regarding the use of AI"
+    },
+    {
+      "field": "disclosure_required",
+      "quote": "the specific use(s) of AI tools must be described in detail in the methods section of the Work"
+    },
+    {
+      "field": "ai_as_author",
+      "quote": "They are an identifiable human being."
+    },
+    {
+      "field": "ai_images",
+      "quote": "charts or figures that rely on the AI tools"
+    }
+  ],
+  "page_last_updated": "May 14, 2026",
+  "confidence": "high",
+  "is_ai_policy": true,
+  "source_id": "P-ASSOCIATIO",
+  "content_hash": "18f3c46b95b10b7d",
+  "extracted_at": "2026-10-17T12:53:06+00:00",
+  "model": "claude-sonnet-5-5"
+}
